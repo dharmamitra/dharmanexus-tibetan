@@ -1,45 +1,45 @@
-segmentnr	original	stemmed
-BO_T02_D2395:23b-0	@23b # // rgya gar skad du /	rgya gar skad du 
-BO_T02_D2395:23b-1	tsitta tsi ti la sha pa no p'a yam /	tsitta tsi ti la sha ba no pa yam 
-BO_T02_D2395:23b-2	bod skad du /	bod skad du 
-BO_T02_D2395:23b-3	sems dang sems nyid 'dul ba'i thabs zhes bya ba /	sems dang sems nyid dul ba thabs zhes byed ba 
-BO_T02_D2395:23b-4	dpal he ru ka la phyag 'tshal lo //	dpal he ru ka la phyag tshal lo 
-BO_T02_D2395:23b-5	spu mdog sna tshogs ri dags te //	spu mdog sna tshogs ri dags te 
-BO_T02_D2395:23b-6	rkang pas rdeg cing phyogs bzhir 'gro //	rkang ba rdeg cing phyogs bzhir gro 
-BO_T02_D2395:23b-7	brdas nas nam mkhar bsad par byas //	brda nas nam mkhar bsad ba byed 
-BO_T02_D2395:23b-8	rang gi sha yis rang lus la //	rang gi sha yis rang lus la 
-BO_T02_D2395:23b-9	rnam pa kun du dgra ru song //	rnam ba kun du dgra ru gro 
-BO_T02_D2395:23b-10	bhu su ku yi rngon pa yis //	bhu su ku yi rngon ba yis 
-BO_T02_D2395:24a-0	skad @24a * //	skad 
-BO_T02_D2395:24a-1	cig gcig kyang gtong pa med //	cig gcig kyang gtong ba med 
-BO_T02_D2395:24a-2	ri dags mo ni pho la smra //	ri dags mo ni pho la smra 
-BO_T02_D2395:24a-3	nags su gnas na bde bar 'dug / de nas byung nas gsod par byed //	nags su gnas na bde ba dug de nas byung nas gsod ba byed 
-BO_T02_D2395:24a-4	rang gi sha yis rang lus la //	rang gi sha yis rang lus la 
-BO_T02_D2395:24a-5	rnam pa kun du dgra ru song //	rnam ba kun du dgra ru gro 
-BO_T02_D2395:24a-6	bhu su ku yi rngon pa yis //	bhu su ku yi rngon ba yis 
-BO_T02_D2395:24a-7	skad cig gcig kyang gtong ba med ;	skad cig gcig kyang gtong ba med 
-BO_T02_D2395:24a-8	/ pho ni mo la 'di skad smra //	pho ni mo la di skad smra 
-BO_T02_D2395:24a-9	su la bdag gis gnod ma byas //	su la bdag gis gnod ma byed 
-BO_T02_D2395:24a-10	ci yang bdag gis zos pa med //	ci yang bdag gis zos ba med 
-BO_T02_D2395:24a-11	su la'ang gnod pa ma byas na //	su la gnod ba ma byed na 
-BO_T02_D2395:24a-12	ci yis phyir na sod cig smra //	ci yis phyir na sod cig smra 
-BO_T02_D2395:24a-13	rang gi sha yis rang lus la //	rang gi sha yis rang lus la 
-BO_T02_D2395:24a-14	rnam pa kun tu dgra ru song //	rnam ba kun tu dgra ru gro 
-BO_T02_D2395:24a-15	bhu su ku yi rngon pa yis //	bhu su ku yi rngon ba yis 
-BO_T02_D2395:24a-16	skad cig gcig /	skad cig gcig 
-BO_T02_D2395:24a-17	kyang gtong pa med //	kyang gtong ba med 
-BO_T02_D2395:24a-18	rtsva dang chu la mi gnod pa'i //	rtsva dang chu la mi gnod ba 
-BO_T02_D2395:24a-19	gang du gnas kyang ltogs pa med //	gang du gnas kyang ltogs ba med 
-BO_T02_D2395:24a-20	rtag tu btsal kyang ma rnyed pa'i //	rtag tu btsal kyang ma rnyed ba 
-BO_T02_D2395:24a-21	ri dags pho mo 'di gnyis ni //	ri dags pho mo di gnyis ni 
-BO_T02_D2395:24a-22	bdag gis rnyed par ma gyur to //	bdag gis rnyed ba ma gyur to 
-BO_T02_D2395:24a-23	rang gi sha yis rang lus la //	rang gi sha yis rang lus la 
-BO_T02_D2395:24a-24	rnam pa kun du dgra ru song //	rnam ba kun du dgra ru gro 
-BO_T02_D2395:24a-25	bhu su ku yi rngon pa yis //	bhu su ku yi rngon ba yis 
-BO_T02_D2395:24a-26	skad cig gcig kyang gtong ba med //	skad cig gcig kyang gtong ba med 
-BO_T02_D2395:24a-27	rgyug cing 'gro ba'i ri dags ni //	rgyug cing gro ba ri dags ni 
-BO_T02_D2395:24a-28	de yi rjes ni rnyed pa med //	de yi rjes ni rnyed ba med 
-BO_T02_D2395:24a-29	brdas pas nam mkha'i dbyings su stor //	brda ba nam mkha dbyings su stor 
-BO_T02_D2395:24a-30	bhu su ku yi rngon pa yis //	bhu su ku yi rngon ba yis 
-BO_T02_D2395:24a-31	skad cig gcig kyang gtong pa mad //	skad cig gcig kyang gtong ba mad 
-BO_T02_D2395:24a-32	sems dang sems nyid 'dul ba'i man ngag ces bya ba slob dpon sh'anta de ba nas brgyud pa slob dpon me ko las gsungs pa rdzogs so//	sems dang sems nyid dul ba man ngag ces byed ba slob dpon shanta de ba nas brgyud ba slob dpon me ko las gsungs ba rdzogs 
+segmentnr	original	folio	stemmed
+BO_T02_D2395:23b-0	@23b # // rgya gar skad du /	23b	rgya gar skad du 
+BO_T02_D2395:23b-1	tsitta tsi ti la sha pa no p'a yam /	23b	tsitta tsi ti la sha ba no pa yam 
+BO_T02_D2395:23b-2	bod skad du /	23b	bod skad du 
+BO_T02_D2395:23b-3	sems dang sems nyid 'dul ba'i thabs zhes bya ba /	23b	sems dang sems nyid dul ba thabs zhes byed ba 
+BO_T02_D2395:23b-4	dpal he ru ka la phyag 'tshal lo //	23b	dpal he ru ka la phyag tshal lo 
+BO_T02_D2395:23b-5	spu mdog sna tshogs ri dags te //	23b	spu mdog sna tshogs ri dags te 
+BO_T02_D2395:23b-6	rkang pas rdeg cing phyogs bzhir 'gro //	23b	rkang ba rdeg cing phyogs bzhir gro 
+BO_T02_D2395:23b-7	brdas nas nam mkhar bsad par byas //	23b	brda nas nam mkhar bsad ba byed 
+BO_T02_D2395:23b-8	rang gi sha yis rang lus la //	23b	rang gi sha yis rang lus la 
+BO_T02_D2395:23b-9	rnam pa kun du dgra ru song //	23b	rnam ba kun du dgra ru gro 
+BO_T02_D2395:23b-10	bhu su ku yi rngon pa yis //	23b	bhu su ku yi rngon ba yis 
+BO_T02_D2395:24a-0	skad @24a * //	24a	skad 
+BO_T02_D2395:24a-1	cig gcig kyang gtong pa med //	24a	cig gcig kyang gtong ba med 
+BO_T02_D2395:24a-2	ri dags mo ni pho la smra //	24a	ri dags mo ni pho la smra 
+BO_T02_D2395:24a-3	nags su gnas na bde bar 'dug / de nas byung nas gsod par byed //	24a	nags su gnas na bde ba dug de nas byung nas gsod ba byed 
+BO_T02_D2395:24a-4	rang gi sha yis rang lus la //	24a	rang gi sha yis rang lus la 
+BO_T02_D2395:24a-5	rnam pa kun du dgra ru song //	24a	rnam ba kun du dgra ru gro 
+BO_T02_D2395:24a-6	bhu su ku yi rngon pa yis //	24a	bhu su ku yi rngon ba yis 
+BO_T02_D2395:24a-7	skad cig gcig kyang gtong ba med ;	24a	skad cig gcig kyang gtong ba med 
+BO_T02_D2395:24a-8	/ pho ni mo la 'di skad smra //	24a	pho ni mo la di skad smra 
+BO_T02_D2395:24a-9	su la bdag gis gnod ma byas //	24a	su la bdag gis gnod ma byed 
+BO_T02_D2395:24a-10	ci yang bdag gis zos pa med //	24a	ci yang bdag gis zos ba med 
+BO_T02_D2395:24a-11	su la'ang gnod pa ma byas na //	24a	su la gnod ba ma byed na 
+BO_T02_D2395:24a-12	ci yis phyir na sod cig smra //	24a	ci yis phyir na sod cig smra 
+BO_T02_D2395:24a-13	rang gi sha yis rang lus la //	24a	rang gi sha yis rang lus la 
+BO_T02_D2395:24a-14	rnam pa kun tu dgra ru song //	24a	rnam ba kun tu dgra ru gro 
+BO_T02_D2395:24a-15	bhu su ku yi rngon pa yis //	24a	bhu su ku yi rngon ba yis 
+BO_T02_D2395:24a-16	skad cig gcig /	24a	skad cig gcig 
+BO_T02_D2395:24a-17	kyang gtong pa med //	24a	kyang gtong ba med 
+BO_T02_D2395:24a-18	rtsva dang chu la mi gnod pa'i //	24a	rtsva dang chu la mi gnod ba 
+BO_T02_D2395:24a-19	gang du gnas kyang ltogs pa med //	24a	gang du gnas kyang ltogs ba med 
+BO_T02_D2395:24a-20	rtag tu btsal kyang ma rnyed pa'i //	24a	rtag tu btsal kyang ma rnyed ba 
+BO_T02_D2395:24a-21	ri dags pho mo 'di gnyis ni //	24a	ri dags pho mo di gnyis ni 
+BO_T02_D2395:24a-22	bdag gis rnyed par ma gyur to //	24a	bdag gis rnyed ba ma gyur to 
+BO_T02_D2395:24a-23	rang gi sha yis rang lus la //	24a	rang gi sha yis rang lus la 
+BO_T02_D2395:24a-24	rnam pa kun du dgra ru song //	24a	rnam ba kun du dgra ru gro 
+BO_T02_D2395:24a-25	bhu su ku yi rngon pa yis //	24a	bhu su ku yi rngon ba yis 
+BO_T02_D2395:24a-26	skad cig gcig kyang gtong ba med //	24a	skad cig gcig kyang gtong ba med 
+BO_T02_D2395:24a-27	rgyug cing 'gro ba'i ri dags ni //	24a	rgyug cing gro ba ri dags ni 
+BO_T02_D2395:24a-28	de yi rjes ni rnyed pa med //	24a	de yi rjes ni rnyed ba med 
+BO_T02_D2395:24a-29	brdas pas nam mkha'i dbyings su stor //	24a	brda ba nam mkha dbyings su stor 
+BO_T02_D2395:24a-30	bhu su ku yi rngon pa yis //	24a	bhu su ku yi rngon ba yis 
+BO_T02_D2395:24a-31	skad cig gcig kyang gtong pa mad //	24a	skad cig gcig kyang gtong ba mad 
+BO_T02_D2395:24a-32	sems dang sems nyid 'dul ba'i man ngag ces bya ba slob dpon sh'anta de ba nas brgyud pa slob dpon me ko las gsungs pa rdzogs so//	24a	sems dang sems nyid dul ba man ngag ces byed ba slob dpon shanta de ba nas brgyud ba slob dpon me ko las gsungs ba rdzogs 

@@ -1,30 +1,30 @@
-segmentnr	original	stemmed
-BO_T02_D3568:200a-0	@200a # // rgya gar skad du /	rgya gar skad du 
-BO_T02_D3568:200a-1	he badzra kra ma ku ru kulle s'a dha nam /	he badzra kra ma ku ru kulle sa dha nam 
-BO_T02_D3568:200a-2	bod skad du /	bod skad du 
-BO_T02_D3568:200a-3	kye rdo rje'i rim pa'i rigs byed ma'i sgrub thabs /	kye rdo rje rim ba rigs byed ma sgrub thabs 
-BO_T02_D3568:200a-4	ku ru kulle la phyag 'tshal lo //	ku ru kulle la phyag tshal lo 
-BO_T02_D3568:200a-5	dang po rang gi snying gar kha dog dmar po'i zla ba'i dkyil 'khor bsgoms la /	dang po rang gi snying gar kha dog dmar po zla ba dkyil khor sgom la 
-BO_T02_D3568:200a-6	de la hr'i:yig dmar po blta bar bya'o //	de la hr:yig dmar po lta ba byed 
-BO_T02_D3568:200a-7	de nas sdig pa bshags pa la sogs pa bya'o //	de nas sdig ba chags ba la sogs ba byed 
-BO_T02_D3568:200a-8	phyi nas stong pa nyid bsgom par bya'o //	phyi nas stong ba nyid bsgom ba byed 
-BO_T02_D3568:200a-9	'dir rnal 'byor pas stong pa nyid la gnas nas ram yig las mdun du nyi ma rnam par bsgoms la ;	dir rnal byor ba stong ba nyid la gnas nas ram yig las mdun du nyi ma rnam ba sgom la 
-BO_T02_D3568:200a-10	de'i steng du h'um yig kha dog nag po 'od zer dang ldan pa bsgom par bya'o //	de steng du hum yig kha dog nag po d zer dang ldan ba bsgom ba byed 
-BO_T02_D3568:200a-11	de yongs su gyur pa las sna tshogs rdo rje'o //	de yongs su gyur ba las sna tshogs rdo rje 
-BO_T02_D3568:200a-12	de yongs su gyur pa las rdo rje'i rang bzhin gyis gzhi dang / rdo rje'i rab dang / rdo rje'i gur bcings nas aom raksha raksha h'um h'um h'um phat phat phat sv'a h'a /	de yongs su gyur ba las rdo rje rang bzhin gyis gzhi dang rdo rje rab dang rdo rje gur ching nas aom raksha raksha hum hum hum phat phat phat sva ha 
-BO_T02_D3568:200b-0	phyi nas @200b rnal 'byor pas padma dmar po'o //	phyi nas rnal byor ba padma dmar po 
-BO_T02_D3568:200b-1	de'i steng du zla ba'i dkyil 'khor ro //	de steng du zla ba dkyil khor ro 
-BO_T02_D3568:200b-2	de'i steng du hr'i:yig dmar po yongs su gyur pa las autpa la dmar po'o //	de steng du hr:yig dmar po yongs su gyur ba las autpa la dmar po 
-BO_T02_D3568:200b-3	de'i steng du slar yang zla ba'i dkyil 'khor ro //	de steng du slar yang zla ba dkyil khor ro 
-BO_T02_D3568:200b-4	de yongs su gyur pa las ku ru kuller bdag nyid bsam par bya ste /	de yongs su gyur ba las ku ru kuller bdag nyid bsam ba byed ste 
-BO_T02_D3568:200b-5	skyil krung phyed pa'i gar stabs kyis bzhugs pa gzhon zhing rked pa la stag gi pags pa'i sham thabs mnabs pa /	skyil krung phyed ba gar stabs kyis bzhugs ba gzhon zhing rked ba la stag gi pags ba sham thabs nab ba 
-BO_T02_D3568:200b-6	phyag rgya lngas rnam par brgyan pa /	phyag rgya lngas rnam ba rgyan ba 
-BO_T02_D3568:200b-7	skra dmar ser gyen du brdzes pa mgon po 'od dpag tu med pas dbu brgyan pa /	skra dmar ser gyen du brdzes ba mgon po d dpog tu med ba dbu rgyan ba 
-BO_T02_D3568:200b-8	phyag na mda' gzhu dang de bzhin du autpa la bsnams pa'o //	phyag na mda gzhu dang de bzhin du autpa la snom ba 
-BO_T02_D3568:200b-9	'dir gnas nges pa med cing zas kyang nges pa med la /	dir gnas nges ba med cing zas kyang nges ba med la 
-BO_T02_D3568:200b-10	'dir sngags bzlas shing bya ba dang ldan pas so //	dir sngags bzlas shing byed ba dang ldan ba so 
-BO_T02_D3568:200b-11	ji lta ba bzhin du 'ga' zhig gis kyang mi shes te de bzhin du bsgrub par bya'o //	ji lta ba bzhin du ga jig gis kyang mi shes te de bzhin du sgrub ba byed 
-BO_T02_D3568:200b-12	aom ku ru kulle hr'i:sv'a h'a /	aom ku ru kulle hr:sva ha 
-BO_T02_D3568:200b-13	zla ba phyed du khri phrag gcig gis rgyal bo dang / skye dgu'i 'jig rten dbang du 'gyur ro //	zla ba phyed du khri phrag gcig gis rgyal bo dang skye dgu jig rten dbang du gyur ro 
-BO_T02_D3568:200b-14	bye bas dud 'gro dang gnod sbyin la sogs pa dang / 'bum phrag bdun gyis lha ma yin rnams kyang ngo //	bye ba dud gro dang gnod sbyin la sogs ba dang bum phrag bdun gyis lha ma yin rnams kyang ngo 
-BO_T02_D3568:200b-15	kye'i rdo rje'i rim pa'i ku ru kulle'i sgrub thabs rdzogs so//	kye rdo rje rim ba ku ru kulle sgrub thabs rdzogs 
+segmentnr	original	folio	stemmed
+BO_T02_D3568:200a-0	@200a # // rgya gar skad du /	200a	rgya gar skad du 
+BO_T02_D3568:200a-1	he badzra kra ma ku ru kulle s'a dha nam /	200a	he badzra kra ma ku ru kulle sa dha nam 
+BO_T02_D3568:200a-2	bod skad du /	200a	bod skad du 
+BO_T02_D3568:200a-3	kye rdo rje'i rim pa'i rigs byed ma'i sgrub thabs /	200a	kye rdo rje rim ba rigs byed ma sgrub thabs 
+BO_T02_D3568:200a-4	ku ru kulle la phyag 'tshal lo //	200a	ku ru kulle la phyag tshal lo 
+BO_T02_D3568:200a-5	dang po rang gi snying gar kha dog dmar po'i zla ba'i dkyil 'khor bsgoms la /	200a	dang po rang gi snying gar kha dog dmar po zla ba dkyil khor sgom la 
+BO_T02_D3568:200a-6	de la hr'i:yig dmar po blta bar bya'o //	200a	de la hr:yig dmar po lta ba byed 
+BO_T02_D3568:200a-7	de nas sdig pa bshags pa la sogs pa bya'o //	200a	de nas sdig ba chags ba la sogs ba byed 
+BO_T02_D3568:200a-8	phyi nas stong pa nyid bsgom par bya'o //	200a	phyi nas stong ba nyid bsgom ba byed 
+BO_T02_D3568:200a-9	'dir rnal 'byor pas stong pa nyid la gnas nas ram yig las mdun du nyi ma rnam par bsgoms la ;	200a	dir rnal byor ba stong ba nyid la gnas nas ram yig las mdun du nyi ma rnam ba sgom la 
+BO_T02_D3568:200a-10	de'i steng du h'um yig kha dog nag po 'od zer dang ldan pa bsgom par bya'o //	200a	de steng du hum yig kha dog nag po d zer dang ldan ba bsgom ba byed 
+BO_T02_D3568:200a-11	de yongs su gyur pa las sna tshogs rdo rje'o //	200a	de yongs su gyur ba las sna tshogs rdo rje 
+BO_T02_D3568:200a-12	de yongs su gyur pa las rdo rje'i rang bzhin gyis gzhi dang / rdo rje'i rab dang / rdo rje'i gur bcings nas aom raksha raksha h'um h'um h'um phat phat phat sv'a h'a /	200a	de yongs su gyur ba las rdo rje rang bzhin gyis gzhi dang rdo rje rab dang rdo rje gur ching nas aom raksha raksha hum hum hum phat phat phat sva ha 
+BO_T02_D3568:200b-0	phyi nas @200b rnal 'byor pas padma dmar po'o //	200b	phyi nas rnal byor ba padma dmar po 
+BO_T02_D3568:200b-1	de'i steng du zla ba'i dkyil 'khor ro //	200b	de steng du zla ba dkyil khor ro 
+BO_T02_D3568:200b-2	de'i steng du hr'i:yig dmar po yongs su gyur pa las autpa la dmar po'o //	200b	de steng du hr:yig dmar po yongs su gyur ba las autpa la dmar po 
+BO_T02_D3568:200b-3	de'i steng du slar yang zla ba'i dkyil 'khor ro //	200b	de steng du slar yang zla ba dkyil khor ro 
+BO_T02_D3568:200b-4	de yongs su gyur pa las ku ru kuller bdag nyid bsam par bya ste /	200b	de yongs su gyur ba las ku ru kuller bdag nyid bsam ba byed ste 
+BO_T02_D3568:200b-5	skyil krung phyed pa'i gar stabs kyis bzhugs pa gzhon zhing rked pa la stag gi pags pa'i sham thabs mnabs pa /	200b	skyil krung phyed ba gar stabs kyis bzhugs ba gzhon zhing rked ba la stag gi pags ba sham thabs nab ba 
+BO_T02_D3568:200b-6	phyag rgya lngas rnam par brgyan pa /	200b	phyag rgya lngas rnam ba rgyan ba 
+BO_T02_D3568:200b-7	skra dmar ser gyen du brdzes pa mgon po 'od dpag tu med pas dbu brgyan pa /	200b	skra dmar ser gyen du brdzes ba mgon po d dpog tu med ba dbu rgyan ba 
+BO_T02_D3568:200b-8	phyag na mda' gzhu dang de bzhin du autpa la bsnams pa'o //	200b	phyag na mda gzhu dang de bzhin du autpa la snom ba 
+BO_T02_D3568:200b-9	'dir gnas nges pa med cing zas kyang nges pa med la /	200b	dir gnas nges ba med cing zas kyang nges ba med la 
+BO_T02_D3568:200b-10	'dir sngags bzlas shing bya ba dang ldan pas so //	200b	dir sngags bzlas shing byed ba dang ldan ba so 
+BO_T02_D3568:200b-11	ji lta ba bzhin du 'ga' zhig gis kyang mi shes te de bzhin du bsgrub par bya'o //	200b	ji lta ba bzhin du ga jig gis kyang mi shes te de bzhin du sgrub ba byed 
+BO_T02_D3568:200b-12	aom ku ru kulle hr'i:sv'a h'a /	200b	aom ku ru kulle hr:sva ha 
+BO_T02_D3568:200b-13	zla ba phyed du khri phrag gcig gis rgyal bo dang / skye dgu'i 'jig rten dbang du 'gyur ro //	200b	zla ba phyed du khri phrag gcig gis rgyal bo dang skye dgu jig rten dbang du gyur ro 
+BO_T02_D3568:200b-14	bye bas dud 'gro dang gnod sbyin la sogs pa dang / 'bum phrag bdun gyis lha ma yin rnams kyang ngo //	200b	bye ba dud gro dang gnod sbyin la sogs ba dang bum phrag bdun gyis lha ma yin rnams kyang ngo 
+BO_T02_D3568:200b-15	kye'i rdo rje'i rim pa'i ku ru kulle'i sgrub thabs rdzogs so//	200b	kye rdo rje rim ba ku ru kulle sgrub thabs rdzogs 
