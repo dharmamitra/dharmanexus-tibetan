@@ -1,0 +1,614 @@
+[
+  {
+    "segmentnr":"BO_T04_D3909:4a-0",
+    "original":"@4a * \/\/ rgya gar skad du \/",
+    "folio":"4a",
+    "stemmed":"rgya gar skad du "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4a-1",
+    "original":"yo ga bh'a ba na m'arga \/",
+    "folio":"4a",
+    "stemmed":"yo ga bha ba na marga "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4a-2",
+    "original":"bod skad du \/",
+    "folio":"4a",
+    "stemmed":"bod skad du "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4a-3",
+    "original":"rnal 'byor bsgom pa'i lam \/",
+    "folio":"4a",
+    "stemmed":"rnal byor bsgom ba lam "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4a-4",
+    "original":"'phags pa 'jam dpal gzhon nur gyur pa la phyag 'tshal lo \/\/",
+    "folio":"4a",
+    "stemmed":"phag ba jam dpal gzhon nur gyur ba la phyag tshal lo "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4a-5",
+    "original":"'gro ba sdug bsngal mang pos gzir te gti mug gis mdongs pa la snying rje bskyed nas \/",
+    "folio":"4a",
+    "stemmed":"gro ba sdug sngal mang pos gzir te gti mug gis mdongs ba la snying rje skyed nas "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4a-6",
+    "original":"bdag gis kyang thams cad mkhyen pa'i go 'phang 'bras bu dang bcas pa thob par byas la \/",
+    "folio":"4a",
+    "stemmed":"bdag gis kyang thams cad mkhyen ba go phen bras bu dang cha ba thob ba byed la "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4a-7",
+    "original":"'gro ba rnams kyang go 'phang de nyid la dgod par bya'o zhes bla na med pa yang dag par rdzogs pa'i byang chub tu smon lam gdab bo \/\/",
+    "folio":"4a",
+    "stemmed":"gro ba rnams kyang go phen de nyid la god ba byed zhes bla na med ba yang dag ba rdzogs ba byang chub tu smon lam gdab bo "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4a-8",
+    "original":"de nas byang chub kyi mtshan nyid kyi sems rnam par ma byang ba bskyed par mi bya'i \/",
+    "folio":"4a",
+    "stemmed":"de nas byang chub kyi mtshan nyid kyi sems rnam ba ma byang ba skyed ba mi byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4a-9",
+    "original":"'di ltar byang chub ni rang gi sems las btsal bar bya'o zhes 'byung ba'i phyir thog mar rang gi sems kho na la brtag par bya'o \/\/",
+    "folio":"4a",
+    "stemmed":"di ltar byang chub ni rang gi sems las btsal ba byed zhes byung ba phyir thogs mar rang gi sems kho na la rtog ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4a-10",
+    "original":"de la rang gi sems ni lung las gsungs pa'i tshig lnga po dngos po thams cad dang bral ba dang \/ phung po dang khams dang skye mched dang \/ gzung ba dang 'dzin pa rnam par spangs pa dang \/ chos bdag med pa mnyam pa nyid dang \/",
+    "folio":"4a",
+    "stemmed":"de la rang gi sems ni lung las gsungs ba tshig lnga po dngos po thams cad dang bral ba dang phung po dang khams dang skye mched dang gzung ba dang dzin ba rnam ba spong ba dang chos bdag med ba mnyam ba nyid dang "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4a-11",
+    "original":"rang gi sems gzod ma nas ma skyes pa dang \/ stong pa nyid kyi ngo bo nyid dag tu khong du chud par bya'o \/\/",
+    "folio":"4a",
+    "stemmed":"rang gi sems gzod ma nas ma skye ba dang stong ba nyid kyi ngo bo nyid dag tu khong du chud ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4a-12",
+    "original":"de la dngos po thams cad dang bral ba zhes bya ba ni mu stegs can 'khrul pas sgro btags pa bdag la sogs pa rtag pa'i dngos po dang bral ba zhes bya ba'i don gang yin pa'o \/\/",
+    "folio":"4a",
+    "stemmed":"de la dngos po thams cad dang bral ba zhes byed ba ni mu stegs can khrul ba sgro dogs ba bdag la sogs ba rtag ba dngos po dang bral ba zhes byed ba don gang yin ba "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-0",
+    "original":"phung po dang khams dang skye mched dang gzung ba dang 'dzin pa rnam par spangs @4b ba zhes bya ba ni nyan thos la sogs pa'i tshul gyis kun du brtags pa'i ngo bo yod pa dang \/ med pa'i rang bzhin yongs su spangs pa ste \/",
+    "folio":"4b",
+    "stemmed":"phung po dang khams dang skye mched dang gzung ba dang dzin ba rnam ba spong ba zhes byed ba ni nyan thos la sogs ba tshul gyis kun du rtog ba ngo bo yod ba dang med ba rang bzhin yongs su spong ba ste "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-1",
+    "original":"rdul phra mo tshogs pa 'dzin pa mig la sogs pa'i skye mched drug dang \/ gzung ba la sogs pa phyi'i yul drug dang bral ba zhes bya ba'i don gang yin pa ste \/",
+    "folio":"4b",
+    "stemmed":"rdul phra mo tshogs ba dzin ba mig la sogs ba skye mched drug dang gzung ba la sogs ba phyi yul drug dang bral ba zhes byed ba don gang yin ba ste "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-2",
+    "original":"rdul phra rab sun phyung ba'i phyir ro \/\/",
+    "folio":"4b",
+    "stemmed":"rdul phra rab sun byin ba phyir ro "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-3",
+    "original":"de nyid kyi phyir tshig gsum pa chos bdag med pa mnyam pa nyid ces bya ba gsungs pa yin te \/",
+    "folio":"4b",
+    "stemmed":"de nyid kyi phyir tshig gsum ba chos bdag med ba mnyam ba nyid ces byed ba gsungs ba yin te "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-4",
+    "original":"rnam par shes pa tsam gyi tshul la 'jug par bya ba'i phyir ro \/\/",
+    "folio":"4b",
+    "stemmed":"rnam ba shes ba tsam gyi tshul la jug ba byed ba phyir ro "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-5",
+    "original":"de'i phyir tshig bzhi pa rang gi sems gzod ma nas ma skyes pa zhes bya ba gsungs pa yin te \/",
+    "folio":"4b",
+    "stemmed":"de phyir tshig bzhi ba rang gi sems gzod ma nas ma skye ba zhes byed ba gsungs ba yin te "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-6",
+    "original":"de bas na de ni rten cing 'brel par 'byung ba yin pa'i phyir sgyu ma lta bu yin no \/\/",
+    "folio":"4b",
+    "stemmed":"de ba na de ni rten cing brel ba byung ba yin ba phyir sgyu ma lta bu yin no "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-7",
+    "original":"gang zhig brten nas mi skye zhing rang gi ngo bo nyid las mnyam par mi 'gyur ba de ni don dam pa'i rang bzhin zhes bya'o \/\/",
+    "folio":"4b",
+    "stemmed":"gang jig rten nas mi skye zhing rang gi ngo bo nyid las mnyam ba mi gyur ba de ni don dam ba rang bzhin zhes byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-8",
+    "original":"de'i phyir rang bzhin med pas rang gi sems gzod ma nas ma skyes pa zhes bya'o ;",
+    "folio":"4b",
+    "stemmed":"de phyir rang bzhin med ba rang gi sems gzod ma nas ma skye ba zhes byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-9",
+    "original":"\/ rten cing 'brel par 'byung ba'i ngo bo nyid du kun rdzob tu yod pa'i phyir sgyu ma dang 'dra ba ni mi dag go \/\/",
+    "folio":"4b",
+    "stemmed":"rten cing brel ba byung ba ngo bo nyid du kun rdzob tu yod ba phyir sgyu ma dang dra ba ni mi dag go "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-10",
+    "original":"de bas na don dam par stong pa nyid kyi ngo bo nyid ces bya ba tshig lnga pa gsungs pa yin no \/\/",
+    "folio":"4b",
+    "stemmed":"de ba na don dam ba stong ba nyid kyi ngo bo nyid ces byed ba tshig lnga ba gsungs ba yin no "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-11",
+    "original":"ji ltar kun rdzob tu brtags pa dang \/ gzung ba dang 'dzin pa'i mtshan nyid kyi chos rnams ni don dam par bdag med pa yin te \/",
+    "folio":"4b",
+    "stemmed":"ji ltar kun rdzob tu rtog ba dang gzung ba dang dzin ba mtshan nyid kyi chos rnams ni don dam ba bdag med ba yin te "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-12",
+    "original":"gzod ma nas ma skyes pa'i phyir ro \/\/",
+    "folio":"4b",
+    "stemmed":"gzod ma nas ma skye ba phyir ro "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-13",
+    "original":"med pa rnam pa bzhi po snga nas med pa dang \/ zhi gnas med pa dang \/ gcig la gcig med pa dang \/ gtan med pa dag kyang dngos po la brten pa rnam par gzhag pas khyad par yang ma yin te \/",
+    "folio":"4b",
+    "stemmed":"med ba rnam ba bzhi po snga nas med ba dang zhi gnas med ba dang gcig la gcig med ba dang gtan med ba dag kyang dngos po la rten ba rnam ba jog ba khyad ba yang ma yin te "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-14",
+    "original":"stong pa nyid kyang dngos po la brten pa'i phyir ro \/\/",
+    "folio":"4b",
+    "stemmed":"stong ba nyid kyang dngos po la rten ba phyir ro "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-15",
+    "original":"dngos po yod na der rtog pa kun du 'byung na \/",
+    "folio":"4b",
+    "stemmed":"dngos po yod na der rtogs ba kun du byung na "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-16",
+    "original":"med pas rnam par rtog pa thams cad dgag pas rnam par rtog pa yongs su dag par byed do \/\/",
+    "folio":"4b",
+    "stemmed":"med ba rnam ba rtogs ba thams cad gog ba rnam ba rtogs ba yongs su dag ba byed do "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-17",
+    "original":"de'i phyir rang gi sems stong pa nyid kyi ngo bo nyid yin pa de bzhin du \/",
+    "folio":"4b",
+    "stemmed":"de phyir rang gi sems stong ba nyid kyi ngo bo nyid yin ba de bzhin du "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-18",
+    "original":"chos thams cad kyang de lta bu yin na ji ltar de sngon du btang ba'i smon pa'i byang chub kyi sems don dam pa'i ngo bo nyid la spyod pa'i mtshan nyid shes rab dang mtshungs par ldan pa ni 'jug pa'i sems zhes bya ste \/",
+    "folio":"4b",
+    "stemmed":"chos thams cad kyang de lta bu yin na ji ltar de sngon du gtong ba smon ba byang chub kyi sems don dam ba ngo bo nyid la spyod ba mtshan nyid shes rab dang mtshungs ba ldan ba ni jug ba sems zhes byed ste "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:4b-19",
+    "original":"de kho na nges pa la 'jug pa'i thabs yin pa'i phyir ro \/\/",
+    "folio":"4b",
+    "stemmed":"de kho na nges ba la jug ba thabs yin ba phyir ro "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-0",
+    "original":"gzhan gang zhig spyod pas kun nas ma bslang ba'i sems chos thams cad @5a * \/\/",
+    "folio":"5a",
+    "stemmed":"gzhan gang jig spyod ba kun nas ma bslang ba sems chos thams cad "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-1",
+    "original":"kyi stong pa nyid kyi ngo bo khong du chud pa yang dag pa ji lta ba bzhin du yongs su shes pa nyid kyis byang chub kyi sems zhes bya'o \/\/",
+    "folio":"5a",
+    "stemmed":"kyi stong ba nyid kyi ngo bo khong du chud ba yang dag ba ji lta ba bzhin du yongs su shes ba nyid kyis byang chub kyi sems zhes byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-2",
+    "original":"byang chub kyi mtshan nyid kyi sems ni byang chub kyi sems zhes bya bas de dang mtshungs par ldan pa'i shes rab kyang shes rab kyi pha rol tu phyin pa zhes bya'o \/\/",
+    "folio":"5a",
+    "stemmed":"byang chub kyi mtshan nyid kyi sems ni byang chub kyi sems zhes byed ba de dang mtshungs ba ldan ba shes rab kyang shes rab kyi pha rol tu phyin ba zhes byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-3",
+    "original":"yang kha cig las de nyid zhi gnas dang lhag mthong zhes bya bar yang rab tu grags te \/",
+    "folio":"5a",
+    "stemmed":"yang kha cig las de nyid zhi gnas dang lhag mthong zhes byed ba yang rab tu grags te "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-4",
+    "original":"de la zhi gnas dang mtshungs par ldan pa'i lhag mthong ngo \/\/",
+    "folio":"5a",
+    "stemmed":"de la zhi gnas dang mtshungs ba ldan ba lhag mthong ngo "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-5",
+    "original":"zhi gnas ni sems rtse gcig pa nyid do \/\/",
+    "folio":"5a",
+    "stemmed":"zhi gnas ni sems rtse gcig ba nyid do "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-6",
+    "original":"byang chub kyi mtshan nyid kyi sems ni stong pa nyid kyi don la bya ba yin no \/\/",
+    "folio":"5a",
+    "stemmed":"byang chub kyi mtshan nyid kyi sems ni stong ba nyid kyi don la byed ba yin no "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-7",
+    "original":"gzhan dag las gnas kyi sems zhes bya bar grags te \/",
+    "folio":"5a",
+    "stemmed":"gzhan dag las gnas kyi sems zhes byed ba grags te "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-8",
+    "original":"gnas ni stong pa nyid la sems mi g-yo ba yin no \/\/",
+    "folio":"5a",
+    "stemmed":"gnas ni stong ba nyid la sems mi g-yo ba yin no "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-9",
+    "original":"de dang mtshungs par ldan pa'i sems ni zhi gnas kyi sems zhes bya'o \/\/",
+    "folio":"5a",
+    "stemmed":"de dang mtshungs ba ldan ba sems ni zhi gnas kyi sems zhes byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-10",
+    "original":"de stong pa nyid kyi sems kyis rab tu phye ba yin pa'i phyir mos pa'i de kho na nyid yid la byed pa zhes bya'o \/\/",
+    "folio":"5a",
+    "stemmed":"de stong ba nyid kyi sems kyis rab tu byed ba yin ba phyir mos ba de kho na nyid yid la byed ba zhes byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-11",
+    "original":"de yang gnyid dang rgod pa'i skyon gnyis yongs su spangs pas bya'o \/\/",
+    "folio":"5a",
+    "stemmed":"de yang rnyid dang rgod ba skyon gnyis yongs su spong ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-12",
+    "original":"gang gi tshe gnyid kyi mun pas non te dmigs pa las ldog par byed pa sems las skye ba de'i tshe \/",
+    "folio":"5a",
+    "stemmed":"gang gi tshe rnyid kyi mun ba non te dmigs ba las ldog ba byed ba sems las skye ba de tshe "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-13",
+    "original":"chos la spyod pa'i mtshan nyid lhag mthong gi sems gzengs bstod la stong pa nyid la mnyam par gzhag par bya'o \/\/",
+    "folio":"5a",
+    "stemmed":"chos la spyod ba mtshan nyid lhag mthong gi sems gzengs bstod la stong ba nyid la mnyam ba jog ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-14",
+    "original":"'on te yul rnams kyi rnam par spyod pas rgod par gyur na \/",
+    "folio":"5a",
+    "stemmed":"n te yul rnams kyi rnam ba spyod ba rgod ba gyur na "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-15",
+    "original":"de yang don dam pa la spyad pas de la dmigs pa bor te zhi gnas dang ldan pas gnas par bya'o \/\/",
+    "folio":"5a",
+    "stemmed":"de yang don dam ba la spyod ba de la dmigs ba bor te zhi gnas dang ldan ba gnas ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-16",
+    "original":"gang gi tshe ha cang dpyad ches pas shes rab shas che bar gyur pa de'i tshe \/",
+    "folio":"5a",
+    "stemmed":"gang gi tshe ha cang dpyod ches ba shes rab shas che ba gyur ba de tshe "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-17",
+    "original":"yang dpyad pa'i dus de ma yin te \/",
+    "folio":"5a",
+    "stemmed":"yang dpyod ba dus de ma yin te "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-18",
+    "original":"zhi gnas kyi dus yin pas dus dang dus ma yin pa btang snyoms su bya ba tshad mar byas nas yang zhi gnas la gnas par bya'o \/\/",
+    "folio":"5a",
+    "stemmed":"zhi gnas kyi dus yin ba dus dang dus ma yin ba gtong snyom su byed ba tshad mar byed nas yang zhi gnas la gnas ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-19",
+    "original":"gang gi tshe zhi ba nyid thob nas de la mngon par zhen par gyur na \/",
+    "folio":"5a",
+    "stemmed":"gang gi tshe zhi ba nyid thob nas de la mngon ba zhen ba gyur na "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-20",
+    "original":"de'i tshe zhi ba nyid kyang ngo bo nyid med pa'i phyir \/",
+    "folio":"5a",
+    "stemmed":"de tshe zhi ba nyid kyang ngo bo nyid med ba phyir "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-21",
+    "original":"de la mngon par zhen pa bor te ma chags pa kho na la gnas par bya'o \/\/",
+    "folio":"5a",
+    "stemmed":"de la mngon ba zhen ba bor te ma chags ba kho na la gnas ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-22",
+    "original":"de ltar mthu ci yod pa dang \/ ji ltar 'dod pa dang \/ dus cung zad cig tu yang mnyam par gzhag pa'i phyir \/",
+    "folio":"5a",
+    "stemmed":"de ltar mthu ci yod ba dang ji ltar dod ba dang dus cung zad cig tu yang mnyam ba jog ba phyir "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5a-23",
+    "original":"yang dang yang du rang gi sems la yang dag pa ji lta ba bzhin du rang bzhin brtags nas sems de las bslang bar bya'o \/\/",
+    "folio":"5a",
+    "stemmed":"yang dang yang du rang gi sems la yang dag ba ji lta ba bzhin du rang bzhin rtog nas sems de las bslang ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-0",
+    "original":"bslang nas yang 'di ltar gal te dngos po 'di dag thams cad stong pa @5b nam mkha' dang 'dra ba'i mtshan nyid yin yang \/",
+    "folio":"5b",
+    "stemmed":"bslang nas yang di ltar gal te dngos po di dag thams cad stong ba nam mkha dang dra ba mtshan nyid yin yang "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-1",
+    "original":"'on kyang de ni sgyu ma dang rmi lam la sogs pa dang 'dra bar thog ma med pa'i dus nas so sor nges pa'i rgyu dang 'bras bu 'brel pa la rag las pa'i rgyu des phyin ci log gi rnam par snang ba yin te \/",
+    "folio":"5b",
+    "stemmed":"n kyang de ni sgyu ma dang rmi lam la sogs ba dang dra ba thogs ma med ba dus nas so sor nges ba rgyu dang bras bu brel ba la rag las ba rgyu des phyin ci log gi rnam ba snang ba yin te "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-2",
+    "original":"lang kar gshegs pa las \/",
+    "folio":"5b",
+    "stemmed":"lang kar gshegs ba las "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-3",
+    "original":"chos 'di dag ni ma skyes 'di dag med min te \/\/",
+    "folio":"5b",
+    "stemmed":"chos di dag ni ma skye di dag med min te "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-4",
+    "original":"sgyu ma smig rgyu dri za'i grong khyer dang \/\/ rmi lam lta bu sprul pa 'dra ba yin \/\/",
+    "folio":"5b",
+    "stemmed":"sgyu ma smig rgyu dri za grong khyer dang rmi lam lta bu sprul ba dra ba yin "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-5",
+    "original":"zhes gsungs pa lta bu'o \/\/",
+    "folio":"5b",
+    "stemmed":"zhes gsungs ba lta bu "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-6",
+    "original":"sems can rnams kyi shes pa shes rab ma rig pa'i mun pa shas chen pos khebs pas chos nyid 'di dag khong du ma chud pas yun ring por 'khrul pas rnam par nyams pa yin no zhes yid la bya zhing snying rje bskyed par bya'o \/\/",
+    "folio":"5b",
+    "stemmed":"sems can rnams kyi shes ba shes rab ma rig ba mun ba shas chen pos khebs ba chos nyid di dag khong du ma chud ba yun ring por khrul ba rnam ba nyams ba yin no zhes yid la byed zhing snying rje skyed ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-7",
+    "original":"des kyang de gzir ba na 'di snyam du de'i phyir bdag gis chos nyid 'di dag rang gis kyang rtogs par byas la \/",
+    "folio":"5b",
+    "stemmed":"des kyang de gzir ba na di snyam du de phyir bdag gis chos nyid di dag rang gis kyang rtogs ba byed la "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-8",
+    "original":"sems can thams cad kyis kyang khong du chud par bya'o snyam du bsams te \/",
+    "folio":"5b",
+    "stemmed":"sems can thams cad kyis kyang khong du chud ba byed snyam du bsams te "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-9",
+    "original":"de ltar bsgoms pa ni byang chub tu smon pa'i sems yongs su dag pa yin no \/\/",
+    "folio":"5b",
+    "stemmed":"de ltar sgom ba ni byang chub tu smon ba sems yongs su dag ba yin no "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-10",
+    "original":"'di ltar chos thams cad rmi lam dang 'dra bar yid la byed pa ma brjed pas langs na yang sems can gyi don du byang chub la gnas par byed kyang chos gang la yang mngon par zhen pa mi 'byung ngo \/\/",
+    "folio":"5b",
+    "stemmed":"di ltar chos thams cad rmi lam dang dra ba yid la byed ba ma brjed ba ldang na yang sems can gyi don du byang chub la gnas ba byed kyang chos gang la yang mngon ba zhen ba mi byung ngo "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-11",
+    "original":"'di ni de las ldang ba'i sems zhes bya'o \/\/",
+    "folio":"5b",
+    "stemmed":"di ni de las ldang ba sems zhes byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-12",
+    "original":"de las gzhan pa'i don gyi dmigs pa dag mngon du zin gyis kyang rnal 'byor pas chos thams cad rmi lam dang 'dra bar yid la byed pa mi gtong ba kho nar bya ste \/",
+    "folio":"5b",
+    "stemmed":"de las gzhan ba don gyi dmigs ba dag mngon du zin gyis kyang rnal byor ba chos thams cad rmi lam dang dra ba yid la byed ba mi gtong ba kho nar byed ste "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-13",
+    "original":"des na de'i sems ni mi dge ba la yang 'jug par mi byed la \/",
+    "folio":"5b",
+    "stemmed":"des na de sems ni mi dge ba la yang jug ba mi byed la "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-14",
+    "original":"de 'gro ba drang ba'i bsam pa nyid kyis gnas pa na dge ba rnams la yang g-yo ba thams cad 'khor gsum yongs su dag par sgrub par byed do \/\/",
+    "folio":"5b",
+    "stemmed":"de gro ba dren ba bsam ba nyid kyis gnas ba na dge ba rnams la yang g-yo ba thams cad khor gsum yongs su dag ba sgrub ba byed do "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-15",
+    "original":"da bzhin du yang byams pa dang \/ snying rje dang \/ dga' ba dang \/ btang snyoms la gnas pas rtag tu gnas par bya'o \/\/",
+    "folio":"5b",
+    "stemmed":"da bzhin du yang byams ba dang snying rje dang dga ba dang gtong snyom la gnas ba rtag tu gnas ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-16",
+    "original":"des 'di ltar yang 'gro ba ma lus pa byang chub par bya ba'i thabs bla na med pa'i byang chub kyi go 'phang yang bsod nams dang ye shes kyi tshogs yongs su rdzogs pa med par thob par mi nus la \/",
+    "folio":"5b",
+    "stemmed":"des di ltar yang gro ba ma lus ba byang chub ba byed ba thabs bla na med ba byang chub kyi go phen yang bsod nams dang ye shes kyi tshogs yongs su rdzogs ba med ba thob ba mi nus la "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-17",
+    "original":"tshogs gnyis ni pha rol tu phyin pa drug gis bsdus pa yin te \/",
+    "folio":"5b",
+    "stemmed":"tshogs gnyis ni pha rol tu phyin ba drug gis sdud ba yin te "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:5b-18",
+    "original":"de'i phyir sbyin pa'i pha rol tu phyin pa nas bzung nas thams cad rtag tu yongs su rdzogs par bya'o zhes yid la bya ste \/",
+    "folio":"5b",
+    "stemmed":"de phyir sbyin ba pha rol tu phyin ba nas bzung nas thams cad rtag tu yongs su rdzogs ba byed zhes yid la byed ste "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-0",
+    "original":"drug po re re la yang @6a * \/\/",
+    "folio":"6a",
+    "stemmed":"drug po re re la yang "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-1",
+    "original":"smon par byed do \/\/",
+    "folio":"6a",
+    "stemmed":"smon ba byed do "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-2",
+    "original":"gzhan yang de 'di ltar sems skyed par byed de \/",
+    "folio":"6a",
+    "stemmed":"gzhan yang de di ltar sems skyed ba byed de "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-3",
+    "original":"sbyin pa'i pha rol tu phyin pa yang rnam pa gsum ste \/",
+    "folio":"6a",
+    "stemmed":"sbyin ba pha rol tu phyin ba yang rnam ba gsum ste "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-4",
+    "original":"zang zing dang \/ mi 'jigs pa dang \/ chos kyi sbyin pas dbye bas so \/\/",
+    "folio":"6a",
+    "stemmed":"zang zing dang mi jigs ba dang chos kyi sbyin ba byed ba so "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-5",
+    "original":"de la chos kyi sbyin pa yang sems can ma bsdus pa rnams la sbyin par mi nus kyis \/",
+    "folio":"6a",
+    "stemmed":"de la chos kyi sbyin ba yang sems can ma sdud ba rnams la sbyin ba mi nus kyis "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-6",
+    "original":"de ni bsdu ba rnam pa bzhi po dag gis sgrub par nus so \/\/",
+    "folio":"6a",
+    "stemmed":"de ni sdud ba rnam ba bzhi po dag gis sgrub ba nus so "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-7",
+    "original":"de'i phyir sbyin pa dang \/ snyan par smra ba dang \/ don spyod pa dang \/ don mthun pas sems can bsdu bar bya'o \/",
+    "folio":"6a",
+    "stemmed":"de phyir sbyin ba dang snyan ba smra ba dang don spyod ba dang don mthun ba sems can sdud ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-8",
+    "original":"zhes sems can bsdu ba'i don du smon lam bzhi po gzhan bskyed par bya'o \/\/",
+    "folio":"6a",
+    "stemmed":"zhes sems can sdud ba don du smon lam bzhi po gzhan skyed ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-9",
+    "original":"zhes sems skyed par byed de \/",
+    "folio":"6a",
+    "stemmed":"zhes sems skyed ba byed de "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-10",
+    "original":"sbyin pa rnam pa gsum gyi nang nas zang zing dang mi 'jigs pa sbyin pa gnyis ni bsdu ba'i thabs su gyur pa yin la \/",
+    "folio":"6a",
+    "stemmed":"sbyin ba rnam ba gsum gyi nang nas zang zing dang mi jigs ba sbyin ba gnyis ni sdud ba thabs su gyur ba yin la "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-11",
+    "original":"chos kyi sbyin pa ni thabs des bsgrubs pa yin no \/\/",
+    "folio":"6a",
+    "stemmed":"chos kyi sbyin ba ni thabs des sgrub ba yin no "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-12",
+    "original":"de ltar na pha rol tu phyin pa la smon pa drug dang bsdu ba'i dngos po bzhi ste \/",
+    "folio":"6a",
+    "stemmed":"de ltar na pha rol tu phyin ba la smon ba drug dang sdud ba dngos po bzhi ste "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-13",
+    "original":"de'i phyir smon lam bcu po dag kho nas byang chub chen po la smon pa'i sems de legs par brgyan nas mthu ci yod pa dang \/ ji ltar bsam pa'i don bsgrub pa na spro ba chen po dang ldan pa'i sems kyis ldang bar bya'o \/\/",
+    "folio":"6a",
+    "stemmed":"de phyir smon lam chu po dag kho nas byang chub chen po la smon ba sems de legs ba rgyan nas mthu ci yod ba dang ji ltar bsam ba don sgrub ba na spro ba chen po dang ldan ba sems kyis ldang ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-14",
+    "original":"langs pa'i tshul ni 'di yin te \/",
+    "folio":"6a",
+    "stemmed":"ldang ba tshul ni di yin te "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-15",
+    "original":"mig gnyis phye nas sngar rtog pa'i gnas skabs bor te \/",
+    "folio":"6a",
+    "stemmed":"mig gnyis byed nas sngar rtogs ba gnas skabs bor te "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-16",
+    "original":"mdun du lta ba'i mtshan ma byas pa'i gnas rnams la lta bar bya zhing \/",
+    "folio":"6a",
+    "stemmed":"mdun du lta ba mtshan ma byed ba gnas rnams la lta ba byed zhing "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-17",
+    "original":"snga ma bzhin du de rnams kyi ming nas bzung zhing phyogs kyi mtshan ma gzung bar bya'o \/\/",
+    "folio":"6a",
+    "stemmed":"snga ma bzhin du de rnams kyi ming nas bzung zhing phyogs kyi mtshan ma gzung ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-18",
+    "original":"lce rkan nas phab ste kha la byugs nas de'i 'og tu sngon bzhin du dbugs brngubs pa dang dbugs dbyung ba dag bya'o \/\/",
+    "folio":"6a",
+    "stemmed":"lce rkan nas bebs ste kha la byug nas de g tu sngon bzhin du dbugs rngub ba dang dbugs byin ba dag byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-19",
+    "original":"de nas dal bus lus bskyod de skyil mo krung bshig nas ngal bso ste lus dang sems las su rung bar byas la \/",
+    "folio":"6a",
+    "stemmed":"de nas dal bud lus skyod de skyil mo krung jig nas ngal bso ste lus dang sems las su rung ba byed la "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-20",
+    "original":"ci nas 'khrul pa med par ldang bar bya'o \/\/",
+    "folio":"6a",
+    "stemmed":"ci nas khrul ba med ba ldang ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-21",
+    "original":"langs nas sems legs par mnyam par gzhag pas mi dmigs pa'i tshul gyis sbyin pa la sogs pa'i spyod pa spyad cing \/",
+    "folio":"6a",
+    "stemmed":"ldang nas sems legs ba mnyam ba jog ba mi dmigs ba tshul gyis sbyin ba la sogs ba spyod ba spyod cing "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-22",
+    "original":"'di ltar sangs rgyas bcom ldan 'das rnal 'byor gyi dbang phyug chen po skyil mo krung bcas te bzhugs ba bsam gtan gyi snyoms par zhugs shing 'gro ba la gzigs pa mdun du bsam par bya'o \/\/",
+    "folio":"6a",
+    "stemmed":"di ltar sangs rgya joms ldan da rnal byor gyi dbang phyug chen po skyil mo krung cha te bzhugs ba bsam gtan gyi snyom ba jug shing gro ba la gzigs ba mdun du bsam ba byed "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-23",
+    "original":"rnal 'byor bsgom pa'i lam \/",
+    "folio":"6a",
+    "stemmed":"rnal byor bsgom ba lam "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-24",
+    "original":"'phags pa 'jam dpal gyi zhabs kyi padma'i ze'u 'bru spyi bos len pa \/",
+    "folio":"6a",
+    "stemmed":"phag ba jam dpal gyi zhabs kyi padma zeu bru spyi bod len ba "
+  },
+  {
+    "segmentnr":"BO_T04_D3909:6a-25",
+    "original":"sde snod gsum la mkhas pa slob dpon ye shes snying pos mdzad pa rdzogs so \/",
+    "folio":"6a",
+    "stemmed":"sde snod gsum la mkhas ba slob dpon ye shes snying pos mdzad ba rdzogs so "
+  }
+]

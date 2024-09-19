@@ -1,0 +1,914 @@
+[
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-0",
+    "original":"@202b rgya gar skad du \/",
+    "folio":"202b",
+    "stemmed":"rgya gar skad du "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-1",
+    "original":"a'arya a'ashta de bi dh'a r'a n'i \/",
+    "folio":"202b",
+    "stemmed":"aarya aashta de bi dha ra n "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-2",
+    "original":"bod skad du \/",
+    "folio":"202b",
+    "stemmed":"bod skad du "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-3",
+    "original":"'phags pa lha mo brgyad kyi gzungs \/",
+    "folio":"202b",
+    "stemmed":"phag ba lha mo brgyad kyi gzungs "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-4",
+    "original":"sangs rgyas dang \/ byang chub sems dpa' thams cad la phyag 'tshal lo \/\/",
+    "folio":"202b",
+    "stemmed":"sangs rgya dang byang chub sems dpa thams cad la phyag tshal lo "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-5",
+    "original":"de nas phyag na rdo rjes de bzhin gshegs pa'i yum sdig pa thams cad byang par mdzad ma \/",
+    "folio":"202b",
+    "stemmed":"de nas phyag na rdo rjes de bzhin gshegs ba yum sdig ba thams cad byang ba mdzad ma "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-6",
+    "original":"nad thams cad rab tu zhi bar mdzad ma \/",
+    "folio":"202b",
+    "stemmed":"nad thams cad rab tu zhi ba mdzad ma "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-7",
+    "original":"bgegs thams cad rab tu 'jigs par mdzad ma \/",
+    "folio":"202b",
+    "stemmed":"bgegs thams cad rab tu jigs ba mdzad ma "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-8",
+    "original":"phun sum tshogs pa thams cad mdzad ma \/",
+    "folio":"202b",
+    "stemmed":"phun sum tshogs ba thams cad mdzad ma "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-9",
+    "original":"gzungs sngags chen mo'i rgyal mo mchog 'di gsungs so \/\/",
+    "folio":"202b",
+    "stemmed":"gzungs sngags chen mo rgyal mo mchog di gsungs so "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-10",
+    "original":"na ma: sarba ta th'a ga te bhya:\/",
+    "folio":"202b",
+    "stemmed":"na ma: sarba ta tha ga te "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-11",
+    "original":"sarba mu khe bhya: sarba th'a \/",
+    "folio":"202b",
+    "stemmed":"sarba mu khe bhya: sarba tha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-12",
+    "original":"he bu dhi m'a ta ni \/",
+    "folio":"202b",
+    "stemmed":"he bu dhi ma ta ni "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-13",
+    "original":"sarba p'a pa na sha ni \/",
+    "folio":"202b",
+    "stemmed":"sarba pa ba na sha ni "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-14",
+    "original":"gardza gardza \/ bhan dza bhan dza \/",
+    "folio":"202b",
+    "stemmed":"gardza gardza bhan dza bhan dza "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-15",
+    "original":"marda marda \/ ga ma ri ga ma ri \/",
+    "folio":"202b",
+    "stemmed":"marda marda ga ma ri ga ma ri "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-16",
+    "original":"ha sa ha sa \/",
+    "folio":"202b",
+    "stemmed":"ha sa ha sa "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-17",
+    "original":"da ma da ma \/",
+    "folio":"202b",
+    "stemmed":"da ma da ma "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:202b-18",
+    "original":"ma tha ma tha \/",
+    "folio":"202b",
+    "stemmed":"ma tha ma tha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-0",
+    "original":"bi dhva na sa ya bi dhvan @203a *\/\/",
+    "folio":"203a",
+    "stemmed":"bi dhva na sa ya bi dhvan "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-1",
+    "original":"sa ya; sarba sha trum ta ra ma ti \/",
+    "folio":"203a",
+    "stemmed":"sa ya; sarba sha trum ta ra ma ti "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-2",
+    "original":"bi ma le \/",
+    "folio":"203a",
+    "stemmed":"bi ma le "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-3",
+    "original":"p'u ra ya p'u ra ya \/",
+    "folio":"203a",
+    "stemmed":"pu ra ya pu ra ya "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-4",
+    "original":"pra ti dzny'a na \/",
+    "folio":"203a",
+    "stemmed":"pra ti dznya na "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-5",
+    "original":"sarba buddha baryu ba si ti \/",
+    "folio":"203a",
+    "stemmed":"sarba buddha baryu ba si ti "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-6",
+    "original":"bha ga ba ti \/",
+    "folio":"203a",
+    "stemmed":"bha ga ba ti "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-7",
+    "original":"ga na ga na \/",
+    "folio":"203a",
+    "stemmed":"ga na ga na "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-8",
+    "original":"dza hi dza hi \/",
+    "folio":"203a",
+    "stemmed":"dza hi dza hi "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-9",
+    "original":"bi ma sa ni \/",
+    "folio":"203a",
+    "stemmed":"bi ma sa ni "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-10",
+    "original":"kra ma ni dha ba ni dha ba ni ra ma ni m'a tang+gi ge sv'ah'a \/",
+    "folio":"203a",
+    "stemmed":"kra ma ni dha ba ni dha ba ni ra ma ni ma tang+gi ge svaha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-11",
+    "original":"bcom ldan 'das ma ye shes chen por dbang bskur ldan pa zhes bya ba'i gzungs so \/\/",
+    "folio":"203a",
+    "stemmed":"joms ldan da ma ye shes chen por dbang skur ldan ba zhes byed ba gzungs so "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-12",
+    "original":"na ma: sarba ta th'a ga te bhya:\/",
+    "folio":"203a",
+    "stemmed":"na ma: sarba ta tha ga te "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-13",
+    "original":"sarba mu khe bhya: sarba th'a \/",
+    "folio":"203a",
+    "stemmed":"sarba mu khe bhya: sarba tha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-14",
+    "original":"aa ma ri \/",
+    "folio":"203a",
+    "stemmed":"aa ma ri "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-15",
+    "original":"aa ma ri \/",
+    "folio":"203a",
+    "stemmed":"aa ma ri "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-16",
+    "original":"ta ta \/ bhan dza bhan dza \/",
+    "folio":"203a",
+    "stemmed":"ta ta bhan dza bhan dza "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-17",
+    "original":"dzha dzha \/ mi tsi mi tsi \/",
+    "folio":"203a",
+    "stemmed":"dzha dzha mi tsi mi tsi "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-18",
+    "original":"spho ta ya spho ta ya \/",
+    "folio":"203a",
+    "stemmed":"spho ta ya spho ta ya "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-19",
+    "original":"ma tha ma tha \/",
+    "folio":"203a",
+    "stemmed":"ma tha ma tha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-20",
+    "original":"dur d'anta da ma ka sv'ah'a \/",
+    "folio":"203a",
+    "stemmed":"dur danta da ma ka svaha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-21",
+    "original":"na ma: sarba ta th'a ga te bhya:\/",
+    "folio":"203a",
+    "stemmed":"na ma: sarba ta tha ga te "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-22",
+    "original":"sarba mu khe bhya: sarba th'a \/",
+    "folio":"203a",
+    "stemmed":"sarba mu khe bhya: sarba tha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-23",
+    "original":"he he \/ ki na de \/",
+    "folio":"203a",
+    "stemmed":"he he ki na de "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-24",
+    "original":"sarba ta th'a ga ta bha ne ke \/",
+    "folio":"203a",
+    "stemmed":"sarba ta tha ga ta bha ne ke "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-25",
+    "original":"bho dhi na dad \/",
+    "folio":"203a",
+    "stemmed":"bho dhi na dad "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-26",
+    "original":"tr'a ta tr'a ta \/",
+    "folio":"203a",
+    "stemmed":"tra ta tra ta "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-27",
+    "original":"h'um h'um phat phat\/",
+    "folio":"203a",
+    "stemmed":"hum hum phat "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-28",
+    "original":"gardza gardza \/ ba ra ma ti \/",
+    "folio":"203a",
+    "stemmed":"gardza gardza ba ra ma ti "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-29",
+    "original":"bi h'u ri ke sv'ah'a \/",
+    "folio":"203a",
+    "stemmed":"bi hu ri ke svaha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-30",
+    "original":"na ma: sarba ta th'a ga te bhya:\/",
+    "folio":"203a",
+    "stemmed":"na ma: sarba ta tha ga te "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-31",
+    "original":"sarba mu khe bhya: sarba th'a \/",
+    "folio":"203a",
+    "stemmed":"sarba mu khe bhya: sarba tha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-32",
+    "original":"bha ga wa ti pradzny'a p'a ra mi te aa \/",
+    "folio":"203a",
+    "stemmed":"bha ga wa ti pradznya pa ra mi te aa "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-33",
+    "original":"sarba p'a pa ksha yam ka ri dzny'a na aartsi spha ra ni \/",
+    "folio":"203a",
+    "stemmed":"sarba pa ba ksha yam ka ri dznya na aartsi spha ra ni "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-34",
+    "original":"bhan dza bhan dza \/",
+    "folio":"203a",
+    "stemmed":"bhan dza bhan dza "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-35",
+    "original":"ma tha ma tha \/",
+    "folio":"203a",
+    "stemmed":"ma tha ma tha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-36",
+    "original":"da ma da ma \/",
+    "folio":"203a",
+    "stemmed":"da ma da ma "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-37",
+    "original":"a'a na ya a'a na ya \/",
+    "folio":"203a",
+    "stemmed":"aa na ya aa na ya "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-38",
+    "original":"sa ra sa ra \/",
+    "folio":"203a",
+    "stemmed":"sa ra sa ra "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-39",
+    "original":"m'a ra ya m'a ra ya \/",
+    "folio":"203a",
+    "stemmed":"ma ra ya ma ra ya "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-40",
+    "original":"sarba buddha \/ dza ni tr'a ye sv'ah'a \/",
+    "folio":"203a",
+    "stemmed":"sarba buddha dza ni tra ye svaha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-41",
+    "original":"na ma: sarba ta th'a ga te bhya: sarba mu khe bhya: sarba th'a \/",
+    "folio":"203a",
+    "stemmed":"na ma: sarba ta tha ga te bhya: sarba mu khe bhya: sarba tha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-42",
+    "original":"gardza gardza \/ ma tha ma tha \/",
+    "folio":"203a",
+    "stemmed":"gardza gardza ma tha ma tha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-43",
+    "original":"dha ma dha ma \/",
+    "folio":"203a",
+    "stemmed":"dha ma dha ma "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-44",
+    "original":"bhan dza bhan dza \/",
+    "folio":"203a",
+    "stemmed":"bhan dza bhan dza "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-45",
+    "original":"duntu bhi \/ sarba ni ra gho she \/",
+    "folio":"203a",
+    "stemmed":"duntu bhi sarba ni ra gho she "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-46",
+    "original":"ha na ha na \/",
+    "folio":"203a",
+    "stemmed":"ha na ha na "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-47",
+    "original":"bi dhvan sa ya bi dhva na sa ya \/",
+    "folio":"203a",
+    "stemmed":"bi dhvan sa ya bi dhva na sa ya "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-48",
+    "original":"mo ta ya mo ta ya \/",
+    "folio":"203a",
+    "stemmed":"mo ta ya mo ta ya "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-49",
+    "original":"da ha da ha \/",
+    "folio":"203a",
+    "stemmed":"da ha da ha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-50",
+    "original":"bi phu la ni rma la nirdza te \/",
+    "folio":"203a",
+    "stemmed":"bi phu la ni rma la nirdza te "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-51",
+    "original":"a'a ha ra a'a ha ra \/",
+    "folio":"203a",
+    "stemmed":"aa ha ra aa ha ra "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203a-52",
+    "original":"gatstsha gatstsha \/ sarba buddha paryu ba si ti ma \/",
+    "folio":"203a",
+    "stemmed":"gatstsha gatstsha sarba buddha paryu ba si ti ma "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-0",
+    "original":"ma bi lamba @203b sv'ah'a; bcom ldan 'das ma rdo rje'i dbyings kyi dbang phyug ma zhes bya ba'i gzungs so \/\/",
+    "folio":"203b",
+    "stemmed":"ma bi lamba svaha; joms ldan da ma rdo rje dbyings kyi dbang phyug ma zhes byed ba gzungs so "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-1",
+    "original":"na ma: sarba ta th'a ga te bhya:\/",
+    "folio":"203b",
+    "stemmed":"na ma: sarba ta tha ga te "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-2",
+    "original":"sarba mu khe bhya:\/",
+    "folio":"203b",
+    "stemmed":"sarba mu khe "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-3",
+    "original":"sarba th'a \/ aom bha ba ti \/",
+    "folio":"203b",
+    "stemmed":"sarba tha aom bha ba ti "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-4",
+    "original":"sarba ta th'a ga ta dza ni ke \/",
+    "folio":"203b",
+    "stemmed":"sarba ta tha ga ta dza ni ke "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-5",
+    "original":"p'u ra ya pra ti dzny'a na \/",
+    "folio":"203b",
+    "stemmed":"pu ra ya pra ti dznya na "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-6",
+    "original":"ta ta ta ta \/",
+    "folio":"203b",
+    "stemmed":"ta ta ta ta "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-7",
+    "original":"marda marda \/ a'a ha ra a'a ha ra \/",
+    "folio":"203b",
+    "stemmed":"marda marda aa ha ra aa ha ra "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-8",
+    "original":"h'um h'um dza ti sv'ah'a \/",
+    "folio":"203b",
+    "stemmed":"hum hum dza ti svaha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-9",
+    "original":"bcom ldan 'das ma so sor 'brang ma chen mo zhes bya ba'i gzungs so \/\/",
+    "folio":"203b",
+    "stemmed":"joms ldan da ma so sor brang ma chen mo zhes byed ba gzungs so "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-10",
+    "original":"na ma: sarba ta th'a ga te bhya:\/",
+    "folio":"203b",
+    "stemmed":"na ma: sarba ta tha ga te "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-11",
+    "original":"sarba mu khe bha \/",
+    "folio":"203b",
+    "stemmed":"sarba mu khe bha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-12",
+    "original":"sarba th'a; h'um hr'i: sarba buddha m'a ti ri \/",
+    "folio":"203b",
+    "stemmed":"sarba tha; hum hr: sarba buddha ma ti ri "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-13",
+    "original":"bhan dza bhan dza \/",
+    "folio":"203b",
+    "stemmed":"bhan dza bhan dza "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-14",
+    "original":"ma tha ma tha \/",
+    "folio":"203b",
+    "stemmed":"ma tha ma tha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-15",
+    "original":"da ma ni da ma ni \/",
+    "folio":"203b",
+    "stemmed":"da ma ni da ma ni "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-16",
+    "original":"garg'a ri garg'a ri hr'i sv'ah'a \/",
+    "folio":"203b",
+    "stemmed":"garga ri garga ri hr svaha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-17",
+    "original":"bcom ldan 'das ma rdo rje mi pham zhes bya ba'i gzungs so \/\/",
+    "folio":"203b",
+    "stemmed":"joms ldan da ma rdo rje mi pham zhes byed ba gzungs so "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-18",
+    "original":"na ma: sarba ta th'a ga te bhya:\/",
+    "folio":"203b",
+    "stemmed":"na ma: sarba ta tha ga te "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-19",
+    "original":"sarba mu khe bhya: sarba th'a \/",
+    "folio":"203b",
+    "stemmed":"sarba mu khe bhya: sarba tha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-20",
+    "original":"tr'a ta tr'a ta \/",
+    "folio":"203b",
+    "stemmed":"tra ta tra ta "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-21",
+    "original":"mu hu mu hu \/",
+    "folio":"203b",
+    "stemmed":"mu hu mu hu "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-22",
+    "original":"sarba p'a pa bi sho dha ni sv'ah'a \/",
+    "folio":"203b",
+    "stemmed":"sarba pa ba bi sho dha ni svaha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-23",
+    "original":"bcom ldan 'das ma sdig pa thams cad spong ba zhes bya ba'i gzungs so \/\/",
+    "folio":"203b",
+    "stemmed":"joms ldan da ma sdig ba thams cad spong ba zhes byed ba gzungs so "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-24",
+    "original":"na ma: sarba ta th'a ga te bhya:\/",
+    "folio":"203b",
+    "stemmed":"na ma: sarba ta tha ga te "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-25",
+    "original":"sarba mu khe bhya:\/",
+    "folio":"203b",
+    "stemmed":"sarba mu khe "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-26",
+    "original":"sarba th'a \/ dha ka dha ka \/",
+    "folio":"203b",
+    "stemmed":"sarba tha dha ka dha ka "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-27",
+    "original":"mo ta mo ta \/",
+    "folio":"203b",
+    "stemmed":"mo ta mo ta "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-28",
+    "original":"da ha da ha \/",
+    "folio":"203b",
+    "stemmed":"da ha da ha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-29",
+    "original":"sarba ta th'a ga t'a dzny'a na nardza te sv'ah'a \/",
+    "folio":"203b",
+    "stemmed":"sarba ta tha ga ta dznya na nardza te svaha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-30",
+    "original":"bcom ldan 'das ma gdul dka' ma zhes bya ba'i gzungs so \/\/",
+    "folio":"203b",
+    "stemmed":"joms ldan da ma gdul dka ma zhes byed ba gzungs so "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-31",
+    "original":"na ma: sarba ta th'a ga te bhya:\/",
+    "folio":"203b",
+    "stemmed":"na ma: sarba ta tha ga te "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-32",
+    "original":"sarba mu khe bhya:\/",
+    "folio":"203b",
+    "stemmed":"sarba mu khe "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-33",
+    "original":"sarba th'a \/ ha ha mi hu mi hu \/",
+    "folio":"203b",
+    "stemmed":"sarba tha ha ha mi hu mi hu "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-34",
+    "original":"da ma da ma \/",
+    "folio":"203b",
+    "stemmed":"da ma da ma "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-35",
+    "original":"kh'a hi kh'a hi \/",
+    "folio":"203b",
+    "stemmed":"kha hi kha hi "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-36",
+    "original":"dhu na dhu na \/",
+    "folio":"203b",
+    "stemmed":"dhu na dhu na "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-37",
+    "original":"mi tsi mi tsi \/",
+    "folio":"203b",
+    "stemmed":"mi tsi mi tsi "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-38",
+    "original":"dur t'anta na da ma ni sv'ah'a \/",
+    "folio":"203b",
+    "stemmed":"dur tanta na da ma ni svaha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-39",
+    "original":"bcom ldan 'das ma bdud thams cad rnam par 'joms ma zhes bya ba'i gzungs so \/\/",
+    "folio":"203b",
+    "stemmed":"joms ldan da ma bdud thams cad rnam ba joms ma zhes byed ba gzungs so "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-40",
+    "original":"na ma: sarba ta tha ga te bhya:\/",
+    "folio":"203b",
+    "stemmed":"na ma: sarba ta tha ga te "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-41",
+    "original":"sarba mu khe bhya:\/",
+    "folio":"203b",
+    "stemmed":"sarba mu khe "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-42",
+    "original":"sarba th'a \/ mi tsi mi tsi \/",
+    "folio":"203b",
+    "stemmed":"sarba tha mi tsi mi tsi "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-43",
+    "original":"gardza gardza \/ spo ta ya spo ta ya \/",
+    "folio":"203b",
+    "stemmed":"gardza gardza spo ta ya spo ta ya "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-44",
+    "original":"ma tha ma tha \/",
+    "folio":"203b",
+    "stemmed":"ma tha ma tha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:203b-45",
+    "original":"da ma da ma sv'ah'a \/",
+    "folio":"203b",
+    "stemmed":"da ma da ma svaha "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-0",
+    "original":"bcom ldan 'das ma sgo mtha' yas sgrub pa zhes bya ba'i gzungs @204a *\/\/",
+    "folio":"204a",
+    "stemmed":"joms ldan da ma sgo mtha yas sgrub ba zhes byed ba gzungs "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-1",
+    "original":"so; ;'jam dpal \/",
+    "folio":"204a",
+    "stemmed":"so; ;jam dpal "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-2",
+    "original":"ye shes chen por dbang bskur ba'i dkyil 'khor 'di gang gi lag na gnas pa de nyon mongs pa dang bral bar 'gyur \/",
+    "folio":"204a",
+    "stemmed":"ye shes chen por dbang skur ba dkyil khor di gang gi lag na gnas ba de nyon mongs ba dang bral ba gyur "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-3",
+    "original":"'jigs pa dang bral bar 'gyur \/",
+    "folio":"204a",
+    "stemmed":"jigs ba dang bral ba gyur "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-4",
+    "original":"de gal te chom rkun gyi nang na 'dug gam \/",
+    "folio":"204a",
+    "stemmed":"de gal te chom rkun gyi nang na dug gam "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-5",
+    "original":"srin po'i nang na 'dug gam \/",
+    "folio":"204a",
+    "stemmed":"srin po nang na dug gam "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-6",
+    "original":"dgra'i nang na 'dug gam \/",
+    "folio":"204a",
+    "stemmed":"dgra nang na dug gam "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-7",
+    "original":"'thab pa'i nang na 'dug kyang rung ste \/",
+    "folio":"204a",
+    "stemmed":"thab ba nang na dug kyang rung ste "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-8",
+    "original":"de'i lus la mtshon gyis mi tshugs par 'gyur \/",
+    "folio":"204a",
+    "stemmed":"de lus la mtshon gyis mi tshugs ba gyur "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-9",
+    "original":"chom rkun gyis chom par mi 'gyur \/",
+    "folio":"204a",
+    "stemmed":"chom rkun gyis chom ba mi gyur "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-10",
+    "original":"srin po la sogs pas gtse bar mi 'gyur \/",
+    "folio":"204a",
+    "stemmed":"srin po la sogs ba gtse ba mi gyur "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-11",
+    "original":"de la dus ma yin par 'chi ba'i 'jigs pa mi 'byung bar 'gyur \/",
+    "folio":"204a",
+    "stemmed":"de la dus ma yin ba chi ba jigs ba mi byung ba gyur "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-12",
+    "original":"rtag tu dpal dang ldan par 'gyur \/",
+    "folio":"204a",
+    "stemmed":"rtag tu dpal dang ldan ba gyur "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-13",
+    "original":"de'i sdig pa thams cad yongs su byang bar 'gyur \/",
+    "folio":"204a",
+    "stemmed":"de sdig ba thams cad yongs su byang ba gyur "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-14",
+    "original":"sangs rgyas bye ba khrag khrig phrag 'bum gyis dge ba'i rtsa ba bsags pa yang de la nyin gcig bzhin mngon du 'gyur \/",
+    "folio":"204a",
+    "stemmed":"sangs rgya bye ba khrag khrig phrag bum gyis dge ba rtsa ba bsags ba yang de la nyin gcig bzhin mngon du gyur "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-15",
+    "original":"'chi ba'i dus kyi tshe yang de sangs rgyas dang \/ byang chub sems dpa' rnams kyis yongs su zin par 'gyur \/",
+    "folio":"204a",
+    "stemmed":"chi ba dus kyi tshe yang de sangs rgya dang byang chub sems dpa rnams kyis yongs su zin ba gyur "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-16",
+    "original":"shi nas kyang bde ba can du 'gro bar 'gyur na \/",
+    "folio":"204a",
+    "stemmed":"chi nas kyang bde ba can du gro ba gyur na "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-17",
+    "original":"gang 'dzin pa dang \/ klog pa dang \/ yid la byed pa dang \/ mi gtong bar 'dzin pa lta ci smos te \/",
+    "folio":"204a",
+    "stemmed":"gang dzin ba dang klog ba dang yid la byed ba dang mi gtong ba dzin ba lta ci smos te "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-18",
+    "original":"de'i sgrib pa thams cad byang bar 'gyur ro \/\/",
+    "folio":"204a",
+    "stemmed":"de sgrib ba thams cad byang ba gyur ro "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-19",
+    "original":"de sang na song gi sgo rnams bcad par 'gyur ro; ;des ngan song dang ngan 'gro rnams rgyang bsrings par 'gyur \/",
+    "folio":"204a",
+    "stemmed":"de sang na gro gi sgo rnams gcod ba gyur ro; ;des ngan gro dang ngan gro rnams rgyang bsrings ba gyur "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-20",
+    "original":"gang zhig gnang par langs nas su \/\/",
+    "folio":"204a",
+    "stemmed":"gang jig gnang ba ldang nas su "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-21",
+    "original":"lan gcig klog par byed pa'i mi \/\/",
+    "folio":"204a",
+    "stemmed":"lan gcig klog ba byed ba mi "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204a-22",
+    "original":"srid pa nyam ngar gang byas pa \/\/",
+    "folio":"204a",
+    "stemmed":"srid ba nyam ngar gang byed ba "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204b-0",
+    "original":"sdig pa kun @204b las grol bar 'gyur \/\/",
+    "folio":"204b",
+    "stemmed":"sdig ba kun las grol ba gyur "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204b-1",
+    "original":"srin po la sogs chom rkun dang \/\/ mtshon dang dgra yis mi tshugs shing \/\/",
+    "folio":"204b",
+    "stemmed":"srin po la sogs chom rkun dang mtshon dang dgra yis mi tshugs shing "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204b-2",
+    "original":"dus min 'chi las rab tu thar \/\/",
+    "folio":"204b",
+    "stemmed":"dus min chi las rab tu thar "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204b-3",
+    "original":"rtag tu dpal dang ldan par 'gyur \/\/",
+    "folio":"204b",
+    "stemmed":"rtag tu dpal dang ldan ba gyur "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204b-4",
+    "original":"'chi ba'i dus kyi tshe na yang \/\/",
+    "folio":"204b",
+    "stemmed":"chi ba dus kyi tshe na yang "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204b-5",
+    "original":"ngan 'gro rnams las bsrings 'gyur te \/\/",
+    "folio":"204b",
+    "stemmed":"ngan gro rnams las bsrings gyur te "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204b-6",
+    "original":"sangs rgyas rnams kyis yongs bzung nas \/\/",
+    "folio":"204b",
+    "stemmed":"sangs rgya rnams kyis yongs bzung nas "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204b-7",
+    "original":"bde ba can du skye bar 'gyur \/\/",
+    "folio":"204b",
+    "stemmed":"bde ba can du skye ba gyur "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204b-8",
+    "original":"de skad ces bka' stsal nas lha dang \/ mi dang \/ lha ma yin dang \/ dri zar bcas pa'i 'jig rten yid rang ste mngon par bstod do \/\/",
+    "folio":"204b",
+    "stemmed":"de skad ces bka stsal nas lha dang mi dang lha ma yin dang dri zar cha ba jig rten yid rang ste mngon ba bstod do "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204b-9",
+    "original":"'phags ma lha mo brgyad kyi gzungs rdzogs so \/\/\/\/",
+    "folio":"204b",
+    "stemmed":"phag ma lha mo brgyad kyi gzungs rdzogs so "
+  },
+  {
+    "segmentnr":"BO_K12_D0497=D0999_H0535:204b-10",
+    "original":"rgya gar gyi mkhan po sh'i lendra bo dhi dang \/ zhu chen gyi lo ts'a ba bandhe ye shes sdes bsgyur cing zhus te gtan la phab pa \/\/\/\/",
+    "folio":"204b",
+    "stemmed":"rgya gar gyi mkhan po sh lendra bo dhi dang ju chen gyi lo tsa ba bandhe ye shes sdes sgyur cing zhus te gtan la bebs ba "
+  }
+]

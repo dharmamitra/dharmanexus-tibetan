@@ -1,0 +1,5816 @@
+[
+  {
+    "segmentnr":"BO_T02_D2633:168a-0",
+    "original":"@168a # \/\/ rgya gar skad du \/",
+    "folio":"168a",
+    "stemmed":"rgya gar skad du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-1",
+    "original":"sarba durga ti pa ri sho dha na ma ra ho ma bidhi ka rma kra ma \/",
+    "folio":"168a",
+    "stemmed":"sarba durga ti ba ri sho dha na ma ra ho ma bidhi ka rma kra ma "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-2",
+    "original":"bod skad du \/",
+    "folio":"168a",
+    "stemmed":"bod skad du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-3",
+    "original":"ngan song thams cad yongs su sbyong ba'i shi ba'i sbyin sreg gi cho ga'i las kyi rim pa \/",
+    "folio":"168a",
+    "stemmed":"ngan gro thams cad yongs su sbyong ba chi ba sbyin sreg gi cho ga las kyi rim ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-4",
+    "original":"bcom ldan 'das de bzhin gshegs pa dgra bcom pa yang dag par rdzogs pa'i sangs rgyas \/",
+    "folio":"168a",
+    "stemmed":"joms ldan da de bzhin gshegs ba dgra joms ba yang dag ba rdzogs ba sangs rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-5",
+    "original":"ngan song thams cad yongs su sbyong ba gzi brjid kyi rgyal po la phyag 'tshal lo \/\/",
+    "folio":"168a",
+    "stemmed":"ngan gro thams cad yongs su sbyong ba gzi brjid kyi rgyal po la phyag tshal lo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-6",
+    "original":"gang zhig dam tshig la brtan par gnas shing \/",
+    "folio":"168a",
+    "stemmed":"gang jig dam tshig la brtan ba gnas shing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-7",
+    "original":"bla ma dang rje btsun la dbang tshul bzhin du thob pa \/",
+    "folio":"168a",
+    "stemmed":"bla ma dang rje btsun la dbang tshul bzhin du thob ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-8",
+    "original":"gsang sngags kyi rgyud dang \/ cho ga'i bye brag la mkhas pa \/",
+    "folio":"168a",
+    "stemmed":"gsang sngags kyi brgyud dang cho ga bye brag la mkhas ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-9",
+    "original":"bdag dang gzhan gyi don bsgrub pa la brtson pa des \/",
+    "folio":"168a",
+    "stemmed":"bdag dang gzhan gyi don sgrub ba la brtson ba des "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-10",
+    "original":"byams pa dang snying rje'i sems kyis \/",
+    "folio":"168a",
+    "stemmed":"byams ba dang snying rje sems kyis "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-11",
+    "original":"sems can gang dag shi ba'i dus byas te mi dge ba'i rnam par smin pas ngan song gsum gyi sdug bsngal myong bar 'gyur ba dang \/ nyam nga ba'i gnas nas 'don cing \/",
+    "folio":"168a",
+    "stemmed":"sems can gang dag chi ba dus byed te mi dge ba rnam ba smin ba ngan gro gsum gyi sdug sngal myong ba gyur ba dang nyam nga ba gnas nas don cing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-12",
+    "original":"mtho ris kyi bde ba la dgod par bya ba'i phyir \/",
+    "folio":"168a",
+    "stemmed":"mtho ris kyi bde ba la god ba byed ba phyir "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-13",
+    "original":"ngan song rnam par sbyong ba'i brtag pa las byung ba'i shi ba'i cho ga bya bar 'os so \/\/",
+    "folio":"168a",
+    "stemmed":"ngan gro rnam ba sbyong ba rtog ba las byung ba chi ba cho ga byed ba s so "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-14",
+    "original":"de nas rnal 'byor pa des \/",
+    "folio":"168a",
+    "stemmed":"de nas rnal byor ba des "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-15",
+    "original":"bum pa tshul bzhin du byin gyis brlabs pa la \/",
+    "folio":"168a",
+    "stemmed":"bum ba tshul bzhin du byin gyis brlabs ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-16",
+    "original":"sems can tshe 'das pa de'i ming dang sngags su sbel  zhing \/",
+    "folio":"168a",
+    "stemmed":"sems can tshe da ba de ming dang sngags su sbel zhing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-17",
+    "original":"'bum phrag stong ngam \/",
+    "folio":"168a",
+    "stemmed":"bum phrag stong ngam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-18",
+    "original":"brgya phrag stong du tshang ba'am \/",
+    "folio":"168a",
+    "stemmed":"brgya phrag stong du tshang ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-19",
+    "original":"bye ba'i tshad du bzlas na lha'i gnas su skye bar 'gyur ro \/\/",
+    "folio":"168a",
+    "stemmed":"bye ba tshad du bzlas na lha gnas su skye ba gyur ro "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-20",
+    "original":"de ni sngon du bsnyen pa'i cho ga'o \/",
+    "folio":"168a",
+    "stemmed":"de ni sngon du snyen ba cho ga "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-21",
+    "original":"\/\/ \/ de nas sa'i cho ga bya ba ni \/",
+    "folio":"168a",
+    "stemmed":"de nas sa cho ga byed ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-22",
+    "original":"sa sngon du sbyangs pa'i gnyug ma 'am \/",
+    "folio":"168a",
+    "stemmed":"sa sngon du sbyong ba gnyug ma mang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-23",
+    "original":"lha khang ngam \/",
+    "folio":"168a",
+    "stemmed":"lha khang ngam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-24",
+    "original":"mchod rten nam \/",
+    "folio":"168a",
+    "stemmed":"mchod rten nam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-25",
+    "original":"gang gi lhas sam \/",
+    "folio":"168a",
+    "stemmed":"gang gi lhas sam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-26",
+    "original":"chu 'gram mam \/",
+    "folio":"168a",
+    "stemmed":"chu grams mam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168a-27",
+    "original":"skyed mos tshal lam \/",
+    "folio":"168a",
+    "stemmed":"skyed mos tshal lam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-0",
+    "original":"der ni sa'i cho ga @168b phye mi dgos so \/\/",
+    "folio":"168b",
+    "stemmed":"der ni sa cho ga byed mi dgos so "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-1",
+    "original":"de lta bu'i gnas ma rnyed na \/",
+    "folio":"168b",
+    "stemmed":"de lta bu gnas ma rnyed na "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-2",
+    "original":"sa'i phyogs brtags par sa'i cho ga gzhung bzhin du byas la \/",
+    "folio":"168b",
+    "stemmed":"sa phyogs rtog ba sa cho ga gzhung bzhin du byed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-3",
+    "original":"dkyil 'khor ngos gcig la khru drug pa gru bzhi 'phang du khru gang ba gcig byas pa'i dbus su \/",
+    "folio":"168b",
+    "stemmed":"dkyil khor ngos gcig la khru drug ba gru bzhi phen du khru gang ba gcig byed ba dbus su "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-4",
+    "original":"me thab khor khor yug tu khru bzhi pa zlum po \/",
+    "folio":"168b",
+    "stemmed":"me thab khor khor yug tu khru bzhi ba zlum po "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-5",
+    "original":"zabs su khru do pa gcig bya ste ;",
+    "folio":"168b",
+    "stemmed":"zabs su khru do ba gcig byed ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-6",
+    "original":"mu ran 'phang dang zheng sor brgyad pa zlum por bskor \/",
+    "folio":"168b",
+    "stemmed":"mu ran phen dang zheng sor brgyad ba zlum por skor "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-7",
+    "original":"lci bas skyang nul legs par byas \/",
+    "folio":"168b",
+    "stemmed":"lci ba skyang nul legs ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-8",
+    "original":"sa dkar pos bsku zhing dris byugs \/",
+    "folio":"168b",
+    "stemmed":"sa dkar pos skud zhing dri byug "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-9",
+    "original":"de nas thig skud thogs pa zhig gis \/",
+    "folio":"168b",
+    "stemmed":"de nas thig skud thogs ba jig gis "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-10",
+    "original":"thab khung gi nang re mig dgu ru gdab \/",
+    "folio":"168b",
+    "stemmed":"thab khung gi nang re mig dgu ru gdab "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-11",
+    "original":"de nas rdo rje ra ba'i sa bcad \/",
+    "folio":"168b",
+    "stemmed":"de nas rdo rje ra ba sa gcod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-12",
+    "original":"thab khung gi phyi rol du 'khor lo rtsibs bcu drug par gdab \/",
+    "folio":"168b",
+    "stemmed":"thab khung gi phyi rol du khor lo rtsibs chu drug ba gdab "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-13",
+    "original":"de'i phyi rol du gru chad bya \/",
+    "folio":"168b",
+    "stemmed":"de phyi rol du gru chad byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-14",
+    "original":"de'i phyi rol du snam bu gnyis bya \/",
+    "folio":"168b",
+    "stemmed":"de phyi rol du snam bu gnyis byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-15",
+    "original":"de nas sgo byang nas tshon 'bras kha dog legs par bsgyur ba \/",
+    "folio":"168b",
+    "stemmed":"de nas sgo byang nas tshon bras kha dog legs ba sgyur ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-16",
+    "original":"tshon phyogs dang mdun du snod gtsang ma dris bsgos pa bsogs la \/",
+    "folio":"168b",
+    "stemmed":"tshon phyogs dang mdun du snod gtsang ma dri sgo ba bsogs la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-17",
+    "original":"de mi dmigs pa las yi ge lnga las byung ba'i sa tshon bsams la \/",
+    "folio":"168b",
+    "stemmed":"de mi dmigs ba las yi ge lnga las byung ba sa tshon bsams la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-18",
+    "original":"ye shes kyi tshon bkug la bstims la tshon phye sna lngas bri ba ni \/",
+    "folio":"168b",
+    "stemmed":"ye shes kyi tshon gugs la stim la tshon byed sna lngas bri ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-19",
+    "original":"me thab kyi re mig gi dbus su 'khor lo rtsibs brgyad pa dgod \/",
+    "folio":"168b",
+    "stemmed":"me thab kyi re mig gi dbus su khor lo rtsibs brgyad ba god "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-20",
+    "original":"shar du rdo rje lhor rin po che \/",
+    "folio":"168b",
+    "stemmed":"char du rdo rje lhor rin po che "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-21",
+    "original":"nub tu padma byad du sna tshogs rdo rje rnams rim bzhin du dgod do \/\/",
+    "folio":"168b",
+    "stemmed":"nub tu padma byad du sna tshogs rdo rje rnams rim bzhin du god do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-22",
+    "original":"mu ran rdo rje rkyang pa rtse lnga bas bskor \/",
+    "folio":"168b",
+    "stemmed":"mu ran rdo rje rkyang ba rtse lnga ba skor "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-23",
+    "original":"de'i phyi rim gyi 'khor lo rtsibs bcu drug pa \/",
+    "folio":"168b",
+    "stemmed":"de phyi rim gyi khor lo rtsibs chu drug ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-24",
+    "original":"shar gyi rtsibs bzhi la \/",
+    "folio":"168b",
+    "stemmed":"char gyi rtsibs bzhi la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-25",
+    "original":"rdo rje dang \/ lcags kyu dang \/ mda' dang \/ mgu bar ston pa rnams dgod \/",
+    "folio":"168b",
+    "stemmed":"rdo rje dang lcags kyu dang mda dang mgu ba ston ba rnams god "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-26",
+    "original":"lho'i 'khor lo rtsibs bzhi la \/",
+    "folio":"168b",
+    "stemmed":"lho khor lo rtsibs bzhi la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-27",
+    "original":"nor bu rin po che dang \/ nyi ma'i dkyil 'khor dang \/ yid bzhin gyi nor bu'i rgyal mtshan dang \/ so'i phreng ba rnams dgod \/",
+    "folio":"168b",
+    "stemmed":"nor bu rin po che dang nyi ma dkyil khor dang yid bzhin gyi nor bu rgyal mtshan dang so phreng ba rnams god "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-28",
+    "original":"nub kyi 'khor lo rtsibs bzhi la \/",
+    "folio":"168b",
+    "stemmed":"nub kyi khor lo rtsibs bzhi la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-29",
+    "original":"rdo rje padma dang \/ ral gri dang \/ 'khor lo dang \/ dung rnams dgod \/",
+    "folio":"168b",
+    "stemmed":"rdo rje padma dang ral gri dang khor lo dang dung rnams god "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-30",
+    "original":"byang gi 'khor lo rtsibs bzhi la \/",
+    "folio":"168b",
+    "stemmed":"byang gi khor lo rtsibs bzhi la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-31",
+    "original":"rdo rje kha bzhi pa dang \/ rdo rje go cha dang \/ rdo rje mche ba dang \/ rdo rje khu tshur bcings pa rnams dgod \/",
+    "folio":"168b",
+    "stemmed":"rdo rje kha bzhi ba dang rdo rje go cha dang rdo rje mche ba dang rdo rje khu tshur ching ba rnams god "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-32",
+    "original":"de'i phyi rim gyi gru chad kyi shar lhor \/",
+    "folio":"168b",
+    "stemmed":"de phyi rim gyi gru chad kyi char lhor "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-33",
+    "original":"smin ma 'degs pa'i tshul dang \/ spos me \/",
+    "folio":"168b",
+    "stemmed":"smin ma degs ba tshul dang spros me "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-34",
+    "original":"lho nub tu rin po che'i phreng ba dang \/ me tog \/ nub byang du yid du 'ong ba'i glu dang mar me \/",
+    "folio":"168b",
+    "stemmed":"lho nub tu rin po che phreng ba dang me tog nub byang du yid du ng ba glu dang mar me "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:168b-35",
+    "original":"byang shar du gar byed pa'i mtshan nyid dang \/ byug spos rnam dgod do \/\/",
+    "folio":"168b",
+    "stemmed":"byang char du gar byed ba mtshan nyid dang byug spros rnam god do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-0",
+    "original":"de'i phyi rim gyi @169a * \/\/",
+    "folio":"169a",
+    "stemmed":"de phyi rim gyi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-1",
+    "original":"snam bu dang po la \/",
+    "folio":"169a",
+    "stemmed":"snam bu dang po la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-2",
+    "original":"shar du rdo rje gdengs pa dang zla ba \/",
+    "folio":"169a",
+    "stemmed":"char du rdo rje gdeng ba dang zla ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-3",
+    "original":"shar lhor me thab \/",
+    "folio":"169a",
+    "stemmed":"char lhor me thab "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-4",
+    "original":"lhor dbyug pa \/",
+    "folio":"169a",
+    "stemmed":"lhor dbyug ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-5",
+    "original":"lho nub tu ral gri \/ nub tu zhags pa dang \/ bum pa dang nyi ma \/",
+    "folio":"169a",
+    "stemmed":"lho nub tu ral gri nub tu zhags ba dang bum ba dang nyi ma "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-6",
+    "original":"nub byang du ba dan \/",
+    "folio":"169a",
+    "stemmed":"nub byang du ba dan "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-7",
+    "original":"byang du be con \/",
+    "folio":"169a",
+    "stemmed":"byang du be con "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-8",
+    "original":"byang shar du mdung rtse gsum pa rnams dgod do \/\/",
+    "folio":"169a",
+    "stemmed":"byang char du mdung rtse gsum ba rnams god do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-9",
+    "original":"de'i phyi rim gyi snam bu gnyis pa la \/",
+    "folio":"169a",
+    "stemmed":"de phyi rim gyi snam bu gnyis ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-10",
+    "original":"ming ngam \/ brda 'am \/",
+    "folio":"169a",
+    "stemmed":"ming ngam brda mang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-11",
+    "original":"thig ler byas nas dgod pa ni \/",
+    "folio":"169a",
+    "stemmed":"thig ler byed nas god ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-12",
+    "original":"shar gyi snam bu la \/",
+    "folio":"169a",
+    "stemmed":"char gyi snam bu la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-13",
+    "original":"pa ba sangs dang \/ mig dmar gnyis kyi bar du rim bzhin du \/",
+    "folio":"169a",
+    "stemmed":"ba ba sangs dang mig dmar gnyis kyi ba du rim bzhin du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-14",
+    "original":"smin drug snar ma \/",
+    "folio":"169a",
+    "stemmed":"smin drug snar ma "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-15",
+    "original":"mgo lag \/ nab so \/",
+    "folio":"169a",
+    "stemmed":"mgo lag nab so "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-16",
+    "original":"rgyal \/ skag rnams dgod do \/\/",
+    "folio":"169a",
+    "stemmed":"rgyal skag rnams god do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-17",
+    "original":"lho'i snam bu la rim bzhin du \/",
+    "folio":"169a",
+    "stemmed":"lho snam bu la rim bzhin du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-18",
+    "original":"phur bu dang ; nyi ma gnyis kyi bar du \/",
+    "folio":"169a",
+    "stemmed":"phur bu dang nyi ma gnyis kyi ba du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-19",
+    "original":"mchu \/ gre \/",
+    "folio":"169a",
+    "stemmed":"mchu gre "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-20",
+    "original":"dbo \/ me bzhi \/",
+    "folio":"169a",
+    "stemmed":"bo me bzhi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-21",
+    "original":"nag pa \/ sa ri \/",
+    "folio":"169a",
+    "stemmed":"nag ba sa ri "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-22",
+    "original":"sa ga rnams dgod do \/\/",
+    "folio":"169a",
+    "stemmed":"sa ga rnams god do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-23",
+    "original":"nub kyi snam bu la rim bzhin du \/",
+    "folio":"169a",
+    "stemmed":"nub kyi snam bu la rim bzhin du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-24",
+    "original":"zla ba dang sgra gcan gnyis kyi bar du rim bzhin du \/",
+    "folio":"169a",
+    "stemmed":"zla ba dang sgra gcan gnyis kyi ba du rim bzhin du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-25",
+    "original":"lha mtshams \/ snron \/",
+    "folio":"169a",
+    "stemmed":"lha mtshams snron "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-26",
+    "original":"snubs \/ chu stod \/",
+    "folio":"169a",
+    "stemmed":"snubs chu stod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-27",
+    "original":"chu smad \/ gro bzhin \/",
+    "folio":"169a",
+    "stemmed":"chu smad gro bzhin "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-28",
+    "original":"byi bzhin rnams dgod do \/\/",
+    "folio":"169a",
+    "stemmed":"byi bzhin rnams god do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-29",
+    "original":"byang gi snam bu la \/",
+    "folio":"169a",
+    "stemmed":"byang gi snam bu la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-30",
+    "original":"gza' lag dang \/ spen pa'i bar du \/",
+    "folio":"169a",
+    "stemmed":"gza lag dang spen ba ba du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-31",
+    "original":"rim bzhin du \/",
+    "folio":"169a",
+    "stemmed":"rim bzhin du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-32",
+    "original":"mon gru \/ mon gre \/ khrums stod \/",
+    "folio":"169a",
+    "stemmed":"mon gru mon gre khrums stod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-33",
+    "original":"khrums smad \/ nam gru \/ tha skar \/",
+    "folio":"169a",
+    "stemmed":"khrums smad nam gru tha skar "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-34",
+    "original":"bra nye rnams dgod do \/\/",
+    "folio":"169a",
+    "stemmed":"bra nye rnams god do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-35",
+    "original":"de'i phyi rim gyi snam bu la \/",
+    "folio":"169a",
+    "stemmed":"de phyi rim gyi snam bu la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-36",
+    "original":"sgo bzhi'i shar du lcags kyu \/",
+    "folio":"169a",
+    "stemmed":"sgo bzhi char du lcags kyu "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-37",
+    "original":"lhor zhags pa \/",
+    "folio":"169a",
+    "stemmed":"lhor zhags ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-38",
+    "original":"nub tu lcags sgrog \/ byang du khu tshur bcangs pa rnams dgod do \/\/",
+    "folio":"169a",
+    "stemmed":"nub tu lcags sgrog byang du khu tshur chang ba rnams god do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-39",
+    "original":"gzhan yang dkyil 'khor gyi rgyan them skas bzhi'i phreng ba dang \/ lnga ldi dang \/ do shal dang \/ phreng ba dang \/ dril bu dang \/ rnga ma dang \/ seng ge dang \/ ban glang la sogs pas brgyan par bri'o \/\/",
+    "folio":"169a",
+    "stemmed":"gzhan yang dkyil khor gyi rgyan thems skas bzhi phreng ba dang lnga ldi dang do shal dang phreng ba dang dril bu dang rnga ma dang seng ge dang ban glang la sogs ba rgyan ba bri "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-40",
+    "original":"de ltar sbyin sreg gi dkyil 'khor bris nas \/",
+    "folio":"169a",
+    "stemmed":"de ltar sbyin sreg gi dkyil khor bri nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-41",
+    "original":"bum pa'am bya chus bkang ba \/",
+    "folio":"169a",
+    "stemmed":"bum ba byed chus geng ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-42",
+    "original":"rin po che'am \/",
+    "folio":"169a",
+    "stemmed":"rin po che "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-43",
+    "original":"sa las byas pa'i bum pa \/",
+    "folio":"169a",
+    "stemmed":"sa las byed ba bum ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-44",
+    "original":"rtsa ba mi gang pa \/",
+    "folio":"169a",
+    "stemmed":"rtsa ba mi gang ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-45",
+    "original":"gsus pa che ba \/",
+    "folio":"169a",
+    "stemmed":"gsus ba che ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-46",
+    "original":"mgrin pa ring ba \/",
+    "folio":"169a",
+    "stemmed":"mgrin ba ring ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-47",
+    "original":"mchu 'phyad ba \/",
+    "folio":"169a",
+    "stemmed":"mchu phyad ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-48",
+    "original":"bri ha sti dang \/ kanda ka ri dang \/ ha sa dang \/ dandotpa la dang \/ shve ta par dzi ta ste sman rnams dang \/ nas dang gro dang \/ til dang ma sha ste \/",
+    "folio":"169a",
+    "stemmed":"bri ha sti dang kanda ka ri dang ha sa dang dandotpa la dang shve ta ba dzi ta ste sman rnams dang nas dang gro dang til dang ma sha ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-49",
+    "original":"'bru thams cad dang \/ byu ru dang \/ gser dang \/ dung dang \/ mu tig dang \/ padma r'a ga ste \/",
+    "folio":"169a",
+    "stemmed":"bru thams cad dang byu ru dang gser dang dung dang mu tig dang padma ra ga ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169a-50",
+    "original":"rin po che thams cad dang \/ mgul chings dang \/ bum pa'i kha rgyan la sogs pa gzhung dang mthun par byas la \/",
+    "folio":"169a",
+    "stemmed":"rin po che thams cad dang mgul ching dang bum ba kha rgyan la sogs ba gzhung dang mthun ba byed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-0",
+    "original":"lnga yan chad dgod pa dang \/ lha bshos snod gtsang @169b ma bkang ba brgyad dam \/",
+    "folio":"169b",
+    "stemmed":"lnga yan chad god ba dang lha bshos snod gtsang ma geng ba brgyad dam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-1",
+    "original":"bcu drug snyed kyi bza' ba dang \/ bca' ba dang \/ btung ba sna tshogs dang \/ me tog dang \/ byug ba dang \/ bdug pa dang \/ mar me la sogs pa'i mchod pa rnams dang \/ me tog gi phreng ba rnams dang \/ rgyal mtshan dang \/",
+    "folio":"169b",
+    "stemmed":"chu drug snyed kyi bza ba dang chos ba dang thung ba sna tshogs dang me tog dang byug ba dang bdug ba dang mar me la sogs ba mchod ba rnams dang me tog gi phreng ba rnams dang rgyal mtshan dang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-2",
+    "original":"bla re dang \/ gdugs dang \/ ba dan dang ; 'phan la sogs pas brgyan pa dang \/ dkyil 'khor gyi mtha'am me tog gi sil ma bkram zhing ku shas bskor \/",
+    "folio":"169b",
+    "stemmed":"bla re dang gdugs dang ba dan dang phan la sogs ba rgyan ba dang dkyil khor gyi mtha me tog gi sil ma grem zhing ku shas skor "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-3",
+    "original":"mchod yon gyi gtor ma rgyas pa cha gnyis kyang bsham mo \/\/",
+    "folio":"169b",
+    "stemmed":"mchod yon gyi thor ma rgya ba cha gnyis kyang bsham mo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-4",
+    "original":"gzhan yang sbyin sreg gi yo byad mar khu dang \/ 'o ma dang \/ til dang \/ yungs kar dang \/ 'bras chan dang \/ 'bras yos dang \/ d'ur ba dang \/ yam shing \/",
+    "folio":"169b",
+    "stemmed":"gzhan yang sbyin sreg gi yo byad mar khu dang mang ma dang til dang yungs kar dang bras chan dang bras yos dang dur ba dang yam shing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-5",
+    "original":"shing 'o ma can dang \/ dri zhim pa las byas pa'i sor brgyad dam \/",
+    "folio":"169b",
+    "stemmed":"shing mang ma can dang dri zhim ba las byed ba sor brgyad dam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-6",
+    "original":"sor nyi shu rtsa bzhi'i bar dang \/ bud shing 'o ma can skam po zlum pa rnams dang \/ ga pur dang \/ gur kum la sogs pa'i dri zhim po dag gis bskus shing byugs pa rnams bsag go \/\/",
+    "folio":"169b",
+    "stemmed":"sor nyi shu rtsa bzhi ba dang bud shing mang ma can skam po zlum ba rnams dang ga pur dang gur kum la sogs ba dri zhim po dag gis skud shing byug ba rnams bsag go "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-7",
+    "original":"de ltar mchod pa'i yo byad rnams bsog go \/\/",
+    "folio":"169b",
+    "stemmed":"de ltar mchod ba yo byad rnams bsog go "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-8",
+    "original":"bdag nyid lha'i rnal 'byor du byas nas \/",
+    "folio":"169b",
+    "stemmed":"bdag nyid lha rnal byor du byed nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-9",
+    "original":"dkyil 'khor gyi yo byad rnams la \/",
+    "folio":"169b",
+    "stemmed":"dkyil khor gyi yo byad rnams la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-10",
+    "original":"las thams cad pa rdo rje gnod sbyin nas \/",
+    "folio":"169b",
+    "stemmed":"las thams cad ba rdo rje gnod sbyin nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-11",
+    "original":"rdo rje rtse mo'i sngags kyis gdab \/",
+    "folio":"169b",
+    "stemmed":"rdo rje rtse mo sngags kyis gdab "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-12",
+    "original":"sreg rdzas kun la ngan song spyod ba'i sngags brgya phrag du ma bzlas shing byin gyis brlabs \/",
+    "folio":"169b",
+    "stemmed":"sreg rdzas kun la ngan gro spyod ba sngags brgya phrag du ma bzlas shing byin gyis brlabs "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-13",
+    "original":"yang na rdzas rang rang gi sngags kyis byin gyis brlab \/",
+    "folio":"169b",
+    "stemmed":"yang na rdzas rang rang gi sngags kyis byin gyis brlab "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-14",
+    "original":"de nas las thams cad pa'am \/",
+    "folio":"169b",
+    "stemmed":"de nas las thams cad ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-15",
+    "original":"'phags pa mi g-yo bas bgegs bskrad cing mtshams bcad \/",
+    "folio":"169b",
+    "stemmed":"phag ba mi g-yo ba bgegs skrod cing mtshams gcod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-16",
+    "original":"de nas bdag nyid lhar byas te dbang bskur ba dang \/ lus bsrung ba la sogs pa byas te \/",
+    "folio":"169b",
+    "stemmed":"de nas bdag nyid lhar byed te dbang skur ba dang lus bsrung ba la sogs ba byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-17",
+    "original":"bdag nyid kyi thugs ka nas sngags brjod pas \/",
+    "folio":"169b",
+    "stemmed":"bdag nyid kyi thugs ka nas sngags rjod ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-18",
+    "original":"phyogs phyogs kyi bgegs rnams khro bo'i skur gyur pas bsrung bar bsam pa ni \/",
+    "folio":"169b",
+    "stemmed":"phyogs phyogs kyi bgegs rnams khro bo skur gyur ba bsrung ba bsam ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-19",
+    "original":"steng du rdo rje 'jigs byed kyis bsrung \/",
+    "folio":"169b",
+    "stemmed":"steng du rdo rje jigs byed kyis bsrung "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-20",
+    "original":"shar du rdo rje gtsug tor dang \/ zhags pas bsrung \/",
+    "folio":"169b",
+    "stemmed":"char du rdo rje gtsug tor dang zhags ba bsrung "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-21",
+    "original":"nub tu rdo rje ba dan gyis bsrung \/",
+    "folio":"169b",
+    "stemmed":"nub tu rdo rje ba dan gyis bsrung "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-22",
+    "original":"lhor rdo rje rtse mos bsrung \/",
+    "folio":"169b",
+    "stemmed":"lhor rdo rje rtse mos bsrung "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-23",
+    "original":"byang du rdo rje nag pos bsrung \/",
+    "folio":"169b",
+    "stemmed":"byang du rdo rje nag pos bsrung "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-24",
+    "original":"mtshams bzhir 'jigs byed spyan gyis bsrung \/",
+    "folio":"169b",
+    "stemmed":"mtshams bzhir jigs byed spyan gyis bsrung "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-25",
+    "original":"'og rdo rje gnod sbyin gyis bsrung \/",
+    "folio":"169b",
+    "stemmed":"g rdo rje gnod sbyin gyis bsrung "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-26",
+    "original":"steng pam las rdo rje ra ba bya \/",
+    "folio":"169b",
+    "stemmed":"steng pam las rdo rje ra ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-27",
+    "original":"badzra karmas rdo rje lnga pa'i ba bya \/",
+    "folio":"169b",
+    "stemmed":"badzra karmas rdo rje lnga ba ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:169b-28",
+    "original":"phur bus snga nas gnas pa bskrad \/",
+    "folio":"169b",
+    "stemmed":"phur bud snga nas gnas ba skrod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-0",
+    "original":"phyis @170a * \/\/",
+    "folio":"170a",
+    "stemmed":"byid "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-1",
+    "original":"'od mi nus par byas te \/",
+    "folio":"170a",
+    "stemmed":"d mi nus ba byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-2",
+    "original":"phyogs bcur gdab \/",
+    "folio":"170a",
+    "stemmed":"phyogs jur gdab "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-3",
+    "original":"de nas bdag nyid kyi snying gar sna tshogs rdo rje a'a las bsams la \/",
+    "folio":"170a",
+    "stemmed":"de nas bdag nyid kyi snying gar sna tshogs rdo rje aa las bsams la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-4",
+    "original":"rdo rje bsdu bas 'phags pa rnams spyan drangs te \/",
+    "folio":"170a",
+    "stemmed":"rdo rje sdud ba phag ba rnams spyan drangs te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-5",
+    "original":"phyag rgya bzhis bzhugs su gsol la \/",
+    "folio":"170a",
+    "stemmed":"phyag rgya bzhis bzhugs su gsol la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-6",
+    "original":"yon chab la sogs pa mchod pa rnams tshul bzhin du dbul lo \/\/",
+    "folio":"170a",
+    "stemmed":"yon chab la sogs ba mchod ba rnams tshul bzhin du bul lo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-7",
+    "original":"de nas gtor ma rnams tshul bzhin du byin gyis brlabs nas \/",
+    "folio":"170a",
+    "stemmed":"de nas thor ma rnams tshul bzhin du byin gyis brlabs nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-8",
+    "original":"dam tshig can rnams la gtor ma phul te \/",
+    "folio":"170a",
+    "stemmed":"dam tshig can rnams la thor ma bul te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-9",
+    "original":"ming 'di zhes bya ba'i sgrib pa byang zhing \/",
+    "folio":"170a",
+    "stemmed":"ming di zhes byed ba sgrib ba byang zhing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-10",
+    "original":"bdag 'gro ba'i don brtson pa'i stong grogs mdzad du gsol zhes brjod do \/\/",
+    "folio":"170a",
+    "stemmed":"bdag gro ba don brtson ba stong grogs mdzad du gsol zhes rjod do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-11",
+    "original":"'gro ba spyir gtor ma bsngos nas ;",
+    "folio":"170a",
+    "stemmed":"gro ba spyir thor ma sngo nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-12",
+    "original":"ming 'di zhes bya ba'i lan chags byang zhing \/",
+    "folio":"170a",
+    "stemmed":"ming di zhes byed ba lan chags byang zhing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-13",
+    "original":"bsod nams kyi tshogs su gyur cig ces brjod de gtang \/",
+    "folio":"170a",
+    "stemmed":"bsod nams kyi tshogs su gyur cig ces rjod de gtong "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-14",
+    "original":"de nas sngags mkhan gzhan zhig yod na \/",
+    "folio":"170a",
+    "stemmed":"de nas sngags mkhan gzhan jig yod na "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-15",
+    "original":"bum pa la rigs lnga'i snying po dang \/ shi ba'i ming spel zhing cung zad bzlas la \/",
+    "folio":"170a",
+    "stemmed":"bum ba la rigs lnga snying po dang chi ba ming spel zhing cung zad bzlas la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-16",
+    "original":"de nas ngan song sbyong ba'i sngags ci mang du bzlas brjod bya'o \/\/",
+    "folio":"170a",
+    "stemmed":"de nas ngan gro sbyong ba sngags ci mang du bzlas rjod byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-17",
+    "original":"gzhan med na bdag nyid kyis bum pa gcig la \/",
+    "folio":"170a",
+    "stemmed":"gzhan med na bdag nyid kyis bum ba gcig la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-18",
+    "original":"ngan song sbyong ba'i sngags ci nus kyis bzlas so \/\/",
+    "folio":"170a",
+    "stemmed":"ngan gro sbyong ba sngags ci nus kyis bzlas so "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-19",
+    "original":"de nas bud shing la ngan song sbyong ba'i sngags kyis btab ste brtsig pa ni \/",
+    "folio":"170a",
+    "stemmed":"de nas bud shing la ngan gro sbyong ba sngags kyis debs ste brtsig ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-20",
+    "original":"shing drang zhing dri dang ldan na legs \/",
+    "folio":"170a",
+    "stemmed":"shing dren zhing dri dang ldan na legs "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-21",
+    "original":"dri med kyang shing drang zhing ring ba'i gdung \/",
+    "folio":"170a",
+    "stemmed":"dri med kyang shing dren zhing ring ba gdung "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-22",
+    "original":"ka ba bzhi thab kyi zur bzhi ru btsugs pa'i steng du \/",
+    "folio":"170a",
+    "stemmed":"ka ba bzhi thab kyi zur bzhi ru btsugs ba steng du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-23",
+    "original":"gnyis bzhag la sngas bya \/",
+    "folio":"170a",
+    "stemmed":"gnyis jog la bsngas byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-24",
+    "original":"phyi ma de gnyis kyi steng du phyam them par dgod \/",
+    "folio":"170a",
+    "stemmed":"phyi ma de gnyis kyi steng du phyam thems ba god "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-25",
+    "original":"de nas steng du rtsibs brtsigs la \/",
+    "folio":"170a",
+    "stemmed":"de nas steng du rtsibs brtsigs la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-26",
+    "original":"steng khang sum rim byas la \/",
+    "folio":"170a",
+    "stemmed":"steng khang sum rim byed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-27",
+    "original":"mchod rten gyi tshul du brtsigs \/",
+    "folio":"170a",
+    "stemmed":"mchod rten gyi tshul du brtsigs "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-28",
+    "original":"phrag non dang \/ steng non ro bzhag la brtsig par bya'o \/",
+    "folio":"170a",
+    "stemmed":"phrag non dang steng non ro jog la brtsig ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-29",
+    "original":"\/\/ \/ de nas bdag nyid lha'i rnal 'byor du byas te \/",
+    "folio":"170a",
+    "stemmed":"de nas bdag nyid lha rnal byor du byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-30",
+    "original":"shi ba'i lus la gnas pa dang \/ khog bsrungs la sogs pa'i bar du gcod pa'i bgegs bskrad pa ni \/",
+    "folio":"170a",
+    "stemmed":"chi ba lus la gnas ba dang khog bsrungs la sogs ba ba du gcod ba bgegs skrod ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-31",
+    "original":"rdo rje gsor zhing na mo badzra satva kro dha aa na l'arka ma h'a badzra kro dha \/",
+    "folio":"170a",
+    "stemmed":"rdo rje gsor zhing na mo badzra satva kro dha aa na larka ma ha badzra kro dha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-32",
+    "original":"dra ba dra ba \/",
+    "folio":"170a",
+    "stemmed":"dra ba dra ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-33",
+    "original":"bi dra ba bi dra ba \/",
+    "folio":"170a",
+    "stemmed":"bi dra ba bi dra ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-34",
+    "original":"sarba aa p'a ya \/",
+    "folio":"170a",
+    "stemmed":"sarba aa pa ya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-35",
+    "original":"n'a sha ya n'a sha ya \/",
+    "folio":"170a",
+    "stemmed":"na sha ya na sha ya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-36",
+    "original":"ha ra ha ra \/",
+    "folio":"170a",
+    "stemmed":"ha ra ha ra "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-37",
+    "original":"pra na na h'um phat \/",
+    "folio":"170a",
+    "stemmed":"pra na na hum phat "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-38",
+    "original":"ces brjod la bskrad do \/\/",
+    "folio":"170a",
+    "stemmed":"ces rjod la skrod do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-39",
+    "original":"de nas lcags kyu'i phyag rgya bcas la \/",
+    "folio":"170a",
+    "stemmed":"de nas lcags kyu phyag rgya cha la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-40",
+    "original":"aom badzra aam ku sha che ge mo dza:\/",
+    "folio":"170a",
+    "stemmed":"aom badzra aam ku sha che ge mo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-41",
+    "original":"zhes brjod pas \/",
+    "folio":"170a",
+    "stemmed":"zhes rjod ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170a-42",
+    "original":"tshe 'das pa de gang na gnas kyang rung ste \/",
+    "folio":"170a",
+    "stemmed":"tshe da ba de gang na gnas kyang rung ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-0",
+    "original":"rang dbang med par lcags kyu can @170b gyis bkug par bsam \/",
+    "folio":"170b",
+    "stemmed":"rang dbang med ba lcags kyu can gyis gugs ba bsam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-1",
+    "original":"aom badzra p'a sha h'um gis ro la gshegs pa gzhug \/ aom badzra spho ta bam gyis bsdams \/",
+    "folio":"170b",
+    "stemmed":"aom badzra pa sha hum gis ro la gshegs ba jug aom badzra spho ta bam gyis sdom "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-2",
+    "original":"ghanti ho:\/ sems ma 'khrugs par dga' bar bya \/",
+    "folio":"170b",
+    "stemmed":"ghanti sems ma khrugs ba dga ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-3",
+    "original":"de nas ro la ngan song sbyong ba'i sngags kyis btab la \/",
+    "folio":"170b",
+    "stemmed":"de nas ro la ngan gro sbyong ba sngags kyis debs la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-4",
+    "original":"sngon du bzlas pa'i bum pa'i chus bkru \/ bkrus pa dang kun gzhi'i las dang \/ nyon mongs pa'i bag chags gangs kyi rim pa bzhin du gnas pa dag par bsam \/",
+    "folio":"170b",
+    "stemmed":"sngon du bzlas ba bum ba chus khrud khrud ba dang kun gzhi las dang nyon mongs ba bag chags gangs kyi rim ba bzhin du gnas ba dag ba bsam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-5",
+    "original":"de nas sngags bzlas shing dris byug \/",
+    "folio":"170b",
+    "stemmed":"de nas sngags bzlas shing dri byug "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-6",
+    "original":"de nas sngags kyis btab pa'i ras dkar po kha tshar ma nyams pas dkri \/",
+    "folio":"170b",
+    "stemmed":"de nas sngags kyis debs ba ras dkar po kha tshar ma nyams ba dkri "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-7",
+    "original":"sngags kyis btab pa'i bdug pas bdug \/ me tog gi phreng bas kyang ro la gdags so \/\/",
+    "folio":"170b",
+    "stemmed":"sngags kyis debs ba bdug ba bdug me tog gi phreng ba kyang ro la dogs so "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-8",
+    "original":"de ni ro la sngags gdags shing byin gyis brlab ste \/",
+    "folio":"170b",
+    "stemmed":"de ni ro la sngags dogs shing byin gyis brlab ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-9",
+    "original":"gur kum bzang pos bri ba ni \/",
+    "folio":"170b",
+    "stemmed":"gur kum bzang pos bri ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-10",
+    "original":"aom bri ta bri ta sarba a'a ba ra na ni h'um phat \/",
+    "folio":"170b",
+    "stemmed":"aom bri ta bri ta sarba aa ba ra na ni hum phat "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-11",
+    "original":"lus kyi spyi bor gdags so \/\/",
+    "folio":"170b",
+    "stemmed":"lus kyi spyi bor dogs so "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-12",
+    "original":"aom tra ta tra ta sarba a'a pa ra na ni h'um phat \/",
+    "folio":"170b",
+    "stemmed":"aom tra ta tra ta sarba aa ba ra na ni hum phat "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-13",
+    "original":"ngag ste mgrin pa'i lce rtsar gdags so \/\/",
+    "folio":"170b",
+    "stemmed":"ngag ste mgrin ba lce rtsar dogs so "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-14",
+    "original":"aom tshindha tshindha sarba a'a ba ra na ni h'um phat \/",
+    "folio":"170b",
+    "stemmed":"aom tshindha tshindha sarba aa ba ra na ni hum phat "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-15",
+    "original":"yid de snying gar gdags te \/",
+    "folio":"170b",
+    "stemmed":"yid de snying gar dogs te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-16",
+    "original":"lus ngag yid gsum gyi mi dge ba bcu'i bag chags dag par dmigs so \/\/",
+    "folio":"170b",
+    "stemmed":"lus ngag yid gsum gyi mi dge ba chu bag chags dag ba dmigs so "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-17",
+    "original":"da ni gnas bco brgyad du gdags te \/",
+    "folio":"170b",
+    "stemmed":"da ni gnas chos brgyad du dogs te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-18",
+    "original":"aom sho dha ni sho dha ni sarba aa p'a ya bi sho dha ni sarba karma a'a pa ra na bi shuddhe bi shuddhe \/",
+    "folio":"170b",
+    "stemmed":"aom sho dha ni sho dha ni sarba aa pa ya bi sho dha ni sarba karma aa ba ra na bi shuddhe bi shuddhe "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-19",
+    "original":"kun rig gi ste dbu la'o \/\/",
+    "folio":"170b",
+    "stemmed":"kun rig gi ste dbu la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-20",
+    "original":"aom sho dha ni sho dha ya sarba aa p'a ya bi sho dha ni stha h'um phat \/",
+    "folio":"170b",
+    "stemmed":"aom sho dha ni sho dha ya sarba aa pa ya bi sho dha ni stha hum phat "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-21",
+    "original":"ngan song sbyong ba'i ste mdzod spu la'o \/\/",
+    "folio":"170b",
+    "stemmed":"ngan gro sbyong ba ste mdzod spu la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-22",
+    "original":"aom sho dha ni sho dha ni sarba aa p'a ya sa tve bhya h'um tr'am \/",
+    "folio":"170b",
+    "stemmed":"aom sho dha ni sho dha ni sarba aa pa ya sa tve bhya hum tr "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-23",
+    "original":"rin chen tog gi ste rna ba g-yas pa la'o \/\/",
+    "folio":"170b",
+    "stemmed":"rin chen tog gi ste rna ba g-yas ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-24",
+    "original":"aom sho dha ni sho dha ya sarba aa p'a ya bi sho dha ni hr'i:\/",
+    "folio":"170b",
+    "stemmed":"aom sho dha ni sho dha ya sarba aa pa ya bi sho dha ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-25",
+    "original":"sh'akya thub pa'i ste rna ba g-yon pa la'o \/\/",
+    "folio":"170b",
+    "stemmed":"shakya thub ba ste rna ba g-yon ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-26",
+    "original":"aom sho dha ni sho dha ya sarba aa p'a ya tra ta aa \/",
+    "folio":"170b",
+    "stemmed":"aom sho dha ni sho dha ya sarba aa pa ya tra ta aa "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-27",
+    "original":"me tog che rgyas kyi ste mgo bo'i gtsug phud la'o \/\/",
+    "folio":"170b",
+    "stemmed":"me tog che rgya kyi ste mgo bo gtsug bud la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-28",
+    "original":"na mo bha ga ba te sarba durga ti pa ri sho dha na r'a dz'a ye \/",
+    "folio":"170b",
+    "stemmed":"na mo bha ga ba te sarba durga ti ba ri sho dha na ra dza ye "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-29",
+    "original":"ta th'a ga t'a ya aarha te \/",
+    "folio":"170b",
+    "stemmed":"ta tha ga ta ya aarha te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-30",
+    "original":"samya ksam buddh'a ya \/",
+    "folio":"170b",
+    "stemmed":"samya ksam buddha ya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-31",
+    "original":"tadya th'a \/ aom sho dha ni sho dha ni sarba p'a pam bi sho dha ni \/",
+    "folio":"170b",
+    "stemmed":"tadya tha aom sho dha ni sho dha ni sarba pa pam bi sho dha ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-32",
+    "original":"shuddhe bi shuddhe sarba karma a'a ba ra na bi shodha ni sv'a h'a \/",
+    "folio":"170b",
+    "stemmed":"shuddhe bi shuddhe sarba karma aa ba ra na bi shodha ni sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-33",
+    "original":"rtsa ba'i rig pa ste dpung pa g-yas pa la'o \/\/",
+    "folio":"170b",
+    "stemmed":"rtsa ba rig ba ste dpung ba g-yas ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-34",
+    "original":"aom sarba bti sarba a'a ba ra na bi sho dha ni ha na h'um phat \/",
+    "folio":"170b",
+    "stemmed":"aom sarba bti sarba aa ba ra na bi sho dha ni ha na hum phat "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-35",
+    "original":"dpung pa g-yon pa la'o \/\/",
+    "folio":"170b",
+    "stemmed":"dpung ba g-yon ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-36",
+    "original":"aom sarba bid h'um \/",
+    "folio":"170b",
+    "stemmed":"aom sarba bid hum "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-37",
+    "original":"sna la'o \/\/ aom sarba bid phat \/",
+    "folio":"170b",
+    "stemmed":"sna la aom sarba bid phat "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-38",
+    "original":"rked pa la'o \/\/",
+    "folio":"170b",
+    "stemmed":"rked ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-39",
+    "original":"aom sarba bid aa \/",
+    "folio":"170b",
+    "stemmed":"aom sarba bid aa "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:170b-40",
+    "original":"pus mo g-yas pa la'o \/\/",
+    "folio":"170b",
+    "stemmed":"pus mo g-yas ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-0",
+    "original":"aom sarba @171a * \/\/",
+    "folio":"171a",
+    "stemmed":"aom sarba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-1",
+    "original":"bid tra tha \/",
+    "folio":"171a",
+    "stemmed":"bid tra tha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-2",
+    "original":"pus mo g-yon pa la'o \/\/",
+    "folio":"171a",
+    "stemmed":"pus mo g-yon ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-3",
+    "original":"aom sarba bid aom \/",
+    "folio":"171a",
+    "stemmed":"aom sarba bid aom "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-4",
+    "original":"bol gong g-yas pa la'o \/\/",
+    "folio":"171a",
+    "stemmed":"bol gong g-yas ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-5",
+    "original":"aom sarba bid sv'a \/",
+    "folio":"171a",
+    "stemmed":"aom sarba bid sva "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-6",
+    "original":"bol god g-yon pa la'o \/\/",
+    "folio":"171a",
+    "stemmed":"bol god g-yon ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-7",
+    "original":"aom sarba bid aa \/",
+    "folio":"171a",
+    "stemmed":"aom sarba bid aa "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-8",
+    "original":"long bu g-yas pa la'o \/\/",
+    "folio":"171a",
+    "stemmed":"long bu g-yas ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-9",
+    "original":"aom sarba bid h'um \/",
+    "folio":"171a",
+    "stemmed":"aom sarba bid hum "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-10",
+    "original":"long bu g-yon pa la'o \/\/",
+    "folio":"171a",
+    "stemmed":"long bu g-yon ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-11",
+    "original":"aom sarba bid tra tha \/",
+    "folio":"171a",
+    "stemmed":"aom sarba bid tra tha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-12",
+    "original":"mig g-yas pa la'o \/",
+    "folio":"171a",
+    "stemmed":"mig g-yas ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-13",
+    "original":"aom sh'a \/ mig g-yon pa la'o \/\/",
+    "folio":"171a",
+    "stemmed":"aom sha mig g-yon ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-14",
+    "original":"aom bha \/ gsang ba'i gnas te mdoms su gdags pa ste \/",
+    "folio":"171a",
+    "stemmed":"aom bha gsang ba gnas te mdoms su dogs ba ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-15",
+    "original":"de bzhin yid kyis kyang sngags rnams dgod do \/\/",
+    "folio":"171a",
+    "stemmed":"de bzhin yid kyis kyang sngags rnams god do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-16",
+    "original":"de dag gi 'od zer gyis sgrib pa rnams byang bar bsam mo \/\/",
+    "folio":"171a",
+    "stemmed":"de dag gi d zer gyis sgrib ba rnams byang ba bsam mo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-17",
+    "original":"de nas sngags kyis btab pa'i der la sogs pa'i gos kyis g-yogs nas ;",
+    "folio":"171a",
+    "stemmed":"de nas sngags kyis debs ba der la sogs ba gos kyis g-yogs nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-18",
+    "original":"rgyan rnams kyis bklubs nas \/",
+    "folio":"171a",
+    "stemmed":"rgyan rnams kyis bklubs nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-19",
+    "original":"stan padma 'dab ma brgyad dang bcas par bzhag ste \/",
+    "folio":"171a",
+    "stemmed":"stan padma dab ma brgyad dang cha ba jog ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-20",
+    "original":"kha nub tu bstan la gzhag go \/\/",
+    "folio":"171a",
+    "stemmed":"kha nub tu ston la jog go "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-21",
+    "original":"sngags mkhan bdag nyid kha shar phyogs su bltas la las bya'o \/\/",
+    "folio":"171a",
+    "stemmed":"sngags mkhan bdag nyid kha char phyogs su lta la las byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-22",
+    "original":"de nas bzlas pa las kyi bum chus \/",
+    "folio":"171a",
+    "stemmed":"de nas bzlas ba las kyi bum chus "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-23",
+    "original":"thab dang sreg rdzas la sogs pa thams cad rnam par bsangs te \/",
+    "folio":"171a",
+    "stemmed":"thab dang sreg rdzas la sogs ba thams cad rnam ba bsangs te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-24",
+    "original":"shin tu gtsang ba'i rtsva ku sha'i khres la \/",
+    "folio":"171a",
+    "stemmed":"shin tu gtsang ba rtsva ku sha khres la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-25",
+    "original":"bkra shis kyi skyil mo krung gis 'dug ste \/",
+    "folio":"171a",
+    "stemmed":"bkra shis kyi skyil mo krung gis dug ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-26",
+    "original":"chos thams cad stong pa nyid du bsgom mo \/\/",
+    "folio":"171a",
+    "stemmed":"chos thams cad stong ba nyid du bsgom mo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-27",
+    "original":"stong pa'i khyad par las yi ge aa thung dur gyur te \/",
+    "folio":"171a",
+    "stemmed":"stong ba khyad ba las yi ge aa thung dur gyur te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-28",
+    "original":"de'i dbus su h'um bsam \/",
+    "folio":"171a",
+    "stemmed":"de dbus su hum bsam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-29",
+    "original":"de 'od du zhu ba las dam tshig gi phyag rgya rdo rje \/",
+    "folio":"171a",
+    "stemmed":"de d du ju ba las dam tshig gi phyag rgya rdo rje "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-30",
+    "original":"rdo rje de'i lte ba yang h'um bsams te \/",
+    "folio":"171a",
+    "stemmed":"rdo rje de lte ba yang hum bsams te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-31",
+    "original":"de las 'od 'phros pas \/",
+    "folio":"171a",
+    "stemmed":"de las d phro ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-32",
+    "original":"sku gsung thugs kyi dbyings gang \/",
+    "folio":"171a",
+    "stemmed":"sku gsung thugs kyi dbyings gang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-33",
+    "original":"thams cad bkug ste 'od du zhu ba las \/",
+    "folio":"171a",
+    "stemmed":"thams cad gugs ste d du ju ba las "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-34",
+    "original":"sgrub pa po bdag nyid lha'i rnal 'byor du sngags 'di brjod pas gyur par bsam mo \/\/",
+    "folio":"171a",
+    "stemmed":"sgrub ba po bdag nyid lha rnal byor du sngags di rjod ba gyur ba bsam mo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-35",
+    "original":"aom sho dha ni sho dha ni sarba p'a pam bi sho dha ni shuddhe bi shuddhe \/",
+    "folio":"171a",
+    "stemmed":"aom sho dha ni sho dha ni sarba pa pam bi sho dha ni shuddhe bi shuddhe "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-36",
+    "original":"sarba karma a'a ba ra na bi shuddhe sv'a h'a \/",
+    "folio":"171a",
+    "stemmed":"sarba karma aa ba ra na bi shuddhe sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-37",
+    "original":"'khor lo'i phyag rgya rdo rje'i khu tshur gnyis bcings te \/",
+    "folio":"171a",
+    "stemmed":"khor lo phyag rgya rdo rje khu tshur gnyis ching te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-38",
+    "original":"go rims kyis 'khor lo bskor ba'i tshul du dbye zhing sngags brjod pas \/",
+    "folio":"171a",
+    "stemmed":"go rims kyis khor lo skor ba tshul du byed zhing sngags rjod ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-39",
+    "original":"bcom ldan 'das kun rig gi rgyal po sku mdog dung dang kun da ltar dkar ba zhal bzhi pa \/",
+    "folio":"171a",
+    "stemmed":"joms ldan da kun rig gi rgyal po sku mdog dung dang kun da ltar dkar ba zhal bzhi ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-40",
+    "original":"phyag gnyis ting nge 'dzin du bsnol ba \/",
+    "folio":"171a",
+    "stemmed":"phyag gnyis ting nge dzin du snol ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-41",
+    "original":"rgyan thams cad kyis brgyan pa cig bskyed de \/",
+    "folio":"171a",
+    "stemmed":"rgyan thams cad kyis rgyan ba cig skyed de "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-42",
+    "original":"de nas rdo rje dbyings kyi dbang phyug ma'i phyag rgya ni \/",
+    "folio":"171a",
+    "stemmed":"de nas rdo rje dbyings kyi dbang phyug ma phyag rgya ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-43",
+    "original":"mthe bong gnyis ni skyil mo krung \/\/",
+    "folio":"171a",
+    "stemmed":"mthe bong gnyis ni skyil mo krung "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171a-44",
+    "original":"mdzub mo gnyis ni rtse mo dgug \/ gung mo rtse mo mnyam pa ste \/\/",
+    "folio":"171a",
+    "stemmed":"mdzub mo gnyis ni rtse mo gugs gung mo rtse mo mnyam ba ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-0",
+    "original":"rdo rje dbyings kyi @171b dbang mo'o \/\/",
+    "folio":"171b",
+    "stemmed":"rdo rje dbyings kyi dbang mo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-1",
+    "original":"sngags ni aom badzra dh'a tv'i shva ri h'um dza \/",
+    "folio":"171b",
+    "stemmed":"sngags ni aom badzra dha tv shva ri hum dza "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-2",
+    "original":"aom badzra ni aa dhi tishth'a ya \/",
+    "folio":"171b",
+    "stemmed":"aom badzra ni aa dhi tishtha ya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-3",
+    "original":"zhes brjod cing snying ga dang lkog ma dang \/ smin mtshams dang spyi bor byin gyis brlab bo \/\/",
+    "folio":"171b",
+    "stemmed":"zhes rjod cing snying ga dang lkog ma dang smin mtshams dang spyi bor byin gyis brlab bo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-4",
+    "original":"de nas dbang bskur te rdo rje bcings pa la \/",
+    "folio":"171b",
+    "stemmed":"de nas dbang skur te rdo rje ching ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-5",
+    "original":"mthe bong gnyis rtse mo can du byas te \/",
+    "folio":"171b",
+    "stemmed":"mthe bong gnyis rtse mo can du byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-6",
+    "original":"de'i steng du mdzub mo gnyis phan tshun ngos sprad de \/",
+    "folio":"171b",
+    "stemmed":"de steng du mdzub mo gnyis phan tshun ngos sprod de "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-7",
+    "original":"rin po che'i rtse mo 'dra bar byas pa ni \/",
+    "folio":"171b",
+    "stemmed":"rin po che rtse mo dra ba byed ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-8",
+    "original":"rin po che'i phyag rgya ste \/",
+    "folio":"171b",
+    "stemmed":"rin po che phyag rgya ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-9",
+    "original":"snying po ni aom badzra ratna zhes spyi bor rin po che'i dbang bskur ro \/\/",
+    "folio":"171b",
+    "stemmed":"snying po ni aom badzra ratna zhes spyi bor rin po che dbang skur ro "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-10",
+    "original":"de nas rang gi lce la rdo rje rtse lnga pa chos kyi phyag rgya h'um las bskyed de \/",
+    "folio":"171b",
+    "stemmed":"de nas rang gi lce la rdo rje rtse lnga ba chos kyi phyag rgya hum las skyed de "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-11",
+    "original":"de'i dbus su chos kyi phyag rgya sku bskyed pa'i snying po bsam mo ;",
+    "folio":"171b",
+    "stemmed":"de dbus su chos kyi phyag rgya sku skyed ba snying po bsam mo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-12",
+    "original":"\/ de nas rang gi snying gar las kyi phyag rgya rdzogs par byed pa \/",
+    "folio":"171b",
+    "stemmed":"de nas rang gi snying gar las kyi phyag rgya rdzogs ba byed ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-13",
+    "original":"sna tshogs rdo rje rgya gram yi ge aa las bsams te \/",
+    "folio":"171b",
+    "stemmed":"sna tshogs rdo rje rgya grams yi ge aa las bsams te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-14",
+    "original":"de'i dbus su yang aa bsam mo \/\/",
+    "folio":"171b",
+    "stemmed":"de dbus su yang aa bsam mo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-15",
+    "original":"de ltar bdag dam tshig sems dpa'i sku bskyed pa rdzogs par bskyed pa des \/",
+    "folio":"171b",
+    "stemmed":"de ltar bdag dam tshig sems dpa sku skyed ba rdzogs ba skyed ba des "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-16",
+    "original":"rdo rje rab dang dra ba la sogs pas bsrung pa'i 'khor lo gsal bar byas te \/",
+    "folio":"171b",
+    "stemmed":"rdo rje rab dang dra ba la sogs ba bsrung ba khor lo gsal ba byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-17",
+    "original":"las thams cad pa'i bum chus \/",
+    "folio":"171b",
+    "stemmed":"las thams cad ba bum chus "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-18",
+    "original":"aom badzra yaksha h'um \/",
+    "folio":"171b",
+    "stemmed":"aom badzra yaksha hum "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-19",
+    "original":"zhes bya bas rdzas thams cad bsangs te \/",
+    "folio":"171b",
+    "stemmed":"zhes byed ba rdzas thams cad bsangs te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-20",
+    "original":"de nas dngul gyi snod du mchod yon gyi chu dri zhim po'i nang du \/",
+    "folio":"171b",
+    "stemmed":"de nas dngul gyi snod du mchod yon gyi chu dri zhim po nang du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-21",
+    "original":"zho dang \/ ku sha dang \/ 'bru sna tshogs blugs te g-yon du gzhag \/ mchod pa lnga g-yon du gzhag \/ rdo rje dril bu g-yon du gzhag \/ sreg rdzas dang yo byad la sogs pa g-yas su gzhag \/ mar bzhu ba dang dgang gzar blugs gzar mdun du gzhag \/ rdzas gzhag pa'i",
+    "folio":"171b",
+    "stemmed":"zho dang ku sha dang bru sna tshogs blugs te g-yon du jog mchod ba lnga g-yon du jog rdo rje dril bu g-yon du jog sreg rdzas dang yo byad la sogs ba g-yas su jog mar ju ba dang geng gzar blugs gzar mdun du jog rdzas jog ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-22",
+    "original":"rim pa'o \/ \/\/",
+    "folio":"171b",
+    "stemmed":"rim ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-23",
+    "original":"\/ de nas mgrin pa'i bu gu las hr'i: las padma 'dab ma brgyad pa bsam \/",
+    "folio":"171b",
+    "stemmed":"de nas mgrin ba bu gu las hr: las padma dab ma brgyad ba bsam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-24",
+    "original":"mdun gyi padma'i lce'i steng du aa las zla ba'i steng du h'um bsams te \/",
+    "folio":"171b",
+    "stemmed":"mdun gyi padma lce steng du aa las zla ba steng du hum bsams te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-25",
+    "original":"de las rdo rje dkar po rtse lnga par gyur te \/",
+    "folio":"171b",
+    "stemmed":"de las rdo rje dkar po rtse lnga ba gyur te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-26",
+    "original":"de nyid lce la thim pas lce rdo rje dkar po rtse lnga par gyur par bsams te \/",
+    "folio":"171b",
+    "stemmed":"de nyid lce la thim ba lce rdo rje dkar po rtse lnga ba gyur ba bsams te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-27",
+    "original":"lce byin gyis brlabs so \/\/",
+    "folio":"171b",
+    "stemmed":"lce byin gyis brlabs so "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-28",
+    "original":"de nas lag pa gnyis la aa las zla ba re re bsam \/",
+    "folio":"171b",
+    "stemmed":"de nas lag ba gnyis la aa las zla ba re re bsam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-29",
+    "original":"zla ba'i steng du h'um las rdo rje rtse lnga pa bskyed de \/",
+    "folio":"171b",
+    "stemmed":"zla ba steng du hum las rdo rje rtse lnga ba skyed de "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-30",
+    "original":"rdo rje lag pa la thim pas lag pa gnyis rdo rje rtse lnga par gyur par byin gyis brlab po \/\/",
+    "folio":"171b",
+    "stemmed":"rdo rje lag ba la thim ba lag ba gnyis rdo rje rtse lnga ba gyur ba byin gyis brlab po "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-31",
+    "original":"de nas rdo rje dril bu byin gyis brlab par bya ste \/",
+    "folio":"171b",
+    "stemmed":"de nas rdo rje dril bu byin gyis brlab ba byed ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-32",
+    "original":"lag pa g-yas g-yon steng du ni \/\/",
+    "folio":"171b",
+    "stemmed":"lag ba g-yas g-yon steng du ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-33",
+    "original":"rdo rje dril bu gzhag bya ste \/\/",
+    "folio":"171b",
+    "stemmed":"rdo rje dril bu jog byed ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:171b-34",
+    "original":"mi dmigs pa las h'um dang aa\/\/",
+    "folio":"171b",
+    "stemmed":"mi dmigs ba las hum dang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-0",
+    "original":"@172a * \/\/ h'um las rdo rje bskyed pa dang \/\/ aa las dril bu bsam pa'o \/\/",
+    "folio":"172a",
+    "stemmed":"hum las rdo rje skyed ba dang aa las dril bu bsam ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-1",
+    "original":"h'um las bskyed pa'i rdo rje ni \/\/",
+    "folio":"172a",
+    "stemmed":"hum las skyed ba rdo rje ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-2",
+    "original":"yar gyi rtse lnga rigs lngar bsam \/\/",
+    "folio":"172a",
+    "stemmed":"yar gyi rtse lnga rigs lngar bsam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-3",
+    "original":"mar gyi ra ni ye shes lnga \/\/",
+    "folio":"172a",
+    "stemmed":"mar gyi ra ni ye shes lnga "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-4",
+    "original":"yar gyi 'dab brgyad sems dpa' brgyad \/\/",
+    "folio":"172a",
+    "stemmed":"yar gyi dab brgyad sems dpa brgyad "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-5",
+    "original":"mar gyi 'dab brgyad sems ma brgyad \/\/",
+    "folio":"172a",
+    "stemmed":"mar gyi dab brgyad sems ma brgyad "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-6",
+    "original":"dbus kyi lte ba yi dam lha \/\/",
+    "folio":"172a",
+    "stemmed":"dbus kyi lte ba yi dam lha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-7",
+    "original":"phyi rol sgo bzhi khro bo bzhi \/\/",
+    "folio":"172a",
+    "stemmed":"phyi rol sgo bzhi khro bo bzhi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-8",
+    "original":"yi dam lha la bsrung bar bsam \/\/",
+    "folio":"172a",
+    "stemmed":"yi dam lha la bsrung ba bsam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-9",
+    "original":"de ltar bsgoms pa'i khro bo la \/\/",
+    "folio":"172a",
+    "stemmed":"de ltar sgom ba khro bo la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-10",
+    "original":"h'um gi dbyangs 'di blangs byas te \/\/",
+    "folio":"172a",
+    "stemmed":"hum gi dbyangs di blangs byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-11",
+    "original":"dkyil 'khor lha rnams mnyes par bya \/\/",
+    "folio":"172a",
+    "stemmed":"dkyil khor lha rnams mnyes ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-12",
+    "original":"h'um ye shes rdo rje gsor nas su \/\/",
+    "folio":"172a",
+    "stemmed":"hum ye shes rdo rje gsor nas su "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-13",
+    "original":"sems can byang chub la ni dgod \/\/",
+    "folio":"172a",
+    "stemmed":"sems can byang chub la ni god "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-14",
+    "original":"rnam par dag pa'i chos kyi don \/\/",
+    "folio":"172a",
+    "stemmed":"rnam ba dag ba chos kyi don "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-15",
+    "original":"rdo rje 'chang gis gzung bar bya'o \/\/",
+    "folio":"172a",
+    "stemmed":"rdo rje chang gis gzung ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-16",
+    "original":"h'um h'um h'um ho ho ho \/",
+    "folio":"172a",
+    "stemmed":"hum hum hum ho ho ho "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-17",
+    "original":"de nas rang gi dril bu ni \/\/",
+    "folio":"172a",
+    "stemmed":"de nas rang gi dril bu ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-18",
+    "original":"nang gi nam mkha'i khams dag ni \/\/",
+    "folio":"172a",
+    "stemmed":"nang gi nam mkha khams dag ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-19",
+    "original":"stong pa nyid kyi ye shes yin \/\/",
+    "folio":"172a",
+    "stemmed":"stong ba nyid kyi ye shes yin "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-20",
+    "original":"steng gi padma 'dab brgyad la \/\/",
+    "folio":"172a",
+    "stemmed":"steng gi padma dab brgyad la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-21",
+    "original":"phyogs bzhir sangs rgyas spyan sogs bzhi \/\/",
+    "folio":"172a",
+    "stemmed":"phyogs bzhir sangs rgya spyan sogs bzhi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-22",
+    "original":"phrin las bzhi yi rang bzhin yin \/\/",
+    "folio":"172a",
+    "stemmed":"phrin las bzhi yi rang bzhin yin "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-23",
+    "original":"mtshams bzhi la ni skul byed dang \/\/ lug rgyud khro gnyer rin chen sgron \/\/",
+    "folio":"172a",
+    "stemmed":"mtshams bzhi la ni skul byed dang lug brgyud khro gnyer rin chen sgron "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-24",
+    "original":"lte ba shes rab pha rol phyin \/\/",
+    "folio":"172a",
+    "stemmed":"lte ba shes rab pha rol phyin "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-25",
+    "original":"kun bzang gzugs rdzogs 'od ldan bsam \/\/",
+    "folio":"172a",
+    "stemmed":"kun bzang gzugs rdzogs d ldan bsam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-26",
+    "original":"rtse lnga rtsa ba'i 'dab brgyad la \/\/",
+    "folio":"172a",
+    "stemmed":"rtse lnga rtsa ba dab brgyad la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-27",
+    "original":"sngon bzhin sgeg mo la sogs brgyad \/\/",
+    "folio":"172a",
+    "stemmed":"sngon bzhin sgeg mo la sogs brgyad "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-28",
+    "original":"rtse lnga nyid ni ye shes lnga \/",
+    "folio":"172a",
+    "stemmed":"rtse lnga nyid ni ye shes lnga "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-29",
+    "original":"de lta bu yi dril bu la \/\/",
+    "folio":"172a",
+    "stemmed":"de lta bu yi dril bu la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-30",
+    "original":"sngags 'di dag ni brjod nas kyang \/\/",
+    "folio":"172a",
+    "stemmed":"sngags di dag ni rjod nas kyang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-31",
+    "original":"spyi bor dkrol te dbang bskur ro \/\/",
+    "folio":"172a",
+    "stemmed":"spyi bor khrol te dbang skur ro "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-32",
+    "original":"de nas phab la lan gsum dkrol \/\/",
+    "folio":"172a",
+    "stemmed":"de nas bebs la lan gsum khrol "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-33",
+    "original":"aom badzra ra ni ta dharma ra na ti sampra ra ni ta sarba buddha kshe tra bra tsa li ta pradzny'a p'a ra mi t'a n'a da sva bh'a be h'um h'um h'um ho ho ho sv'a h'a \/",
+    "folio":"172a",
+    "stemmed":"aom badzra ra ni ta dharma ra na ti sampra ra ni ta sarba buddha kshe tra bra tsa li ta pradznya pa ra mi ta na da sva bha be hum hum hum ho ho ho sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-34",
+    "original":"shes rab chos kyi dril bu 'di ;",
+    "folio":"172a",
+    "stemmed":"shes rab chos kyi dril bu di "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-35",
+    "original":"\/ sangs rgyas thams cad blangs byas te \/\/",
+    "folio":"172a",
+    "stemmed":"sangs rgya thams cad blangs byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-36",
+    "original":"mi shes 'dam du bying ba yi \/\/",
+    "folio":"172a",
+    "stemmed":"mi shes dam du bying ba yi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-37",
+    "original":"sems can sangs rgyas don du dkrol \/\/",
+    "folio":"172a",
+    "stemmed":"sems can sangs rgya don du khrol "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-38",
+    "original":"de nas gsang ba'i thab khung mi dmigs ba las \/",
+    "folio":"172a",
+    "stemmed":"de nas gsang ba thab khung mi dmigs ba las "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-39",
+    "original":"yi ge h'um \/",
+    "folio":"172a",
+    "stemmed":"yi ge hum "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-40",
+    "original":"lha'i chos kyi yi ge las thab khung sngar bskyed pa bzhin bskyed la \/",
+    "folio":"172a",
+    "stemmed":"lha chos kyi yi ge las thab khung sngar skyed ba bzhin skyed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-41",
+    "original":"de nas hr'i: las padma 'dab ma brgyad pa bskyed la \/",
+    "folio":"172a",
+    "stemmed":"de nas hr: las padma dab ma brgyad ba skyed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-42",
+    "original":"de'i dbus kyi lte ba la yi ge ram 'bar ba las gyur pa'i gru gsum bskyed la \/",
+    "folio":"172a",
+    "stemmed":"de dbus kyi lte ba la yi ge ram bar ba las gyur ba gru gsum skyed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-43",
+    "original":"gru gsum de'i shar la sogs pa'i zur las \/",
+    "folio":"172a",
+    "stemmed":"gru gsum de char la sogs ba zur las "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172a-44",
+    "original":"aom a'a: h'um gsum khams gsum gyi bdag por bsgoms pa las \/",
+    "folio":"172a",
+    "stemmed":"aom aa: hum gsum khams gsum gyi bdag por sgom ba las "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-0",
+    "original":"'khor lo dang padma dang \/ rdo rje rang gi yi ges mtshan pa bskyed @172b la ;",
+    "folio":"172b",
+    "stemmed":"khor lo dang padma dang rdo rje rang gi yi ges mtshan ba skyed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-1",
+    "original":"de'i dbus su ram las byung ba'i me ram dang bcas pa mthong ste \/",
+    "folio":"172b",
+    "stemmed":"de dbus su ram las byung ba me ram dang cha ba mthong ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-2",
+    "original":"gong gi phyag mtshan gsum ram dang bcas pa 'od du zhu ba las me 'bar bar bsam zhing \/",
+    "folio":"172b",
+    "stemmed":"gong gi phyag mtshan gsum ram dang cha ba d du ju ba las me bar ba bsam zhing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-3",
+    "original":"dam tshig gi gsang sngags \/",
+    "folio":"172b",
+    "stemmed":"dam tshig gi gsang sngags "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-4",
+    "original":"h'um badzra aa na la ma h'a bh'u ta dzva la ya bha smi ku ru sarba dusht'am h'um phat \/",
+    "folio":"172b",
+    "stemmed":"hum badzra aa na la ma ha bhu ta dzva la ya bha smi ku ru sarba dusht hum phat "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-5",
+    "original":"ces brjod pas \/",
+    "folio":"172b",
+    "stemmed":"ces rjod ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-6",
+    "original":"rdo rje mi ti'i gzugs su gyur te \/",
+    "folio":"172b",
+    "stemmed":"rdo rje mi ti gzugs su gyur te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-7",
+    "original":"de yang sku mdog dkar po zhal gcig phyag bzhi pa spyan gsum pa \/",
+    "folio":"172b",
+    "stemmed":"de yang sku mdog dkar po zhal gcig phyag bzhi ba spyan gsum ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-8",
+    "original":"ral pa thor tshugs dang ldan pa \/",
+    "folio":"172b",
+    "stemmed":"ral ba thor tshugs dang ldan ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-9",
+    "original":"g-yas pa na dbyug pa dang \/ mi 'jigs pa g-yon pa gnyis na phreng ba dang \/ gundhe 'dzin pa \/",
+    "folio":"172b",
+    "stemmed":"g-yas ba na dbyug ba dang mi jigs ba g-yon ba gnyis na phreng ba dang gundhe dzin ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-10",
+    "original":"gos dang \/ rgyan dang \/ mchod phyir thogs pa dang ; thor tshugs dkar po dang ldan pa \/",
+    "folio":"172b",
+    "stemmed":"gos dang rgyan dang mchod phyir thogs ba dang thor tshugs dkar po dang ldan ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-11",
+    "original":"lus kyi yan lag thams cad las \/",
+    "folio":"172b",
+    "stemmed":"lus kyi yan lag thams cad las "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-12",
+    "original":"me lce stong gis 'khrigs shing 'od 'bar bar bsams nas \/",
+    "folio":"172b",
+    "stemmed":"me lce stong gis khrig shing d bar ba bsams nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-13",
+    "original":"de ltar me lha dam tshig sems dpa' bskyed la \/",
+    "folio":"172b",
+    "stemmed":"de ltar me lha dam tshig sems dpa skyed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-14",
+    "original":"de nas me lha de'i thugs kar khro bo rnam par rgyal ba yi ge h'um las bskyed \/",
+    "folio":"172b",
+    "stemmed":"de nas me lha de thugs kar khro bo rnam ba rgyal ba yi ge hum las skyed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-15",
+    "original":"de las ye shes kyi khro bo lcags kyu la sogs pas bstims nas \/",
+    "folio":"172b",
+    "stemmed":"de las ye shes kyi khro bo lcags kyu la sogs ba stim nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-16",
+    "original":"zhabs bsil la sogs pa dbul \/",
+    "folio":"172b",
+    "stemmed":"zhabs bsil la sogs ba bul "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-17",
+    "original":"sgeg mo la sogs pas mchod \/",
+    "folio":"172b",
+    "stemmed":"sgeg mo la sogs ba mchod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-18",
+    "original":"de nas rdzas rnams rang rang gi sngags \/",
+    "folio":"172b",
+    "stemmed":"de nas rdzas rnams rang rang gi sngags "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-19",
+    "original":"aom badzra kro dha tree lo kya bi dza ya sv'a h'a \/",
+    "folio":"172b",
+    "stemmed":"aom badzra kro dha tree lo kya bi dza ya sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-20",
+    "original":"zhes pas dbul bstod \/",
+    "folio":"172b",
+    "stemmed":"zhes ba bul bstod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-21",
+    "original":"phrin las bcol \/",
+    "folio":"172b",
+    "stemmed":"phrin las chol "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-22",
+    "original":"de nas me blangs te \/",
+    "folio":"172b",
+    "stemmed":"de nas me blangs te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-23",
+    "original":"rgyun bzhag gi me'am \/",
+    "folio":"172b",
+    "stemmed":"rgyun jog gi me "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-24",
+    "original":"shing 'o ma can las byung ba'am \/",
+    "folio":"172b",
+    "stemmed":"shing mang ma can las byung ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-25",
+    "original":"bram ze tha mal pa'i me'am \/",
+    "folio":"172b",
+    "stemmed":"bram ze tha mal ba me "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-26",
+    "original":"dka' thub la dga' ba'i khyim nas me blangs te \/",
+    "folio":"172b",
+    "stemmed":"dka thub la dga ba khyim nas me blangs te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-27",
+    "original":"las thams cad pa'i snod dang \/ mchod yon gyi snod gnyis dri zhim pos sbyar ba'i chus bkad la \/",
+    "folio":"172b",
+    "stemmed":"las thams cad ba snod dang mchod yon gyi snod gnyis dri zhim pos sbyor ba chus gad la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-28",
+    "original":"mchod yon la rang gi rigs kyi lha'i sngags lan bdun bzlas \/",
+    "folio":"172b",
+    "stemmed":"mchod yon la rang gi rigs kyi lha sngags lan bdun bzlas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-29",
+    "original":"las thams cad pa'i chu la \/",
+    "folio":"172b",
+    "stemmed":"las thams cad ba chu la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-30",
+    "original":"rdo rje gnod sbyin dang \/ rdo rje rtse mo gnyis kyi sngags lan nyi shu rtsa gcig bzlas te \/",
+    "folio":"172b",
+    "stemmed":"rdo rje gnod sbyin dang rdo rje rtse mo gnyis kyi sngags lan nyi shu rtsa gcig bzlas te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-31",
+    "original":"gnyi ga g-yon du rdzas dgod pa'i dus su gzhag \/ mchod yon gyi nang du zho dang \/ ku sha dang \/ 'bru sna tshogs blugs so \/\/",
+    "folio":"172b",
+    "stemmed":"gnyi ga g-yon du rdzas god ba dus su jog mchod yon gyi nang du zho dang ku sha dang bru sna tshogs blugs so "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-32",
+    "original":"de nas las thams cad pa'i me la bsang gtor bya'o \/\/",
+    "folio":"172b",
+    "stemmed":"de nas las thams cad ba me la bsang thor byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-33",
+    "original":"de nas phyi rol du sprul pa'i me la \/",
+    "folio":"172b",
+    "stemmed":"de nas phyi rol du sprul ba me la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:172b-34",
+    "original":"rdo rje gnod sbyin gyi phyag rgya dang \/ sngags bzlas shing gong nas 'byung ba'i me dang gcig tu byas la sngags de bzlas pa ku sha'i rtse mos blangs pas lan gsum bsangs la \/",
+    "folio":"172b",
+    "stemmed":"rdo rje gnod sbyin gyi phyag rgya dang sngags bzlas shing gong nas byung ba me dang gcig tu byed la sngags de bzlas ba ku sha rtse mos blangs ba lan gsum bsangs la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-0",
+    "original":"shing @173a * \/\/",
+    "folio":"173a",
+    "stemmed":"shing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-1",
+    "original":"skam zhing gtsang ba'i rtsva dang bung shing bcug la \/",
+    "folio":"173a",
+    "stemmed":"skam zhing gtsang ba rtsva dang bung shing jug la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-2",
+    "original":"aom dzva la dzva la h'um \/",
+    "folio":"173a",
+    "stemmed":"aom dzva la dzva la hum "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-3",
+    "original":"zhes sngags bzlas shing \/",
+    "folio":"173a",
+    "stemmed":"zhes sngags bzlas shing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-4",
+    "original":"rlung yab kyis me sbar bar bya'o \/\/",
+    "folio":"173a",
+    "stemmed":"rlung yab kyis me sbor ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-5",
+    "original":"de nas sngar bshad pa'i dam tshig gi me'i dbus su bsams la \/",
+    "folio":"173a",
+    "stemmed":"de nas sngar chad ba dam tshig gi me dbus su bsams la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-6",
+    "original":"ye shes kyi me sngags dang phyag rgya 'dis spyan drang bar bya ste \/",
+    "folio":"173a",
+    "stemmed":"ye shes kyi me sngags dang phyag rgya dis spyan dren ba byed ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-7",
+    "original":"lag pa g-yas pa mi 'jigs par byas la \/",
+    "folio":"173a",
+    "stemmed":"lag ba g-yas ba mi jigs ba byed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-8",
+    "original":"mthe bod rtse mo srin lag gi drung du btsugs la \/",
+    "folio":"173a",
+    "stemmed":"mthe bod rtse mo srin lag gi drung du btsugs la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-9",
+    "original":"dgug pa'i tshul gyis yang dang yang du bskyed de \/",
+    "folio":"173a",
+    "stemmed":"gugs ba tshul gyis yang dang yang du skyed de "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-10",
+    "original":"mngon par 'dod pa'i sngags 'di bzlas shing spyan drang ngo \/\/",
+    "folio":"173a",
+    "stemmed":"mngon ba dod ba sngags di bzlas shing spyan dren ngo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-11",
+    "original":"aom ae hye hi ma h'a bh'u ta de ba ri shi dvi dza satva ma gri hi aa h'um ti ma h'a ram aa smin sandi hi to bha ba \/",
+    "folio":"173a",
+    "stemmed":"aom ae hye hi ma ha bhu ta de ba ri chi dvi dza satva ma gri hi aa hum ti ma ha ram aa smin sandi hi to bha ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-12",
+    "original":"aom bha ka aanga ye sv'a h'a \/",
+    "folio":"173a",
+    "stemmed":"aom bha ka aanga ye sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-13",
+    "original":"de nas spyan drangs pa'i me la 'thor 'thung byas te \/",
+    "folio":"173a",
+    "stemmed":"de nas spyan drangs ba me la thor thung byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-14",
+    "original":"rdo rje lcags kyu la sogs pas gzhug pa dang \/ bcing ba dang \/ dbang du byas te \/",
+    "folio":"173a",
+    "stemmed":"rdo rje lcags kyu la sogs ba jug ba dang ching ba dang dbang du byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-15",
+    "original":"me lha'i nang du bstim par bya'o \/\/",
+    "folio":"173a",
+    "stemmed":"me lha nang du stim ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-16",
+    "original":"de nas rdo rje thal mo kha phye ba dang \/ me lta rang gi sngags kyis gdan bstabs la \/",
+    "folio":"173a",
+    "stemmed":"de nas rdo rje thal mo kha byed ba dang me lta rang gi sngags kyis gdan stob la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-17",
+    "original":"g-yas pa'i khu tshur gyi sor mo thams cad bkug la \/",
+    "folio":"173a",
+    "stemmed":"g-yas ba khu tshur gyi sor mo thams cad gugs la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-18",
+    "original":"mthe bod mdzub mo rtse sbyar bas me tog blangs te \/",
+    "folio":"173a",
+    "stemmed":"mthe bod mdzub mo rtse sbyor ba me tog blangs te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-19",
+    "original":"zhabs bsil phul zhing \/",
+    "folio":"173a",
+    "stemmed":"zhabs bsil bul zhing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-20",
+    "original":"sor mo rnams brkyang ba ni zhabs bsil gyi phyag rgya ste \/",
+    "folio":"173a",
+    "stemmed":"sor mo rnams rkyong ba ni zhabs bsil gyi phyag rgya ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-21",
+    "original":"aom pra ba ra satka ra pra t'itstsha sv'a h'a \/",
+    "folio":"173a",
+    "stemmed":"aom pra ba ra satka ra pra ttstsha sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-22",
+    "original":"zhes bya'o \/\/ de nas mchod yon dbul bar bya'o \/\/",
+    "folio":"173a",
+    "stemmed":"zhes byed de nas mchod yon bul ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-23",
+    "original":"ai ma aargha ma ma ya ta tam kri ta na siddhimme pra yatstsha sv'a h'a \/",
+    "folio":"173a",
+    "stemmed":"ai ma aargha ma ma ya ta tam kri ta na siddhimme pra yatstsha sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-24",
+    "original":"mchod yon lan gsum dbul bar bya'o \/\/",
+    "folio":"173a",
+    "stemmed":"mchod yon lan gsum bul ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-25",
+    "original":"de nas lce la rdo rje dkar po rnam par bsams la \/",
+    "folio":"173a",
+    "stemmed":"de nas lce la rdo rje dkar po rnam ba bsams la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-26",
+    "original":"aom dzra la dzva la h'um phat \/",
+    "folio":"173a",
+    "stemmed":"aom dzra la dzva la hum phat "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-27",
+    "original":"ces bya bas me'i chos kyi phyag rgya dgod do \/\/",
+    "folio":"173a",
+    "stemmed":"ces byed ba me chos kyi phyag rgya god do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-28",
+    "original":"de nas snying gar aa las byung ba'i sna tshogs rdo rje bsams la \/",
+    "folio":"173a",
+    "stemmed":"de nas snying gar aa las byung ba sna tshogs rdo rje bsams la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-29",
+    "original":"gar las byung ba'i phyag rgya chen po nyid ni me'i las kyi phyag rgya'o \/\/",
+    "folio":"173a",
+    "stemmed":"gar las byung ba phyag rgya chen po nyid ni me las kyi phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-30",
+    "original":"phyag rgya 'di yi ge h'um las snying ga'i zla ba rdo rje rnam par bsams te \/",
+    "folio":"173a",
+    "stemmed":"phyag rgya di yi ge hum las snying ga zla ba rdo rje rnam ba bsams te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-31",
+    "original":"sngar bshad pa'i dbyig pa la sogs pa 'dzin pa'i tshul bdag nyid can phyag rgya chen po'o \/\/",
+    "folio":"173a",
+    "stemmed":"sngar chad ba dbyig ba la sogs ba dzin ba tshul bdag nyid can phyag rgya chen po "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-32",
+    "original":"de nas aom ratna aa bhi shanytsi \/",
+    "folio":"173a",
+    "stemmed":"de nas aom ratna aa bhi shanytsi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-33",
+    "original":"zhes bya ba'i sngags kyis dbang bskur ro \/\/",
+    "folio":"173a",
+    "stemmed":"zhes byed ba sngags kyis dbang skur ro "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-34",
+    "original":"'di'i phyag rgya ni rdo rje bsdams pa las mthe bong mnyam la bsgreng la \/",
+    "folio":"173a",
+    "stemmed":"di phyag rgya ni rdo rje sdom ba las mthe bong mnyam la sgreng la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-35",
+    "original":"mdzub mo rtse sbyar te rin po cher bya'o \/\/",
+    "folio":"173a",
+    "stemmed":"mdzub mo rtse sbyor te rin po cher byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-36",
+    "original":"de nas rdo rje 'di ni rdo rje che \/\/",
+    "folio":"173a",
+    "stemmed":"de nas rdo rje di ni rdo rje che "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-37",
+    "original":"sangs rgyas kun gyis byin gyis brlabs \/\/",
+    "folio":"173a",
+    "stemmed":"sangs rgya kun gyis byin gyis brlabs "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173a-38",
+    "original":"dam tshig 'di las 'das na ni \/\/",
+    "folio":"173a",
+    "stemmed":"dam tshig di las da na ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-0",
+    "original":"@173b rigs rnams myur du thal bar byed \/\/",
+    "folio":"173b",
+    "stemmed":"rigs rnams myur du thal ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-1",
+    "original":"aom ha na sa ma ya h'um phat \/",
+    "folio":"173b",
+    "stemmed":"aom ha na sa ma ya hum phat "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-2",
+    "original":"ces brjod la \/",
+    "folio":"173b",
+    "stemmed":"ces rjod la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-3",
+    "original":"dam tshig la gzhag par bya'o \/\/",
+    "folio":"173b",
+    "stemmed":"dam tshig la jog ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-4",
+    "original":"'di'i phyag rgya ni \/",
+    "folio":"173b",
+    "stemmed":"di phyag rgya ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-5",
+    "original":"rdo rje sems ma brtan par byas la \/",
+    "folio":"173b",
+    "stemmed":"rdo rje sems ma brtan ba byed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-6",
+    "original":"mdzub mo gnyis bkug ste \/",
+    "folio":"173b",
+    "stemmed":"mdzub mo gnyis gugs ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-7",
+    "original":"gung mo dang sbyar \/",
+    "folio":"173b",
+    "stemmed":"gung mo dang sbyor "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-8",
+    "original":"mthe bong gnyis dad mthe chung gnyis gshibs te \/",
+    "folio":"173b",
+    "stemmed":"mthe bong gnyis dad mthe chung gnyis gshibs te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-9",
+    "original":"rdo rje rtse mor bya ba ni \/",
+    "folio":"173b",
+    "stemmed":"rdo rje rtse mor byed ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-10",
+    "original":"dam tshig 'dzin pa'i phyag rgya'o \/\/",
+    "folio":"173b",
+    "stemmed":"dam tshig dzin ba phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-11",
+    "original":"de nas rdo rje bsdu bas brtan par byas la \/",
+    "folio":"173b",
+    "stemmed":"de nas rdo rje sdud ba brtan ba byed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-12",
+    "original":"rdo rje bcings pa yang bsdam par bya zhes bya ba'i phyag rgya 'di dang \/ aom badzra bandha h'um \/",
+    "folio":"173b",
+    "stemmed":"rdo rje ching ba yang sdom ba byed zhes byed ba phyag rgya di dang aom badzra bandha hum "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-13",
+    "original":"zhes bya ba'i sngags dang bcas pas \/",
+    "folio":"173b",
+    "stemmed":"zhes byed ba sngags dang cha ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-14",
+    "original":"bdag gi mngon par 'dod pa'i bya ba 'di mdzod cig ces rang gi bsgo ba la nges par sbyar bar bya'o \/\/",
+    "folio":"173b",
+    "stemmed":"bdag gi mngon ba dod ba byed ba di mdzod cig ces rang gi sgo ba la nges ba sbyor ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-15",
+    "original":"de nas mchod yon phul la \/",
+    "folio":"173b",
+    "stemmed":"de nas mchod yon bul la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-16",
+    "original":"las dang rjes su mthun pa'i dri la sogs pa'i mchod pa rnam pa lnga dang \/ sgeg mo la sogs pa'i las kyi phyag rgya bcas la \/",
+    "folio":"173b",
+    "stemmed":"las dang rjes su mthun ba dri la sogs ba mchod ba rnam ba lnga dang sgeg mo la sogs ba las kyi phyag rgya cha la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-17",
+    "original":"aom badzra sa tva su sam gra ha la sogs pa'i mchod pa brgyad kyis mchod do \/\/",
+    "folio":"173b",
+    "stemmed":"aom badzra sa tva su sam gra ha la sogs ba mchod ba brgyad kyis mchod do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-18",
+    "original":"de nas me lha de'i lce dang \/ dgang gzar dang blugs gzar gyi kha la ram rnam par bkod do \/\/",
+    "folio":"173b",
+    "stemmed":"de nas me lha de lce dang geng gzar dang blugs gzar gyi kha la ram rnam ba bkod do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-19",
+    "original":"pus mo gnyis kyi bar du lag pa bzhag nas \/",
+    "folio":"173b",
+    "stemmed":"pus mo gnyis kyi ba du lag ba jog nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-20",
+    "original":"dang po blugs gzar gyis mar gyi dgang blugs gsum zhi ba la zhal cung zad gdangs par dbul bar bya'o \/\/",
+    "folio":"173b",
+    "stemmed":"dang po blugs gzar gyis mar gyi geng blugs gsum zhi ba la zhal cung zad gdang ba bul ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-21",
+    "original":"sngags ni aom aagna ye ha bya ka bya ba ha na y'a di py'a di bya ba ha na ye sv'a h'a \/",
+    "folio":"173b",
+    "stemmed":"sngags ni aom aagna ye ha byed ka byed ba ha na ya di pya di byed ba ha na ye sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-22",
+    "original":"zhes pas dbul lo \/\/",
+    "folio":"173b",
+    "stemmed":"zhes ba bul lo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-23",
+    "original":"de nas bgegs med pa dang \/ bgegs dang bcas pa'i mtshan ma ni gzhan las shes par bya'o \/\/",
+    "folio":"173b",
+    "stemmed":"de nas bgegs med ba dang bgegs dang cha ba mtshan ma ni gzhan las shes ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-24",
+    "original":"gal te bgegs yod na bsang gtor bya zhing \/",
+    "folio":"173b",
+    "stemmed":"gal te bgegs yod na bsang thor byed zhing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-25",
+    "original":"rdo rje gnod sbyin gyi sngags dang phyag rgyas me rnams sbyangs te \/",
+    "folio":"173b",
+    "stemmed":"rdo rje gnod sbyin gyi sngags dang phyag rgya me rnams sbyong te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-26",
+    "original":"de nyid kyis mar gyi sreg blugs gsum mam \/",
+    "folio":"173b",
+    "stemmed":"de nyid kyis mar gyi sreg blugs gsum mam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-27",
+    "original":"bdun dbul bar bya'o \/\/",
+    "folio":"173b",
+    "stemmed":"bdun bul ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-28",
+    "original":"de nas mar gyi dgang blugs gsum mam \/",
+    "folio":"173b",
+    "stemmed":"de nas mar gyi geng blugs gsum mam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-29",
+    "original":"bdun rang gi sngags \/",
+    "folio":"173b",
+    "stemmed":"bdun rang gi sngags "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-30",
+    "original":"aom aanga ye che ge mo sh'antim ku ru sv'a h'a \/",
+    "folio":"173b",
+    "stemmed":"aom aanga ye che ge mo shantim ku ru sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-31",
+    "original":"zhes dbul \/ de nas yam shing dbul te \/",
+    "folio":"173b",
+    "stemmed":"zhes bul de nas yam shing bul te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-32",
+    "original":"aom badzr'a ya sv'a h'a \/",
+    "folio":"173b",
+    "stemmed":"aom badzra ya sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-33",
+    "original":"yam shing gi'o \/\/",
+    "folio":"173b",
+    "stemmed":"yam shing gi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-34",
+    "original":"aom aanga ye sv'a h'a \/",
+    "folio":"173b",
+    "stemmed":"aom aanga ye sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-35",
+    "original":"mar gyi'o \/\/ aom badzra sarba p'a bam da ha na badzra che ge mo sv'a h'a \/",
+    "folio":"173b",
+    "stemmed":"mar gyi aom badzra sarba pa bam da ha na badzra che ge mo sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-36",
+    "original":"til dang yungs kar gyi'o \/\/",
+    "folio":"173b",
+    "stemmed":"til dang yungs kar gyi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-37",
+    "original":"aom sarba sam pa de sv'a h'a \/",
+    "folio":"173b",
+    "stemmed":"aom sarba sam ba de sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-38",
+    "original":"zho dang 'bras chan gyi'o \/\/",
+    "folio":"173b",
+    "stemmed":"zho dang bras chan gyi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-39",
+    "original":"aom badzra pushta ye sv'a h'a \/",
+    "folio":"173b",
+    "stemmed":"aom badzra pushta ye sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-40",
+    "original":"'bras ma grugs pa'o \/\/",
+    "folio":"173b",
+    "stemmed":"bras ma grugs ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-41",
+    "original":"aom sarba sam pa de sv'a h'a \/",
+    "folio":"173b",
+    "stemmed":"aom sarba sam ba de sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:173b-42",
+    "original":"zas mchog gi'o \/\/",
+    "folio":"173b",
+    "stemmed":"zas mchog gi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-0",
+    "original":"@174a * \/\/ aom aa pra ti ha ta badzra sv'a h'a \/",
+    "folio":"174a",
+    "stemmed":"aom aa pra ti ha ta badzra sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-1",
+    "original":"ku sha'i 'o \/\/",
+    "folio":"174a",
+    "stemmed":"ku sha mang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-2",
+    "original":"aom badzra a'a mu she sv'a h'a \/",
+    "folio":"174a",
+    "stemmed":"aom badzra aa mu she sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-3",
+    "original":"d'ur ba'i myu gu'i 'o \/\/",
+    "folio":"174a",
+    "stemmed":"dur ba myu gu mang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-4",
+    "original":"aom ma h'a be ga ye sv'a h'a \/",
+    "folio":"174a",
+    "stemmed":"aom ma ha be ga ye sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-5",
+    "original":"nas kyi'o \/\/ aom aagna ye che ge mo sh'antim ku ru sv'a h'a \/",
+    "folio":"174a",
+    "stemmed":"nas kyi aom aagna ye che ge mo shantim ku ru sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-6",
+    "original":"ma du ba'i'o \/\/",
+    "folio":"174a",
+    "stemmed":"ma du ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-7",
+    "original":"aom badzra ghasma ri ye sv'a h'a \/",
+    "folio":"174a",
+    "stemmed":"aom badzra ghasma ri ye sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-8",
+    "original":"gro'i 'o \/\/ aom badzra bi dza ye sv'a h'a \/",
+    "folio":"174a",
+    "stemmed":"gro mang aom badzra bi dza ye sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-9",
+    "original":"nas so ba'i'o \/\/",
+    "folio":"174a",
+    "stemmed":"nas so ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-10",
+    "original":"aom ma h'a ba l'a ya sv'a h'a \/",
+    "folio":"174a",
+    "stemmed":"aom ma ha ba la ya sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-11",
+    "original":"sran ma sha'i 'o \/\/",
+    "folio":"174a",
+    "stemmed":"sran ma sha mang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-12",
+    "original":"aom ma h'a shr'i ba he sv'a h'a \/",
+    "folio":"174a",
+    "stemmed":"aom ma ha shr ba he sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-13",
+    "original":"bil ba dang \/ star la dang \/ dz'a ti pha la'i 'o \/\/",
+    "folio":"174a",
+    "stemmed":"bil ba dang star la dang dza ti pha la mang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-14",
+    "original":"sngags kyi mjug la \/",
+    "folio":"174a",
+    "stemmed":"sngags kyi mjug la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-15",
+    "original":"sh'antim ku ru ye sv'a h'a \/",
+    "folio":"174a",
+    "stemmed":"shantim ku ru ye sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-16",
+    "original":"zhes brjod de \/",
+    "folio":"174a",
+    "stemmed":"zhes rjod de "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-17",
+    "original":"'di ni rdzas dbul ba'i rim pa'o \/\/",
+    "folio":"174a",
+    "stemmed":"di ni rdzas bul ba rim ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-18",
+    "original":"dbul ba'i gnas dang \/ dgongs pa ni man ngag las shes par bya'o \/\/",
+    "folio":"174a",
+    "stemmed":"bul ba gnas dang dgongs ba ni man ngag las shes ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-19",
+    "original":"me'i dbang du byas pa'o \/\/",
+    "folio":"174a",
+    "stemmed":"me dbang du byed ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-20",
+    "original":"de nas rdo rje 'khor lo'i sngags dang phyag rgyas me 'bar ba de nyid kyi thugs ka'i r'a lto ba'i nang du rin po che'i gzhal yas khang re mig dgu lte ba dang bcas pa'i 'khor lo rtsibs bcu drug dang \/ gru cha dang \/ khyams dang ;",
+    "folio":"174a",
+    "stemmed":"de nas rdo rje khor lo sngags dang phyag rgya me bar ba de nyid kyi thugs ka ra lto ba nang du rin po che jal yas khang re mig dgu lte ba dang cha ba khor lo rtsibs chu drug dang gru cha dang khyams dang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-21",
+    "original":"sgo khyud dang \/ rta babs dang \/ them skas la sogs pas brgyan par bsams la \/",
+    "folio":"174a",
+    "stemmed":"sgo khyud dang rta bab dang thems skas la sogs ba rgyan ba bsams la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-22",
+    "original":"me'i thugs ka'i dkyil 'khor gyi zla ba dang \/ padma'i steng du lha rnams re re'i sa bon gyi yi ge yongs su gyur pa'i mtshan ma la sogs pa dang ldan par kun rig rnam par snang mdzad la sogs pa ste \/",
+    "folio":"174a",
+    "stemmed":"me thugs ka dkyil khor gyi zla ba dang padma steng du lha rnams re re sa bon gyi yi ge yongs su gyur ba mtshan ma la sogs ba dang ldan ba kun rig rnam ba snang mdzad la sogs ba ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-23",
+    "original":"bar 'dir sgo dbye \/",
+    "folio":"174a",
+    "stemmed":"ba dir sgo byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-24",
+    "original":"bdag gi snying gar sna tshogs rdo rje bsams pa las \/",
+    "folio":"174a",
+    "stemmed":"bdag gi snying gar sna tshogs rdo rje bsams ba las "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-25",
+    "original":"rdo rje bsdu ba'i snying po \/",
+    "folio":"174a",
+    "stemmed":"rdo rje sdud ba snying po "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-26",
+    "original":"aom badzra sa m'a dza:\/",
+    "folio":"174a",
+    "stemmed":"aom badzra sa ma "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-27",
+    "original":"zhes brjod cing \/",
+    "folio":"174a",
+    "stemmed":"zhes rjod cing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-28",
+    "original":"rdo rje khu tshur gnyis bsnol te dpung mgor bzhag la \/",
+    "folio":"174a",
+    "stemmed":"rdo rje khu tshur gnyis snol te dpung mgor jog la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-29",
+    "original":"mdzub mo gnyis lcags kyu ltar byas la \/",
+    "folio":"174a",
+    "stemmed":"mdzub mo gnyis lcags kyu ltar byed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-30",
+    "original":"gung mo dang mthe bong gnyis gtogs shing \/",
+    "folio":"174a",
+    "stemmed":"gung mo dang mthe bong gnyis gtogs shing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-31",
+    "original":"de bzhin gshegs pa 'khor dang bcas pa rang rang gi gnas nas bskul te \/",
+    "folio":"174a",
+    "stemmed":"de bzhin gshegs ba khor dang cha ba rang rang gi gnas nas skul te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-32",
+    "original":"ji ltar bsams pa'i gnas kyi khor yug tu bzhugs par bsam \/",
+    "folio":"174a",
+    "stemmed":"ji ltar bsams ba gnas kyi khor yug tu bzhugs ba bsam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-33",
+    "original":"rdo rje gnod sbyin gyis rang bzhin gyi phyi nas 'brang ba'i bgegs bskrad par bya'o \/\/",
+    "folio":"174a",
+    "stemmed":"rdo rje gnod sbyin gyis rang bzhin gyi phyi nas brang ba bgegs skrod ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-34",
+    "original":"de nas shar phyogs kyi sgor lcags kyu can gyi phyag rgya bcings la \/",
+    "folio":"174a",
+    "stemmed":"de nas char phyogs kyi sgor lcags kyu can gyi phyag rgya ching la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-35",
+    "original":"phyag rgya de nyid shar phyogs kyi sgor lcags kyur gyur par bsams la \/",
+    "folio":"174a",
+    "stemmed":"phyag rgya de nyid char phyogs kyi sgor lcags kyur gyur ba bsams la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-36",
+    "original":"aom badzra aam ku sha dza:\/",
+    "folio":"174a",
+    "stemmed":"aom badzra aam ku sha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-37",
+    "original":"zhes brjod pas \/",
+    "folio":"174a",
+    "stemmed":"zhes rjod ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174a-38",
+    "original":"lcags kyus bkug pa'i tshul gyis de bzhin gshegs pa rnams so so'i sgo drung du byon par bsam mo \/\/",
+    "folio":"174a",
+    "stemmed":"lcags kyus gugs ba tshul gyis de bzhin gshegs ba rnams so so sgo drung du byon ba bsam mo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-0",
+    "original":"lho phyogs kyi @174b sgor zhags par gyur par bsams la \/",
+    "folio":"174b",
+    "stemmed":"lho phyogs kyi sgor zhags ba gyur ba bsams la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-1",
+    "original":"aom badzra p'a sha h'um \/",
+    "folio":"174b",
+    "stemmed":"aom badzra pa sha hum "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-2",
+    "original":"zhes brjod pas \/",
+    "folio":"174b",
+    "stemmed":"zhes rjod ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-3",
+    "original":"zhags pas drangs pa'i tshul gyis de bzhin gshegs pa rnams so so'i nang du zhugs par bsam mo \/\/",
+    "folio":"174b",
+    "stemmed":"zhags ba drangs ba tshul gyis de bzhin gshegs ba rnams so so nang du jug ba bsam mo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-4",
+    "original":"phyag rgya de nyid bkrol nas \/",
+    "folio":"174b",
+    "stemmed":"phyag rgya de nyid grol nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-5",
+    "original":"nub phyogs kyi sgor lcags sgrog gi phyag rgya bcings la \/",
+    "folio":"174b",
+    "stemmed":"nub phyogs kyi sgor lcags sgrog gi phyag rgya ching la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-6",
+    "original":"phyag rgya de nyid nub phyogs kyi sgor lcags sgrog tu gyur par bsams la \/",
+    "folio":"174b",
+    "stemmed":"phyag rgya de nyid nub phyogs kyi sgor lcags sgrog tu gyur ba bsams la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-7",
+    "original":"aom badzra spho ta bam \/",
+    "folio":"174b",
+    "stemmed":"aom badzra spho ta bam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-8",
+    "original":"zhes brjod cing lcags sgrog bsdams pa'i tshul gyis bdag ji srid 'dod par de bzhin gshegs pa rnams dbyer med par bzhugs par bsam \/",
+    "folio":"174b",
+    "stemmed":"zhes rjod cing lcags sgrog sdom ba tshul gyis bdag ji srid dod ba de bzhin gshegs ba rnams dbyer med ba bzhugs ba bsam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-9",
+    "original":"phyag rgya de nyid bkrol nas byang phyogs kyi sgor rdo rje 'bebs pa'i las kyi phyag rgya bcings te \/",
+    "folio":"174b",
+    "stemmed":"phyag rgya de nyid grol nas byang phyogs kyi sgor rdo rje bebs ba las kyi phyag rgya ching te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-10",
+    "original":"phyag rgya de nyid byang phyogs kyi sgor dril bur gyur par bsams la \/",
+    "folio":"174b",
+    "stemmed":"phyag rgya de nyid byang phyogs kyi sgor dril bur gyur ba bsams la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-11",
+    "original":"aom badzra a'a be sha ya ho:\/",
+    "folio":"174b",
+    "stemmed":"aom badzra aa be sha ya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-12",
+    "original":"zhes brjod cing \/",
+    "folio":"174b",
+    "stemmed":"zhes rjod cing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-13",
+    "original":"dril bu bskyod pa'i tshul gyis de bzhin gshegs pa rnams mnyes par bsams te \/",
+    "folio":"174b",
+    "stemmed":"dril bu skyod ba tshul gyis de bzhin gshegs ba rnams mnyes ba bsams te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-14",
+    "original":"phyag rgya de nyid dgrol lo \/\/",
+    "folio":"174b",
+    "stemmed":"phyag rgya de nyid grol lo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-15",
+    "original":"de dag gi sku mdog dang phyag mtshan dang \/ bzhugs tshul la sogs pa so so'i lta bas yun ring du blta zhing bsam mo \/\/",
+    "folio":"174b",
+    "stemmed":"de dag gi sku mdog dang phyag mtshan dang bzhugs tshul la sogs ba so so lta ba yun ring du lta zhing bsam mo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-16",
+    "original":"thugs rjes bskul lo thugs mnga' ba'i \/\/",
+    "folio":"174b",
+    "stemmed":"thugs rjes skul lo thugs mnga ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-17",
+    "original":"rgyal ba kun gyis byin gyis rlobs \/\/",
+    "folio":"174b",
+    "stemmed":"rgyal ba kun gyis byin gyis rlobs "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-18",
+    "original":"dam tshig phyag rgya thams cad ni \/\/",
+    "folio":"174b",
+    "stemmed":"dam tshig phyag rgya thams cad ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-19",
+    "original":"bsdams pa rdo rje las byung ba'i \/\/",
+    "folio":"174b",
+    "stemmed":"sdom ba rdo rje las byung ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-20",
+    "original":"phyag rgya 'di ni kun rig gi'o \/\/",
+    "folio":"174b",
+    "stemmed":"phyag rgya di ni kun rig gi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-21",
+    "original":"sa ma ya stvam \/",
+    "folio":"174b",
+    "stemmed":"sa ma ya stvam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-22",
+    "original":"thal mo sbyar \/",
+    "folio":"174b",
+    "stemmed":"thal mo sbyor "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-23",
+    "original":"aom sho dha ni sho dha ni sarba p'a pam bi sho dha ni \/",
+    "folio":"174b",
+    "stemmed":"aom sho dha ni sho dha ni sarba pa pam bi sho dha ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-24",
+    "original":"shuddhe bi shuddhe \/",
+    "folio":"174b",
+    "stemmed":"shuddhe bi shuddhe "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-25",
+    "original":"sarba karma a'a bar na bi shuddhe sv'a h'a \/",
+    "folio":"174b",
+    "stemmed":"sarba karma aa ba na bi shuddhe sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-26",
+    "original":"dza: h'um bam ho:\/",
+    "folio":"174b",
+    "stemmed":"dza: hum bam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-27",
+    "original":"zhes kun la sbyar ro \/\/",
+    "folio":"174b",
+    "stemmed":"zhes kun la sbyor ro "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-28",
+    "original":"rdo rje bsdams pas gung gnyis bsgreng \/\/",
+    "folio":"174b",
+    "stemmed":"rdo rje sdom ba gung gnyis sgreng "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-29",
+    "original":"mthe bod mthe chud gnyis bkyed brkyang \/",
+    "folio":"174b",
+    "stemmed":"mthe bod mthe chud gnyis gyed rkyong "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-30",
+    "original":"mdzub gnyis padma ltar bkug pa \/",
+    "folio":"174b",
+    "stemmed":"mdzub gnyis padma ltar gugs ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-31",
+    "original":"ngan song rnam par sbyong ba'i 'o \/\/",
+    "folio":"174b",
+    "stemmed":"ngan gro rnam ba sbyong ba mang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-32",
+    "original":"aom sho dha ni sho dha ya sarba aa b'a ya h'um \/",
+    "folio":"174b",
+    "stemmed":"aom sho dha ni sho dha ya sarba aa ba ya hum "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-33",
+    "original":"de las mdzub srin rin chen bya \/\/",
+    "folio":"174b",
+    "stemmed":"de las mdzub srin rin chen byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-34",
+    "original":"rin chen tog gi phyag rgya'o \/\/",
+    "folio":"174b",
+    "stemmed":"rin chen tog gi phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-35",
+    "original":"aom sho dha ni sho dha ya sarba aa p'a ya sarba sa tva bhya h'um tr'am \/",
+    "folio":"174b",
+    "stemmed":"aom sho dha ni sho dha ya sarba aa pa ya sarba sa tva bhya hum tr "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-36",
+    "original":"mthe bong mthe chung so sor mnyam \/\/",
+    "folio":"174b",
+    "stemmed":"mthe bong mthe chung so sor mnyam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-37",
+    "original":"lhag ma brkyang ba sh'akya thub \/\/",
+    "folio":"174b",
+    "stemmed":"lhag ma rkyong ba shakya thub "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-38",
+    "original":"aom sho dha ni sho dha ya bi sho dha ni hr'i:\/",
+    "folio":"174b",
+    "stemmed":"aom sho dha ni sho dha ya bi sho dha ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-39",
+    "original":"de nas lag g-yon bsgyur byas la \/\/",
+    "folio":"174b",
+    "stemmed":"de nas lag g-yon sgyur byed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-40",
+    "original":"mi 'jigs sbyin par byas pa ni \/\/",
+    "folio":"174b",
+    "stemmed":"mi jigs sbyin ba byed ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-41",
+    "original":"me tog cher rgyas phyag rgya'o \/\/",
+    "folio":"174b",
+    "stemmed":"me tog cher rgya phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-42",
+    "original":"aom sho dha ni sho dha ya sarba aa p'a ya tra tha aa:\/",
+    "folio":"174b",
+    "stemmed":"aom sho dha ni sho dha ya sarba aa pa ya tra tha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:174b-43",
+    "original":"bcings las mdzub gnyis mig tu bya \/\/",
+    "folio":"174b",
+    "stemmed":"ching las mdzub gnyis mig tu byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-0",
+    "original":"mthe'u chung srin lag nang @175a * \/\/",
+    "folio":"175a",
+    "stemmed":"mtheu chung srin lag nang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-1",
+    "original":"du bsnol \/\/ gung mo mnyam par bsgreng ba ni \/\/",
+    "folio":"175a",
+    "stemmed":"du snol gung mo mnyam ba sgreng ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-2",
+    "original":"sangs rgyas spyan gyi yin par gsungs \/\/",
+    "folio":"175a",
+    "stemmed":"sangs rgya spyan gyi yin ba gsungs "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-3",
+    "original":"aom sho dha ni h'um \/",
+    "folio":"175a",
+    "stemmed":"aom sho dha ni hum "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-4",
+    "original":"thal sbyar gung mo gnyis bsgreng nas \/\/",
+    "folio":"175a",
+    "stemmed":"thal sbyor gung mo gnyis sgreng nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-5",
+    "original":"mdzub gnyis ngos la sbyar byas nas \/\/",
+    "folio":"175a",
+    "stemmed":"mdzub gnyis ngos la sbyor byed nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-6",
+    "original":"rtse gsum tshul du byas pa ni \/\/",
+    "folio":"175a",
+    "stemmed":"rtse gsum tshul du byed ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-7",
+    "original":"m'a ma k'i yi phyag rgya'o \/\/",
+    "folio":"175a",
+    "stemmed":"ma ma k yi phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-8",
+    "original":"aom sho dha ni tr'am \/",
+    "folio":"175a",
+    "stemmed":"aom sho dha ni tr "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-9",
+    "original":"lag pa thal mo sbyar ba las \/\/",
+    "folio":"175a",
+    "stemmed":"lag ba thal mo sbyor ba las "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-10",
+    "original":"gung mo padmar byas pa ni \/\/",
+    "folio":"175a",
+    "stemmed":"gung mo padmar byed ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-11",
+    "original":"gos dkar mo yi phyag rgya'o \/\/",
+    "folio":"175a",
+    "stemmed":"gos dkar mo yi phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-12",
+    "original":"aom sho dha ni hr'i:\/",
+    "folio":"175a",
+    "stemmed":"aom sho dha ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-13",
+    "original":"thal sbyar gung mo gnyis bsgreng la \/",
+    "folio":"175a",
+    "stemmed":"thal sbyor gung mo gnyis sgreng la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-14",
+    "original":"mdzub gnyis rgyab sbyar dkris byas te \/\/",
+    "folio":"175a",
+    "stemmed":"mdzub gnyis rgyab sbyor dkri byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-15",
+    "original":"mthe bong gung sbyar autpa la \/\/",
+    "folio":"175a",
+    "stemmed":"mthe bong gung sbyor autpa la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-16",
+    "original":"'di ni sgrol ma'i phyag rgya'o \/\/",
+    "folio":"175a",
+    "stemmed":"di ni sgrol ma phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-17",
+    "original":"aom sho dha ni aa:\/",
+    "folio":"175a",
+    "stemmed":"aom sho dha ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-18",
+    "original":"phyag rgya rdo rje bsdams pa las \/\/",
+    "folio":"175a",
+    "stemmed":"phyag rgya rdo rje sdom ba las "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-19",
+    "original":"mdzub gnyis rdo rjer brkyang pa ni \/\/",
+    "folio":"175a",
+    "stemmed":"mdzub gnyis rdo rjer rkyong ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-20",
+    "original":"rdo rje sems dpa'i phyag rgya'o \/\/",
+    "folio":"175a",
+    "stemmed":"rdo rje sems dpa phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-21",
+    "original":"aom sarba bid badzra sa tva h'um \/",
+    "folio":"175a",
+    "stemmed":"aom sarba bid badzra sa tva hum "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-22",
+    "original":"de las mdzub mo g-yas bkug pa \/\/",
+    "folio":"175a",
+    "stemmed":"de las mdzub mo g-yas gugs ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-23",
+    "original":"rdo rje rgyal po'i phyag rgya'o \/\/",
+    "folio":"175a",
+    "stemmed":"rdo rje rgyal po phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-24",
+    "original":"aom sarba bid badzra r'a dza dza \/",
+    "folio":"175a",
+    "stemmed":"aom sarba bid badzra ra dza dza "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-25",
+    "original":"drang bor bcas pa chags pa'o \/\/",
+    "folio":"175a",
+    "stemmed":"dren bor cha ba chags ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-26",
+    "original":"sarba bid badzra r'a ga ho\/\/",
+    "folio":"175a",
+    "stemmed":"sarba bid badzra ra ga "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-27",
+    "original":"de las mdzub gnyis slar bkug ste \/\/",
+    "folio":"175a",
+    "stemmed":"de las mdzub gnyis slar gugs ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-28",
+    "original":"se gol gtogs pa legs pa'o \/\/",
+    "folio":"175a",
+    "stemmed":"se gol gtogs ba legs ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-29",
+    "original":"sarba bid badzra sv'a dhu dhu \/",
+    "folio":"175a",
+    "stemmed":"sarba bid badzra sva dhu dhu "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-30",
+    "original":"de las bar ma tshigs bcag pa \/\/",
+    "folio":"175a",
+    "stemmed":"de las ba ma tshigs chag ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-31",
+    "original":"rdo rje rin chen yin pa'o \/\/",
+    "folio":"175a",
+    "stemmed":"rdo rje rin chen yin ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-32",
+    "original":"sarba bid tram \/",
+    "folio":"175a",
+    "stemmed":"sarba bid tram "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-33",
+    "original":"de las sor mo 'od zer ltar \/\/",
+    "folio":"175a",
+    "stemmed":"de las sor mo d zer ltar "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-34",
+    "original":"bkyed pa rdo rje gzi brjid do \/\/",
+    "folio":"175a",
+    "stemmed":"gyed ba rdo rje gzi brjid do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-35",
+    "original":"sarba bid ram \/",
+    "folio":"175a",
+    "stemmed":"sarba bid ram "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-36",
+    "original":"de las spyi bor bzhag pa ni \/\/",
+    "folio":"175a",
+    "stemmed":"de las spyi bor jog ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-37",
+    "original":"rdo rje rgyal mtshan phyag rgya'o \/\/",
+    "folio":"175a",
+    "stemmed":"rdo rje rgyal mtshan phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-38",
+    "original":"sarba bidhi \/ de las phab nas kha ru ni \/\/",
+    "folio":"175a",
+    "stemmed":"sarba bidhi de las bebs nas kha ru ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-39",
+    "original":"bzhag ba rdo rje bzhad pa'o \/\/",
+    "folio":"175a",
+    "stemmed":"jog ba rdo rje bzhad ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-40",
+    "original":"sarba bid h'a \/",
+    "folio":"175a",
+    "stemmed":"sarba bid ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-41",
+    "original":"bcings las mdzub gnyis pa de ltar bya \/\/",
+    "folio":"175a",
+    "stemmed":"ching las mdzub gnyis ba de ltar byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-42",
+    "original":"rdo rje chos kyi phyag rgya'o \/\/",
+    "folio":"175a",
+    "stemmed":"rdo rje chos kyi phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-43",
+    "original":"sarba bid hr'i:\/ mdzub gnyis dad po tshigs bcag pa \/\/",
+    "folio":"175a",
+    "stemmed":"sarba bid mdzub gnyis dad po tshigs chag ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-44",
+    "original":"phyag rgya 'di ni rnon po'i 'o \/\/",
+    "folio":"175a",
+    "stemmed":"phyag rgya di ni rnon po mang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-45",
+    "original":"sarba bid dh'i \/",
+    "folio":"175a",
+    "stemmed":"sarba bid dh "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-46",
+    "original":"mdzub gnyis gdu bu ltar byas pa \/\/",
+    "folio":"175a",
+    "stemmed":"mdzub gnyis gdu bu ltar byed ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-47",
+    "original":"rdo rje 'khor lo'i phyag rgya'o \/\/",
+    "folio":"175a",
+    "stemmed":"rdo rje khor lo phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-48",
+    "original":"sarba bid krum \/ de las mdzub gnyis padma yi \/\/",
+    "folio":"175a",
+    "stemmed":"sarba bid krum de las mdzub gnyis padma yi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-49",
+    "original":"'dab gnyis byas pa padma'i 'o \/\/",
+    "folio":"175a",
+    "stemmed":"dab gnyis byed ba padma mang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-50",
+    "original":"sarba bid bh'a \/",
+    "folio":"175a",
+    "stemmed":"sarba bid bha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-51",
+    "original":"de las mdzub gnyis dgye byas pa \/\/",
+    "folio":"175a",
+    "stemmed":"de las mdzub gnyis dgye byed ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-52",
+    "original":"las kyi rdo rje phyag rgya'o \/\/",
+    "folio":"175a",
+    "stemmed":"las kyi rdo rje phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-53",
+    "original":"sarba bid kam \/ de las mdzub gnyis rab bkye ste \/\/",
+    "folio":"175a",
+    "stemmed":"sarba bid kam de las mdzub gnyis rab gyed ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-54",
+    "original":"mgrin par 'khyud pa bsrung ba'i 'o \/\/",
+    "folio":"175a",
+    "stemmed":"mgrin ba khyud ba bsrung ba mang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-55",
+    "original":"sarba bid ram \/",
+    "folio":"175a",
+    "stemmed":"sarba bid ram "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-56",
+    "original":"de las rtse mo slar bkug ste \/\/",
+    "folio":"175a",
+    "stemmed":"de las rtse mo slar gugs ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-57",
+    "original":"mche ba ltar byas gnod sbyin no \/\/",
+    "folio":"175a",
+    "stemmed":"mche ba ltar byed gnod sbyin no "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-58",
+    "original":"sarba bid kasham \/ de nas mdzub gnyis nang bsdus te \/\/",
+    "folio":"175a",
+    "stemmed":"sarba bid kasham de nas mdzub gnyis nang sdud te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-59",
+    "original":"rab tu bsdams pas khu tshur ro \/\/",
+    "folio":"175a",
+    "stemmed":"rab tu sdom ba khu tshur ro "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175a-60",
+    "original":"sarba bid sam \/",
+    "folio":"175a",
+    "stemmed":"sarba bid sam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-0",
+    "original":"@175b rdo rje bsdams pa dam byas te \/\/",
+    "folio":"175b",
+    "stemmed":"rdo rje sdom ba dam byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-1",
+    "original":"mthe bong gnyis gshibs l'a sye'o \/\/",
+    "folio":"175b",
+    "stemmed":"mthe bong gnyis gshibs la sye "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-2",
+    "original":"aom sarba bid ma h'a badzrod bh'a ba d'a na p'a ra mi t'a p'u dza h'um \/",
+    "folio":"175b",
+    "stemmed":"aom sarba bid ma ha badzrod bha ba da na pa ra mi ta pu dza hum "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-3",
+    "original":"de nas kha nas mdun du ni \/\/",
+    "folio":"175b",
+    "stemmed":"de nas kha nas mdun du ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-4",
+    "original":"lag pa brkyang ba m'a le'o \/\/",
+    "folio":"175b",
+    "stemmed":"lag ba rkyong ba ma le "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-5",
+    "original":"aom sarba bid ma h'a badzrod bh'a ba sh'i la p'a ra mi t'a p'u dza tram \/",
+    "folio":"175b",
+    "stemmed":"aom sarba bid ma ha badzrod bha ba sh la pa ra mi ta pu dza tram "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-6",
+    "original":"thal mo sbyar ba m'a le nas \/\/",
+    "folio":"175b",
+    "stemmed":"thal mo sbyor ba ma le nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-7",
+    "original":"phar drangs pa ni k'i rti'o \/\/",
+    "folio":"175b",
+    "stemmed":"phar drangs ba ni k rti "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-8",
+    "original":"aom sarba bid ma h'a badzrod bh'a wa ksh'an ti p'a ra mi t'a p'u dza hr'i:\/",
+    "folio":"175b",
+    "stemmed":"aom sarba bid ma ha badzrod bha wa kshan ti pa ra mi ta pu dza "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-9",
+    "original":"gar las rdo rje thal mo ni \/\/",
+    "folio":"175b",
+    "stemmed":"gar las rdo rje thal mo ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-10",
+    "original":"spyi bor bzhag pa na rti'o \/\/",
+    "folio":"175b",
+    "stemmed":"spyi bor jog ba na rti "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-11",
+    "original":"aom sarba bid ma h'a badzrod bh'a ba b'i rya p'a ra mi t'a p'u dza aa:\/",
+    "folio":"175b",
+    "stemmed":"aom sarba bid ma ha badzrod bha ba b rya pa ra mi ta pu dza "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-12",
+    "original":"bsdams pa thur blugs bdug pa'o \/\/",
+    "folio":"175b",
+    "stemmed":"sdom ba thur blugs bdug ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-13",
+    "original":"aom sarba bti sarba aa p'a ya bi sho dha na dha ma dha ma dhu pa ya dhya na p'a ra mi t'a p'u dza h'um \/",
+    "folio":"175b",
+    "stemmed":"aom sarba bti sarba aa pa ya bi sho dha na dha ma dha ma dhu ba ya dhya na pa ra mi ta pu dza hum "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-14",
+    "original":"thams cad du 'thor me tog go \/\/",
+    "folio":"175b",
+    "stemmed":"thams cad du thor me tog go "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-15",
+    "original":"aom sarba bti sarba aa p'a ya pushpa bi lo ki ni pradzny'a na p'a ra mi t'a p'u dza tram \/",
+    "folio":"175b",
+    "stemmed":"aom sarba bti sarba aa pa ya pushpa bi lo ki ni pradznya na pa ra mi ta pu dza tram "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-16",
+    "original":"mtheb mnyam mdun 'dzin mar me'o \/\/",
+    "folio":"175b",
+    "stemmed":"mtheb mnyam mdun dzin mar me "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-17",
+    "original":"aom sarba bti sarba aa p'a ya dzny'a na aa ba lo ka ka ri pra ni dhi p'a ra mi t'a p'u dza hr'i:\/",
+    "folio":"175b",
+    "stemmed":"aom sarba bti sarba aa pa ya dznya na aa ba lo ka ka ri pra ni dhi pa ra mi ta pu dza "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-18",
+    "original":"rdo rje bsdams pa brkyang byug dri'o \/\/",
+    "folio":"175b",
+    "stemmed":"rdo rje sdom ba rkyong byug dri "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-19",
+    "original":"aom sarba bti sarba aa p'a ya gandha au pa ya p'a ra mi t'a p'u dza a'a \/",
+    "folio":"175b",
+    "stemmed":"aom sarba bti sarba aa pa ya gandha au ba ya pa ra mi ta pu dza aa "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-20",
+    "original":"mdzub gnyis bkug pa lcags kyu'o \/\/",
+    "folio":"175b",
+    "stemmed":"mdzub gnyis gugs ba lcags kyu "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-21",
+    "original":"aom sarba bti sarba na ra ka a'aksha ni h'um phat \/",
+    "folio":"175b",
+    "stemmed":"aom sarba bti sarba na ra ka aaksha ni hum phat "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-22",
+    "original":"mdzub rtse sprad pa zhags pa'o \/\/",
+    "folio":"175b",
+    "stemmed":"mdzub rtse sprod ba zhags ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-23",
+    "original":"aom sarba bti sarba na da ka au da ra ni h'um phat \/",
+    "folio":"175b",
+    "stemmed":"aom sarba bti sarba na da ka au da ra ni hum phat "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-24",
+    "original":"mdzub gnyis 'khyud pa lcags sgrog go \/\/",
+    "folio":"175b",
+    "stemmed":"mdzub gnyis khyud ba lcags sgrog go "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-25",
+    "original":"aom sarba bti sarba na ra ka bandha mo tsa ni h'um phat \/",
+    "folio":"175b",
+    "stemmed":"aom sarba bti sarba na ra ka bandha mo tsa ni hum phat "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-26",
+    "original":"rab tu bkod pa'i dril bu'o \/\/",
+    "folio":"175b",
+    "stemmed":"rab tu bkod ba dril bu "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-27",
+    "original":"aom sarba bti sarba na ra ka ghante bi sho dha ni h'um phat \/",
+    "folio":"175b",
+    "stemmed":"aom sarba bti sarba na ra ka ghante bi sho dha ni hum phat "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-28",
+    "original":"de nas las kyi phyag rgya rnams \/\/",
+    "folio":"175b",
+    "stemmed":"de nas las kyi phyag rgya rnams "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-29",
+    "original":"mdor bsdus rab tu bshad par bya \/\/",
+    "folio":"175b",
+    "stemmed":"mdor sdud rab tu chad ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-30",
+    "original":"g-yon pa lte bar brkyang ba la \/\/",
+    "folio":"175b",
+    "stemmed":"g-yon ba lte ba rkyong ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-31",
+    "original":"g-yas pa rdo rje'i tshul du ni \/\/",
+    "folio":"175b",
+    "stemmed":"g-yas ba rdo rje tshul du ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-32",
+    "original":"kun rig snang mdzad phyag rgya'o \/\/",
+    "folio":"175b",
+    "stemmed":"kun rig snang mdzad phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-33",
+    "original":"ngan song sbyong la sogs pa bzhi \/\/",
+    "folio":"175b",
+    "stemmed":"ngan gro sbyong la sogs ba bzhi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-34",
+    "original":"sa gnon mchod sbyin ting nge 'dzin \/\/",
+    "folio":"175b",
+    "stemmed":"sa gnon mchod sbyin ting nge dzin "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-35",
+    "original":"mi 'dzin sbyin sogs go rims bzhin \/\/",
+    "folio":"175b",
+    "stemmed":"mi dzin sbyin sogs go rims bzhin "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-36",
+    "original":"'gying bcas rdo rje dril 'dzin pa \/\/",
+    "folio":"175b",
+    "stemmed":"gying cha rdo rje dril dzin ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-37",
+    "original":"lcags kyu g-yas kyis 'dzin pa yin \/\/",
+    "folio":"175b",
+    "stemmed":"lcags kyu g-yas kyis dzin ba yin "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-38",
+    "original":"mda' 'phangs tshul dang se gol dang \/\/ mdzub bsgreng dpral khar 'dzin rin chen \/\/",
+    "folio":"175b",
+    "stemmed":"mda phen tshul dang se gol dang mdzub sgreng dpral khar dzin rin chen "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-39",
+    "original":"khu tshur gshibs pa nyi ma'i 'o \/\/",
+    "folio":"175b",
+    "stemmed":"khu tshur gshibs ba nyi ma mang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-40",
+    "original":"khu tshur g-yon mdog g-yas gru gzugs \/\/",
+    "folio":"175b",
+    "stemmed":"khu tshur g-yon mdog g-yas gru gzugs "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-41",
+    "original":"kha yi phyogs bzhag bzhad pa'o \/\/",
+    "folio":"175b",
+    "stemmed":"kha yi phyogs jog bzhad ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-42",
+    "original":"g-yas kyis g-yon dbye chos kyi yin \/\/",
+    "folio":"175b",
+    "stemmed":"g-yas kyis g-yon byed chos kyi yin "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-43",
+    "original":"ral gri gnyis dpung 'dzin rnon po \/\/",
+    "folio":"175b",
+    "stemmed":"ral gri gnyis dpung dzin rnon po "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:175b-44",
+    "original":"khu tshur snying gar gshibs khyod 'khor \/",
+    "folio":"175b",
+    "stemmed":"khu tshur snying gar gshibs khyod khor "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-0",
+    "original":"@176a * \/\/ kha zad nas drangs smra ba'i rgya \/\/",
+    "folio":"176a",
+    "stemmed":"kha zad nas drangs smra ba rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-1",
+    "original":"khu tshur gnyis ni gar byas te \/\/",
+    "folio":"176a",
+    "stemmed":"khu tshur gnyis ni gar byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-2",
+    "original":"'gram pa g-yas g-yon gzhag par bya \/\/",
+    "folio":"176a",
+    "stemmed":"grams ba g-yas g-yon jog ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-3",
+    "original":"de nas yang bskor spyi bor bzhag \/ spyi bor bskor ba las kyi'o \/\/",
+    "folio":"176a",
+    "stemmed":"de nas yang skor spyi bor jog spyi bor skor ba las kyi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-4",
+    "original":"khu tshur go cha'i tshul phyag rgya \/\/",
+    "folio":"176a",
+    "stemmed":"khu tshur go cha tshul phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-5",
+    "original":"de nas mthe chung mche gnod sbyin \/\/",
+    "folio":"176a",
+    "stemmed":"de nas mthe chung mche gnod sbyin "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-6",
+    "original":"khu tshur gnyis nas khu tshur rgya'o \/\/",
+    "folio":"176a",
+    "stemmed":"khu tshur gnyis nas khu tshur rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-7",
+    "original":"de las dku gnyis g-yas g-yon du \/\/",
+    "folio":"176a",
+    "stemmed":"de las dku gnyis g-yas g-yon du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-8",
+    "original":"bzhag nas 'gying ba l'a sye'o \/\/",
+    "folio":"176a",
+    "stemmed":"jog nas gying ba la sye "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-9",
+    "original":"phreng ba 'dzin pa m'a le'o \/\/",
+    "folio":"176a",
+    "stemmed":"phreng ba dzin ba ma le "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-10",
+    "original":"kha nas ba byung tshul g'irti'o \/\/",
+    "folio":"176a",
+    "stemmed":"kha nas ba byung tshul grti "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-11",
+    "original":"gar du byas pa ni rti'o \/\/",
+    "folio":"176a",
+    "stemmed":"gar du byed ba ni rti "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-12",
+    "original":"de las khu tshur thur du ni \/\/",
+    "folio":"176a",
+    "stemmed":"de las khu tshur thur du ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-13",
+    "original":"blugs pa ltar byas bdug pa'o \/\/",
+    "folio":"176a",
+    "stemmed":"blugs ba ltar byed bdug ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-14",
+    "original":"gyen du 'thor ba me tog go ;",
+    "folio":"176a",
+    "stemmed":"gyen du thor ba me tog go "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-15",
+    "original":"\/ mdun du gshibs pa mar me'o \/\/",
+    "folio":"176a",
+    "stemmed":"mdun du gshibs ba mar me "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-16",
+    "original":"khu tshur rtse sprad brang la ni \/\/",
+    "folio":"176a",
+    "stemmed":"khu tshur rtse sprod brang la ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-17",
+    "original":"byug pa de ni gandhe'o \/\/",
+    "folio":"176a",
+    "stemmed":"byug ba de ni gandhe "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-18",
+    "original":"mthe'u chung mdzub gnyis so so ru \/\/",
+    "folio":"176a",
+    "stemmed":"mtheu chung mdzub gnyis so so ru "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-19",
+    "original":"'khyud par byas pa lcags kyu'o \/\/",
+    "folio":"176a",
+    "stemmed":"khyud ba byed ba lcags kyu "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-20",
+    "original":"de las mdzub gnyis rtse sprad pa \/\/",
+    "folio":"176a",
+    "stemmed":"de las mdzub gnyis rtse sprod ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-21",
+    "original":"gdu bur byas pa zhags pa'o \/\/",
+    "folio":"176a",
+    "stemmed":"gdu bur byed ba zhags ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-22",
+    "original":"de nas gung mdzub mtheb rtse sprad ;",
+    "folio":"176a",
+    "stemmed":"de nas gung mdzub mtheb rtse sprod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-23",
+    "original":"\/ lu gu rgyud ltar byas pa las \/\/",
+    "folio":"176a",
+    "stemmed":"lu gu brgyud ltar byed ba las "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-24",
+    "original":"lhag ma bsdus pa lcags sgrog go \/\/",
+    "folio":"176a",
+    "stemmed":"lhag ma sdud ba lcags sgrog go "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-25",
+    "original":"de nas mdzub gnyis 'khyud pa las \/\/",
+    "folio":"176a",
+    "stemmed":"de nas mdzub gnyis khyud ba las "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-26",
+    "original":"khu tshur mnan bskyod dril bu'o \/\/",
+    "folio":"176a",
+    "stemmed":"khu tshur gnon skyod dril bu "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-27",
+    "original":"lce la padma'i zla dkyil du \/\/",
+    "folio":"176a",
+    "stemmed":"lce la padma zla dkyil du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-28",
+    "original":"gong du bstan pa'i sngags de dag \/ bkod nas zla ba bya ba de \/\/",
+    "folio":"176a",
+    "stemmed":"gong du ston ba sngags de dag bkod nas zla ba byed ba de "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-29",
+    "original":"chos kyi phyag rgyar rab bstan pa'o \/\/",
+    "folio":"176a",
+    "stemmed":"chos kyi phyag rgyar rab ston ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-30",
+    "original":"ji ltar bstan pa'i bsgoms pa dang \/\/ phyag rgya phyag mtshan 'dzin pa dang \/\/ thugs kar rdo rje bsgom pa ni \/\/",
+    "folio":"176a",
+    "stemmed":"ji ltar ston ba sgom ba dang phyag rgya phyag mtshan dzin ba dang thugs kar rdo rje bsgom ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-31",
+    "original":"sangs rgyas byang chub sems dpa' yis \/\/",
+    "folio":"176a",
+    "stemmed":"sangs rgya byang chub sems dpa yis "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-32",
+    "original":"phyag rgya chen por bstan pa'o \/\/",
+    "folio":"176a",
+    "stemmed":"phyag rgya chen por ston ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-33",
+    "original":"'jig rten pa yi phyag rgya ni \/\/",
+    "folio":"176a",
+    "stemmed":"jig rten ba yi phyag rgya ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-34",
+    "original":"mthe bong mthe'u chung rtse sprad de \/\/",
+    "folio":"176a",
+    "stemmed":"mthe bong mtheu chung rtse sprod de "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-35",
+    "original":"lhag ma gsum ni rdo rjer bya \/\/",
+    "folio":"176a",
+    "stemmed":"lhag ma gsum ni rdo rjer byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-36",
+    "original":"de ni brgya byin phyag rgya'o \/\/",
+    "folio":"176a",
+    "stemmed":"de ni brgya byin phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-37",
+    "original":"g-yas pa be con ltar byas pa \/\/",
+    "folio":"176a",
+    "stemmed":"g-yas ba be con ltar byed ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-38",
+    "original":"g-yon pa mgo thog ba cer byas la \/\/",
+    "folio":"176a",
+    "stemmed":"g-yon ba mgo thogs ba cer byed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-39",
+    "original":"gshin rje 'khor bcas phyag rgya'o \/\/",
+    "folio":"176a",
+    "stemmed":"gshin rje khor cha phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-40",
+    "original":"g-yas pa zhags pa 'dzin byas te \/\/",
+    "folio":"176a",
+    "stemmed":"g-yas ba zhags ba dzin byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-41",
+    "original":"g-yon pa sprul gyi gdengs kar byas \/\/",
+    "folio":"176a",
+    "stemmed":"g-yon ba sprul gyi gdeng kar byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-42",
+    "original":"chu lha 'khor bcas phyag rgya'o \/\/",
+    "folio":"176a",
+    "stemmed":"chu lha khor cha phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-43",
+    "original":"g-yas pa snye ma 'dzin pa dang \/\/ g-yon pa mdzub mo bkug pa ni \/\/",
+    "folio":"176a",
+    "stemmed":"g-yas ba snye ma dzin ba dang g-yon ba mdzub mo gugs ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-44",
+    "original":"gnod sbyin 'khor bcas phyag rgya'o \/\/",
+    "folio":"176a",
+    "stemmed":"gnod sbyin khor cha phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-45",
+    "original":"g-yas thal brkyang sbyar mthe bong bkug \/ smrang 'don lta bur byas pa dang \/\/ g-yon pa gundhe 'dzin pa ni \/\/",
+    "folio":"176a",
+    "stemmed":"g-yas thal rkyong sbyor mthe bong gugs smrang don lta bur byed ba dang g-yon ba gundhe dzin ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176a-46",
+    "original":"me lha 'khor bcas phyag rgya'o \/\/",
+    "folio":"176a",
+    "stemmed":"me lha khor cha phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-0",
+    "original":"@176b g-yas pa ral gri 'dzin pa dang \/\/ gung mo srin lag mthil bkug pa \/\/",
+    "folio":"176b",
+    "stemmed":"g-yas ba ral gri dzin ba dang gung mo srin lag mthil gugs ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-1",
+    "original":"bden bral srin po'i phyag rgya'o \/\/",
+    "folio":"176b",
+    "stemmed":"bden bral srin po phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-2",
+    "original":"g-yas pa ba dan tshul byas nas \/\/",
+    "folio":"176b",
+    "stemmed":"g-yas ba ba dan tshul byed nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-3",
+    "original":"g-yon pa btsir ba'i tshul byas ni \/\/",
+    "folio":"176b",
+    "stemmed":"g-yon ba btsir ba tshul byed ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-4",
+    "original":"rlung lha 'khor bcas phyag rgya'o \/\/",
+    "folio":"176b",
+    "stemmed":"rlung lha khor cha phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-5",
+    "original":"g-yas pa phreng ba 'dzin pa dang \/\/ g-yon pa zhags mig ltar byas pa \/\/",
+    "folio":"176b",
+    "stemmed":"g-yas ba phreng ba dzin ba dang g-yon ba zhags mig ltar byed ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-6",
+    "original":"dbang ldan 'khor bcas phyag rgya'o \/\/",
+    "folio":"176b",
+    "stemmed":"dbang ldan khor cha phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-7",
+    "original":"thal mo mnyam par sbyar ba ni \/\/",
+    "folio":"176b",
+    "stemmed":"thal mo mnyam ba sbyor ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-8",
+    "original":"pa ba sangs dang mig dmar ro \/\/",
+    "folio":"176b",
+    "stemmed":"ba ba sangs dang mig dmar ro "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-9",
+    "original":"kha thad mdzub bsgreng phur bu'o \/\/",
+    "folio":"176b",
+    "stemmed":"kha thad mdzub sgreng phur bu "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-10",
+    "original":"lag g-yas thal bgrad nyi ma la'o \/\/",
+    "folio":"176b",
+    "stemmed":"lag g-yas thal bgrad nyi ma la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-11",
+    "original":"zla ba g-yon pa bgrad pa'o \/\/",
+    "folio":"176b",
+    "stemmed":"zla ba g-yon ba bgrad ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-12",
+    "original":"glang sna chu srin 'dra sgra gcan \/\/",
+    "folio":"176b",
+    "stemmed":"glang sna chu srin dra sgra gcan "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-13",
+    "original":"se gol gtogs pa gza' lag ste \/\/",
+    "folio":"176b",
+    "stemmed":"se gol gtogs ba gza lag ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-14",
+    "original":"sben pa g-yon pa 'dzin ltar bya \/\/",
+    "folio":"176b",
+    "stemmed":"sben ba g-yon ba dzin ltar byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-15",
+    "original":"lag pa gnyis kyi mkhrig ma bsnol \/\/",
+    "folio":"176b",
+    "stemmed":"lag ba gnyis kyi mkhrig ma snol "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-16",
+    "original":"bkan te g-yas pa'i steng byung nas \/\/",
+    "folio":"176b",
+    "stemmed":"bkan te g-yas ba steng byung nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-17",
+    "original":"sor mo bsdu zhing bsnol ba ste \/\/",
+    "folio":"176b",
+    "stemmed":"sor mo sdud zhing snol ba ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-18",
+    "original":"rgyu skar spyi yi phyag rgya'o \/\/",
+    "folio":"176b",
+    "stemmed":"rgyu skar spyi yi phyag rgya "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-19",
+    "original":"de ltar dkyil 'khor lha rnams phyag rgyas btab nas \/",
+    "folio":"176b",
+    "stemmed":"de ltar dkyil khor lha rnams phyag rgya debs nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-20",
+    "original":"de nas zhabs bsil gyi snod blangs la \/\/",
+    "folio":"176b",
+    "stemmed":"de nas zhabs bsil gyi snod blangs la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-21",
+    "original":"yid kyis zhabs bsil dbul bar bya'o \/\/",
+    "folio":"176b",
+    "stemmed":"yid kyis zhabs bsil bul ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-22",
+    "original":"sngags aom pra ba ra satka ra pra t'itstsha sv'a h'a \/",
+    "folio":"176b",
+    "stemmed":"sngags aom pra ba ra satka ra pra ttstsha sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-23",
+    "original":"de nas mchod yon lag tu dbul lo \/\/",
+    "folio":"176b",
+    "stemmed":"de nas mchod yon lag tu bul lo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-24",
+    "original":"ai ma aargham sa ma ya stvam \/",
+    "folio":"176b",
+    "stemmed":"ai ma aargham sa ma ya stvam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-25",
+    "original":"tri lan siddhimme pra yatstsha sv'a h'a \/",
+    "folio":"176b",
+    "stemmed":"tri lan siddhimme pra yatstsha sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-26",
+    "original":"mchod yon phyag tu dbul bar bya'o \/\/",
+    "folio":"176b",
+    "stemmed":"mchod yon phyag tu bul ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-27",
+    "original":"rdo rje dbyings kyi dbang phyug ma la sogs pas dbang bskur ro \/\/",
+    "folio":"176b",
+    "stemmed":"rdo rje dbyings kyi dbang phyug ma la sogs ba dbang skur ro "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-28",
+    "original":"mchod pa bya ste \/",
+    "folio":"176b",
+    "stemmed":"mchod ba byed ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-29",
+    "original":"shin tu dri zhim pa'i me tog dang \/ aom badzra pushpe zhes bya ba dang \/ snying po dkar po'i bdug spos dang \/ aom badzra dh'u pe \/",
+    "folio":"176b",
+    "stemmed":"shin tu dri zhim ba me tog dang aom badzra pushpe zhes byed ba dang snying po dkar po bdug spros dang aom badzra dhu pe "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-30",
+    "original":"zhes bya ba dang \/ ba'i mar gyi mar me dang \/ aom badzra di pe a'a lo ke \/ zhes bya ba dang \/ ga pur dang \/ tsandan gyi dri zhim po dkar po dang \/ aom badzra gandhe \/",
+    "folio":"176b",
+    "stemmed":"zhes byed ba dang ba mar gyi mar me dang aom badzra di pe aa lo ke zhes byed ba dang ga pur dang tsandan gyi dri zhim po dkar po dang aom badzra gandhe "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-31",
+    "original":"zhes bya ba dang \/ kha zas dkar gsum mngon par bsngags la \/",
+    "folio":"176b",
+    "stemmed":"zhes byed ba dang kha zas dkar gsum mngon ba bsngags la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-32",
+    "original":"aom aa k'a ro mu kham sarba dharm'a n'am a'adya nutpannatv'ata \/",
+    "folio":"176b",
+    "stemmed":"aom aa ka ro mu kham sarba dharma n aadya nutpannatvata "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-33",
+    "original":"ces bya bas dbul te \/",
+    "folio":"176b",
+    "stemmed":"ces byed ba bul te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-34",
+    "original":"de dag dang pos bsangs te \/",
+    "folio":"176b",
+    "stemmed":"de dag dang pos bsangs te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-35",
+    "original":"so so las kyi phyag rgya dang bcas pas gtugs la byin gyis brlab par bya'o \/\/",
+    "folio":"176b",
+    "stemmed":"so so las kyi phyag rgya dang cha ba gtugs la byin gyis brlab ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-36",
+    "original":"de nas yang dbul ba la sogs pa'i mchod pa bya ba'i phyag rgya bzhi'o \/\/",
+    "folio":"176b",
+    "stemmed":"de nas yang bul ba la sogs ba mchod ba byed ba phyag rgya bzhi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-37",
+    "original":"de nas bdug pa la sogs pa'i las kyi phyag rgya bcings te \/",
+    "folio":"176b",
+    "stemmed":"de nas bdug ba la sogs ba las kyi phyag rgya ching te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-38",
+    "original":"snying po brjod cing mchod pa ni \/",
+    "folio":"176b",
+    "stemmed":"snying po rjod cing mchod ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:176b-39",
+    "original":"rdo rje khu tshur gnyis ka thur du bstan te bkrol la dbul \/",
+    "folio":"176b",
+    "stemmed":"rdo rje khu tshur gnyis ka thur du ston te grol la bul "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-0",
+    "original":"@177a * \/\/ badzra dh'u pe \/",
+    "folio":"177a",
+    "stemmed":"badzra dhu pe "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-1",
+    "original":"rdo rje khu tshur gnyis me tog 'thor ba'i tshul du gyen du bstan te bkrol la \/",
+    "folio":"177a",
+    "stemmed":"rdo rje khu tshur gnyis me tog thor ba tshul du gyen du ston te grol la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-2",
+    "original":"badzra pushpe \/ zhes bya bas dbul \/",
+    "folio":"177a",
+    "stemmed":"badzra pushpe zhes byed ba bul "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-3",
+    "original":"rdo rje khu tshur gnyis mar me'i lce ltar gyen du bzung la \/",
+    "folio":"177a",
+    "stemmed":"rdo rje khu tshur gnyis mar me lce ltar gyen du bzung la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-4",
+    "original":"badzra a'a lo ke \/ zhes bya bas dbul \/",
+    "folio":"177a",
+    "stemmed":"badzra aa lo ke zhes byed ba bul "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-5",
+    "original":"rdo rje khu tshur gnyis byug sbos byug pa'i tshul du rang gi lus la bcar te brkyang la \/",
+    "folio":"177a",
+    "stemmed":"rdo rje khu tshur gnyis byug sbo byug ba tshul du rang gi lus la gcer te rkyong la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-6",
+    "original":"badzra gandhe \/ zhes dbul lo \/\/",
+    "folio":"177a",
+    "stemmed":"badzra gandhe zhes bul lo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-7",
+    "original":"de nas yang gsang ba'i mchod pas mchod par byas te \/",
+    "folio":"177a",
+    "stemmed":"de nas yang gsang ba mchod ba mchod ba byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-8",
+    "original":"las kyi phyag rgya bcing ba ni \/",
+    "folio":"177a",
+    "stemmed":"las kyi phyag rgya ching ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-9",
+    "original":"rdo rje khu tshur mkhal ltag gnyis su bzhag ste \/",
+    "folio":"177a",
+    "stemmed":"rdo rje khu tshur mkhal ltag gnyis su jog ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-10",
+    "original":"l'a sye'i snying po'i don sems la bsam zhing sems dang par gyur pas glo g-yon par mgo bo btud pa ni rdo rje mdzes ma'o \/\/",
+    "folio":"177a",
+    "stemmed":"la sye snying po don sems la bsam zhing sems dang ba gyur ba glo g-yon ba mgo bo dud ba ni rdo rje mdzes ma "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-11",
+    "original":"sngags aom badzra sa tva su sam gra ha dang \/ rdo rje khu tshur gnyis rang gi mgo la phreng ba bcing ba'i tshul du byas pa ni phreng ba ma'i 'o \/\/",
+    "folio":"177a",
+    "stemmed":"sngags aom badzra sa tva su sam gra ha dang rdo rje khu tshur gnyis rang gi mgo la phreng ba ching ba tshul du byed ba ni phreng ba ma mang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-12",
+    "original":"sngags aom badzra ratna ma nutta ram \/",
+    "folio":"177a",
+    "stemmed":"sngags aom badzra ratna ma nutta ram "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-13",
+    "original":"rdo rje khu tshur gnyis kha nas tshig 'byin pa ltar byas pa ni dbyangs mkhan ma'i'o \/\/",
+    "folio":"177a",
+    "stemmed":"rdo rje khu tshur gnyis kha nas tshig byin ba ltar byed ba ni dbyangs mkhan ma "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-14",
+    "original":"sngags aom badzra dharma ga ya ne \/",
+    "folio":"177a",
+    "stemmed":"sngags aom badzra dharma ga ya ne "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-15",
+    "original":"rdo rje khu tshur g-yon pa mdun du bkan te bzhag la \/\/",
+    "folio":"177a",
+    "stemmed":"rdo rje khu tshur g-yon ba mdun du bkan te jog la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-16",
+    "original":"de'i steng du khu tshur g-yas pa kha sbub ste bzhag nas \/",
+    "folio":"177a",
+    "stemmed":"de steng du khu tshur g-yas ba kha sbub ste jog nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-17",
+    "original":"ldem bag can du lag pa gnyis phan tshul dkri zhing \/",
+    "folio":"177a",
+    "stemmed":"ldem bag can du lag ba gnyis phan tshul dkri zhing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-18",
+    "original":"g-yon pa'i mdzub mo la sogs pa dgrol ba'i tshul du byas te \/",
+    "folio":"177a",
+    "stemmed":"g-yon ba mdzub mo la sogs ba grol ba tshul du byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-19",
+    "original":"de bzhin du g-yas pa khu tshur la sogs dgrol ba'i tshul du byas pa ni \/",
+    "folio":"177a",
+    "stemmed":"de bzhin du g-yas ba khu tshur la sogs grol ba tshul du byed ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-20",
+    "original":"gar mkhan ma'i 'o \/\/",
+    "folio":"177a",
+    "stemmed":"gar mkhan ma mang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-21",
+    "original":"sngags aom badzra karma ka rod bh'a ba \/",
+    "folio":"177a",
+    "stemmed":"sngags aom badzra karma ka rod bha ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-22",
+    "original":"da ni mchod pa nyi shus mchod par bya ste \/",
+    "folio":"177a",
+    "stemmed":"da ni mchod ba nyi shus mchod ba byed ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-23",
+    "original":"'di ni mchod pa nyi shus de bzhin gshegs pa thams cad la kun du mchod nas \/",
+    "folio":"177a",
+    "stemmed":"di ni mchod ba nyi shus de bzhin gshegs ba thams cad la kun du mchod nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-24",
+    "original":"ye shes sems dpa'i thugs ka'i mtshan ma'i dbus su rang gi chos kyi phyag rgya dkyil 'khor gyi lha thams cad kyi ngo bo nyid du bsams te \/",
+    "folio":"177a",
+    "stemmed":"ye shes sems dpa thugs ka mtshan ma dbus su rang gi chos kyi phyag rgya dkyil khor gyi lha thams cad kyi ngo bo nyid du bsams te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-25",
+    "original":"yang mchod yon phul la \/",
+    "folio":"177a",
+    "stemmed":"yang mchod yon bul la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-26",
+    "original":"'thor 'thung snga ma bzhin du sbyin sreg gi yo byad thams cad bsang gtor byas la \/",
+    "folio":"177a",
+    "stemmed":"thor thung snga ma bzhin du sbyin sreg gi yo byad thams cad bsang thor byed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-27",
+    "original":"dgang gzar dang blugs gzar lag tu blangs la \/",
+    "folio":"177a",
+    "stemmed":"geng gzar dang blugs gzar lag tu blangs la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-28",
+    "original":"byin za brtag ste \/",
+    "folio":"177a",
+    "stemmed":"byin za rtog ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-29",
+    "original":"mar gyis bkang ste spar zhing \/",
+    "folio":"177a",
+    "stemmed":"mar gyis geng ste spor zhing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-30",
+    "original":"ji snyed pa thams cad me'i zhal du bstabs par bya'o \/\/",
+    "folio":"177a",
+    "stemmed":"ji snyed ba thams cad me zhal du stob ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177a-31",
+    "original":"de nas gtso bo la me lha nyid dbul bar bya'o \/\/",
+    "folio":"177a",
+    "stemmed":"de nas gtso bo la me lha nyid bul ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-0",
+    "original":"de nas rgyal ba lnga dang \/ sems dpa' bcu drug po rnams la brgya rtsa brgyad @177b dbul \/",
+    "folio":"177b",
+    "stemmed":"de nas rgyal ba lnga dang sems dpa chu drug po rnams la brgya rtsa brgyad bul "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-1",
+    "original":"lhag ma rnams la nyi shu rtsa gcig dbul lo \/\/",
+    "folio":"177b",
+    "stemmed":"lhag ma rnams la nyi shu rtsa gcig bul lo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-2",
+    "original":"rdzas rnams ni gong du rgyas par smos bar zad do \/\/",
+    "folio":"177b",
+    "stemmed":"rdzas rnams ni gong du rgya ba smos ba zad do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-3",
+    "original":"de nas gong du smos pa'i rdo rje dril bu rnam pa gnyis padma'i lag skor lnga byas te \/",
+    "folio":"177b",
+    "stemmed":"de nas gong du smos ba rdo rje dril bu rnam ba gnyis padma lag skor lnga byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-4",
+    "original":"sangs rgyas thams cad la bstod par bya'o \/\/",
+    "folio":"177b",
+    "stemmed":"sangs rgya thams cad la bstod ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-5",
+    "original":"chos nyid ye shes skyon bral ba'i \/\/",
+    "folio":"177b",
+    "stemmed":"chos nyid ye shes skyon bral ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-6",
+    "original":"rnam par snang mdzad bcom ldan 'das \/\/",
+    "folio":"177b",
+    "stemmed":"rnam ba snang mdzad joms ldan da "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-7",
+    "original":"ting nge 'dzin ldan phyag rgya can \/\/",
+    "folio":"177b",
+    "stemmed":"ting nge dzin ldan phyag rgya can "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-8",
+    "original":"phyag 'tshal rdo rje kun rig la'o \/\/",
+    "folio":"177b",
+    "stemmed":"phyag tshal rdo rje kun rig la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-9",
+    "original":"me long ye shes rang bzhin las \/\/",
+    "folio":"177b",
+    "stemmed":"me long ye shes rang bzhin las "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-10",
+    "original":"sems can ma lus thams cad kyi \/\/",
+    "folio":"177b",
+    "stemmed":"sems can ma lus thams cad kyi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-11",
+    "original":"ngan song thams cad sbyong mdzad pa \/\/",
+    "folio":"177b",
+    "stemmed":"ngan gro thams cad sbyong mdzad ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-12",
+    "original":"phyag 'tshal sbyong ba'i rgyal po la \/\/",
+    "folio":"177b",
+    "stemmed":"phyag tshal sbyong ba rgyal po la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-13",
+    "original":"mnyam nyid ye shes yon tan bdag \/ yid bzhin nor bu rin chen gyis \/\/",
+    "folio":"177b",
+    "stemmed":"mnyam nyid ye shes yon tan bdag yid bzhin nor bu rin chen gyis "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-14",
+    "original":"bsam pa thams cad skong mdzad pa \/\/",
+    "folio":"177b",
+    "stemmed":"bsam ba thams cad skong mdzad ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-15",
+    "original":"rgyal mchog rin chen khyod phyag 'tshal \/\/",
+    "folio":"177b",
+    "stemmed":"rgyal mchog rin chen khyod phyag tshal "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-16",
+    "original":"so sor kun rtog gsung gi bdag \/ gsung rab padma'i kha rgyas pa \/\/",
+    "folio":"177b",
+    "stemmed":"so sor kun rtogs gsung gi bdag gsung rab padma kha rgya ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-17",
+    "original":"khams gsum dbugs 'byin mdzad pa po \/\/",
+    "folio":"177b",
+    "stemmed":"khams gsum dbugs byin mdzad ba po "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-18",
+    "original":"sh'akya'i rigs dbang khyod phyag 'tshal \/\/",
+    "folio":"177b",
+    "stemmed":"shakya rigs dbang khyod phyag tshal "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-19",
+    "original":"nan tan ye shes phrin las bdag \/ sna tshogs sems can sdug bsngal kun \/\/",
+    "folio":"177b",
+    "stemmed":"nan tan ye shes phrin las bdag sna tshogs sems can sdug sngal kun "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-20",
+    "original":"ma lus sems ni zhi mdzad pa \/\/",
+    "folio":"177b",
+    "stemmed":"ma lus sems ni zhi mdzad ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-21",
+    "original":"me tog cher rgyas khyod phyag 'tshal \/\/",
+    "folio":"177b",
+    "stemmed":"me tog cher rgya khyod phyag tshal "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-22",
+    "original":"grva yi phyogs ni kun du yang \/\/",
+    "folio":"177b",
+    "stemmed":"grva yi phyogs ni kun du yang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-23",
+    "original":"rigs kyi yum gyi sku bstan pa \/\/",
+    "folio":"177b",
+    "stemmed":"rigs kyi yum gyi sku ston ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-24",
+    "original":"lo tsan dang m'a ma k'i \/\/",
+    "folio":"177b",
+    "stemmed":"lo tsan dang ma ma k "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-25",
+    "original":"dkar mo sgrol ma khyod phyag 'tshal \/\/",
+    "folio":"177b",
+    "stemmed":"dkar mo sgrol ma khyod phyag tshal "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-26",
+    "original":"rdo rje sems dpa' sems dpa' che \/\/",
+    "folio":"177b",
+    "stemmed":"rdo rje sems dpa sems dpa che "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-27",
+    "original":"zhes bya ba nas \/\/",
+    "folio":"177b",
+    "stemmed":"zhes byed ba nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-28",
+    "original":"phyag 'tshal rdo rje khu tshur la'o \/\/",
+    "folio":"177b",
+    "stemmed":"phyag tshal rdo rje khu tshur la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-29",
+    "original":"zhes bya ba'i bar du'o \/\/",
+    "folio":"177b",
+    "stemmed":"zhes byed ba ba du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-30",
+    "original":"sgeg mo phreng dang dbyangs dang gar \/\/",
+    "folio":"177b",
+    "stemmed":"sgeg mo phreng dang dbyangs dang gar "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-31",
+    "original":"spos ma me tog mar me dang \/\/ dri chab la sogs lha mo brgyad \/\/",
+    "folio":"177b",
+    "stemmed":"spros ma me tog mar me dang dri chab la sogs lha mo brgyad "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-32",
+    "original":"phyi nang lha mo phyag 'tshal lo \/\/",
+    "folio":"177b",
+    "stemmed":"phyi nang lha mo phyag tshal lo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-33",
+    "original":"de yi phyi rim gnas pa yi \/\/",
+    "folio":"177b",
+    "stemmed":"de yi phyi rim gnas ba yi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-34",
+    "original":"'jig rten skyong ba brgyad po la \/\/",
+    "folio":"177b",
+    "stemmed":"jig rten skyong ba brgyad po la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-35",
+    "original":"'khor dang bcas pa gnas pa ni \/\/",
+    "folio":"177b",
+    "stemmed":"khor dang cha ba gnas ba ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-36",
+    "original":"mche ba drug pa mdog dkar ba'i \/\/",
+    "folio":"177b",
+    "stemmed":"mche ba drug ba mdog dkar ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-37",
+    "original":"glang chen de ni brgya byin gdan \/\/",
+    "folio":"177b",
+    "stemmed":"glang chen de ni brgya byin gdan "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-38",
+    "original":"rol pas 'dug par gur kum 'dra \/\/",
+    "folio":"177b",
+    "stemmed":"rol ba dug ba gur kum dra "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-39",
+    "original":"mtshan ma sha rtsi au pa s'i \/\/",
+    "folio":"177b",
+    "stemmed":"mtshan ma sha rtsi au ba s "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-40",
+    "original":"'khor dang bcas te phyag 'tshal bstod \/\/",
+    "folio":"177b",
+    "stemmed":"khor dang cha te phyag tshal bstod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-41",
+    "original":"lho phyogs gshin rje'i rgyal po ni \/\/",
+    "folio":"177b",
+    "stemmed":"lho phyogs gshin rje rgyal po ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-42",
+    "original":"ma he'i gdan can g-yon dkur brten \/\/",
+    "folio":"177b",
+    "stemmed":"ma he gdan can g-yon dkur rten "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-43",
+    "original":"mchan na nag mo 'chi bdag mo \/\/",
+    "folio":"177b",
+    "stemmed":"mchan na nag mo chi bdag mo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-44",
+    "original":"be con g-yon 'dzin phyag 'tshal bstod \/\/",
+    "folio":"177b",
+    "stemmed":"be con g-yon dzin phyag tshal bstod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-45",
+    "original":"nub phyogs ngos kyi chu lha ni \/\/",
+    "folio":"177b",
+    "stemmed":"nub phyogs ngos kyi chu lha ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:177b-46",
+    "original":"lus mdog dkar zhing 'tsher ba la \/\/",
+    "folio":"177b",
+    "stemmed":"lus mdog dkar zhing tsher ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-0",
+    "original":"sbrul gyis @178a * \/\/",
+    "folio":"178a",
+    "stemmed":"sbrul gyis "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-1",
+    "original":"lus brgyan chu srin gdan \/\/",
+    "folio":"178a",
+    "stemmed":"lus rgyan chu srin gdan "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-2",
+    "original":"zhags pa rin chen bsnams phyag 'tshal \/\/",
+    "folio":"178a",
+    "stemmed":"zhags ba rin chen snom phyag tshal "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-3",
+    "original":"byang phyogs gnod sbyin rgyal po ni \/\/",
+    "folio":"178a",
+    "stemmed":"byang phyogs gnod sbyin rgyal po ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-4",
+    "original":"gser gyi mdog 'dra rin chen dang \/\/ g-yon pa snye ma rta yi gdan \/\/",
+    "folio":"178a",
+    "stemmed":"gser gyi mdog dra rin chen dang g-yon ba snye ma rta yi gdan "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-5",
+    "original":"mchan na chung ma bsnams phyag 'tshal \/\/",
+    "folio":"178a",
+    "stemmed":"mchan na chung ma snom phyag tshal "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-6",
+    "original":"me gzugs kha dog drug 'dra ba'i ;",
+    "folio":"178a",
+    "stemmed":"me gzugs kha dog drug dra ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-7",
+    "original":"\/ dkyil na na chung gnas pa yi \/\/",
+    "folio":"178a",
+    "stemmed":"dkyil na na chung gnas ba yi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-8",
+    "original":"lus dmar po la ra skyes gdan \/\/",
+    "folio":"178a",
+    "stemmed":"lus dmar po la ra skye gdan "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-9",
+    "original":"gundhe dbyug 'dzin phyag 'tshal bstod \/\/",
+    "folio":"178a",
+    "stemmed":"gundhe dbyug dzin phyag tshal bstod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-10",
+    "original":"lho nub mtshams kyi bden bral ni \/\/",
+    "folio":"178a",
+    "stemmed":"lho nub mtshams kyi bden bral ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-11",
+    "original":"yi dags gdan can dmar nag mdog \/ me bur ba ni g-yon na 'dzin \/\/",
+    "folio":"178a",
+    "stemmed":"yi dags gdan can dmar nag mdog me bur ba ni g-yon na dzin "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-12",
+    "original":"g-yas pa ral gri 'dzin phyag 'tshal\/\/",
+    "folio":"178a",
+    "stemmed":"g-yas ba ral gri dzin phyag "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-13",
+    "original":"nub byang rlung lha'i rgyal po ni \/\/",
+    "folio":"178a",
+    "stemmed":"nub byang rlung lha rgyal po ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-14",
+    "original":"nam mkha'i mdog can sha ba'i gdan \/\/",
+    "folio":"178a",
+    "stemmed":"nam mkha mdog can sha ba gdan "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-15",
+    "original":"ba dan gyen du bsgreng ba 'dzin \/\/",
+    "folio":"178a",
+    "stemmed":"ba dan gyen du sgreng ba dzin "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-16",
+    "original":"g-yon pa rlung sgye'u thogs phyag 'tshal \/\/",
+    "folio":"178a",
+    "stemmed":"g-yon ba rlung sgyeu thogs phyag tshal "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-17",
+    "original":"byang shar 'byung po'i rgyal po ni \/\/",
+    "folio":"178a",
+    "stemmed":"byang char byung po rgyal po ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-18",
+    "original":"thal ba'i mdog 'dra rta yi gdan \/\/",
+    "folio":"178a",
+    "stemmed":"thal ba mdog dra rta yi gdan "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-19",
+    "original":"g-yas nyid rtse gsum aa 'bra dang \/\/ g-yon nyid gundhe rag sha phreng \/\/",
+    "folio":"178a",
+    "stemmed":"g-yas nyid rtse gsum aa bra dang g-yon nyid gundhe rag sha phreng "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-20",
+    "original":"bgegs gdon rnams la dbang sgyur zhing \/\/",
+    "folio":"178a",
+    "stemmed":"bgegs don rnams la dbang sgyur zhing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-21",
+    "original":"'khor dang bcas la phyag 'tshal bstod \/\/",
+    "folio":"178a",
+    "stemmed":"khor dang cha la phyag tshal bstod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-22",
+    "original":"de yi phyi rim phyogs bzhi na \/\/",
+    "folio":"178a",
+    "stemmed":"de yi phyi rim phyogs bzhi na "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-23",
+    "original":"bar na gza' rnams brgyad gnas pa \/\/",
+    "folio":"178a",
+    "stemmed":"ba na gza rnams brgyad gnas ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-24",
+    "original":"pa ba sangs dang mig dmar gnyis \/\/",
+    "folio":"178a",
+    "stemmed":"ba ba sangs dang mig dmar gnyis "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-25",
+    "original":"shar na gnas shing 'khor rnams skyong \/\/",
+    "folio":"178a",
+    "stemmed":"char na gnas shing khor rnams skyong "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-26",
+    "original":"smin drug snar ma mgo dang lag \/ nab so rgyal skag sogs phyag 'tshal \/\/",
+    "folio":"178a",
+    "stemmed":"smin drug snar ma mgo dang lag nab so rgyal skag sogs phyag tshal "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-27",
+    "original":"phur bu dang ni nyi ma gnyis \/\/",
+    "folio":"178a",
+    "stemmed":"phur bu dang ni nyi ma gnyis "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-28",
+    "original":"lho na gnas shing 'khor skyong ba \/\/",
+    "folio":"178a",
+    "stemmed":"lho na gnas shing khor skyong ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-29",
+    "original":"mchu dang gre dang dbo dang ni \/\/",
+    "folio":"178a",
+    "stemmed":"mchu dang gre dang bo dang ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-30",
+    "original":"me bzhi nag pa sa ri dang \/\/ sa ga la sogs phyag 'tshal bstod \/\/",
+    "folio":"178a",
+    "stemmed":"me bzhi nag ba sa ri dang sa ga la sogs phyag tshal bstod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-31",
+    "original":"zla ba sgra gcan nub phyogs na \/\/",
+    "folio":"178a",
+    "stemmed":"zla ba sgra gcan nub phyogs na "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-32",
+    "original":"gnas shing rang gi 'khor skyong ba \/\/",
+    "folio":"178a",
+    "stemmed":"gnas shing rang gi khor skyong ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-33",
+    "original":"lha mtshams dang ni snron dang snubs \/\/",
+    "folio":"178a",
+    "stemmed":"lha mtshams dang ni snron dang snubs "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-34",
+    "original":"chu stod dang ni chu smad dang \/\/ byi bzhin dang ni gro bzhin dang \/\/ nub phyogs gza' skar phyag 'tshal bstod \/\/",
+    "folio":"178a",
+    "stemmed":"chu stod dang ni chu smad dang byi bzhin dang ni gro bzhin dang nub phyogs gza skar phyag tshal bstod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-35",
+    "original":"gza' lag spen pa byang phyogs na \/\/",
+    "folio":"178a",
+    "stemmed":"gza lag spen ba byang phyogs na "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-36",
+    "original":"gnas shing rang gi 'khor skyong ba \/\/",
+    "folio":"178a",
+    "stemmed":"gnas shing rang gi khor skyong ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-37",
+    "original":"mon gru dang ni mon gre dang \/\/ khrums stod khrums smad nam gru dang \/\/ tha skar dang ni bra nye ste \/\/",
+    "folio":"178a",
+    "stemmed":"mon gru dang ni mon gre dang khrums stod khrums smad nam gru dang tha skar dang ni bra nye ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-38",
+    "original":"gza' skar tshogs la phyag 'tshal bstod \/\/",
+    "folio":"178a",
+    "stemmed":"gza skar tshogs la phyag tshal bstod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-39",
+    "original":"sgo yi dbus su gnas pa gang \/\/",
+    "folio":"178a",
+    "stemmed":"sgo yi dbus su gnas ba gang "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-40",
+    "original":"lcags kyu zhags pa lcags sgrog dril \/\/",
+    "folio":"178a",
+    "stemmed":"lcags kyu zhags ba lcags sgrog dril "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178a-41",
+    "original":"dad sogs bsgoms pa las skyes pa'i \/\/",
+    "folio":"178a",
+    "stemmed":"dad sogs sgom ba las skye ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-0",
+    "original":"sgo srung rnams la @178b phyag 'tshal bstod \/\/",
+    "folio":"178b",
+    "stemmed":"sgo srung rnams la phyag tshal bstod "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-1",
+    "original":"ces bstod de \/\/",
+    "folio":"178b",
+    "stemmed":"ces bstod de "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-2",
+    "original":"gang 'dod pa'i dngos grub rnams gsol ba gdab pa'o \/",
+    "folio":"178b",
+    "stemmed":"gang dod ba dngos grub rnams gsol ba gdab ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-3",
+    "original":"\/\/ \/ bzod par gsol zhing gshegs te \/",
+    "folio":"178b",
+    "stemmed":"bzod ba gsol zhing gshegs te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-4",
+    "original":"yi ge brgya pa nus tshad du brjod nas \/\/",
+    "folio":"178b",
+    "stemmed":"yi ge brgya ba nus tshad du rjod nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-5",
+    "original":"'di skad brjod do \/\/",
+    "folio":"178b",
+    "stemmed":"di skad rjod do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-6",
+    "original":"cho ga nyams pa gang bgyis pa \/\/",
+    "folio":"178b",
+    "stemmed":"cho ga nyams ba gang bgyid ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-7",
+    "original":"mgon po bdag la bzod par gsol \/\/",
+    "folio":"178b",
+    "stemmed":"mgon po bdag la bzod ba gsol "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-8",
+    "original":"mi shes pa dang ma 'byor bas \/\/",
+    "folio":"178b",
+    "stemmed":"mi shes ba dang ma byor ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-9",
+    "original":"gang phyir lus can skyabs gyur pa \/\/",
+    "folio":"178b",
+    "stemmed":"gang phyir lus can skyob gyur ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-10",
+    "original":"cho ga dman pa bzod par gsol \/\/",
+    "folio":"178b",
+    "stemmed":"cho ga dman ba bzod ba gsol "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-11",
+    "original":"de nas yang ye shes sems dpa' gshegs su gsol \/\/",
+    "folio":"178b",
+    "stemmed":"de nas yang ye shes sems dpa gshegs su gsol "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-12",
+    "original":"aom khyod kyis sems can don kun mdzad \/\/",
+    "folio":"178b",
+    "stemmed":"aom khyod kyis sems can don kun mdzad "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-13",
+    "original":"dngos grub stsal nas gshegs su gsol \/\/",
+    "folio":"178b",
+    "stemmed":"dngos grub stsal nas gshegs su gsol "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-14",
+    "original":"sangs rgyas yul du gshegs nas ni \/\/",
+    "folio":"178b",
+    "stemmed":"sangs rgya yul du gshegs nas ni "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-15",
+    "original":"slar yang 'byon par mdzad du gsol \/\/",
+    "folio":"178b",
+    "stemmed":"slar yang byon ba mdzad du gsol "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-16",
+    "original":"zhes bya ba dang \/ rdo rje sems ma'i dam tshig gi phyag rgya bcings nas \/",
+    "folio":"178b",
+    "stemmed":"zhes byed ba dang rdo rje sems ma dam tshig gi phyag rgya ching nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-17",
+    "original":"sngags 'di brjod cing gshegs su gsol bar bya'o \/\/",
+    "folio":"178b",
+    "stemmed":"sngags di rjod cing gshegs su gsol ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-18",
+    "original":"aom mu: zhes bya ba dang \/ sngags 'dis kyang gshegs su gsol bar bya ste ;",
+    "folio":"178b",
+    "stemmed":"aom mu: zhes byed ba dang sngags dis kyang gshegs su gsol ba byed ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-19",
+    "original":"aom kri to bha ba aartha sa tva ta siddhi ma me dad de yatstsha nu \/",
+    "folio":"178b",
+    "stemmed":"aom kri to bha ba aartha sa tva ta siddhi ma me dad de yatstsha nu "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-20",
+    "original":"nu na ga ma na yam tu \/",
+    "folio":"178b",
+    "stemmed":"nu na ga ma na yam tu "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-21",
+    "original":"zhes brjod do \/\/",
+    "folio":"178b",
+    "stemmed":"zhes rjod do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-22",
+    "original":"de nas de'i shar lho mtshams nas \/",
+    "folio":"178b",
+    "stemmed":"de nas de char lho mtshams nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-23",
+    "original":"thab nang gi lus la bcug pa phyir spyan drangs te \/",
+    "folio":"178b",
+    "stemmed":"thab nang gi lus la jug ba phyir spyan drangs te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-24",
+    "original":"me lha la mchod yon la sogs pa phul te \/",
+    "folio":"178b",
+    "stemmed":"me lha la mchod yon la sogs ba bul te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-25",
+    "original":"yo byad kyi lhag ma rnams kyis lan gsum gsum du sbyin sreg byas la \/",
+    "folio":"178b",
+    "stemmed":"yo byad kyi lhag ma rnams kyis lan gsum gsum du sbyin sreg byed la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-26",
+    "original":"de'i tha mar yon bdag g-yon du bzhag la \/",
+    "folio":"178b",
+    "stemmed":"de tha mar yon bdag g-yon du jog la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-27",
+    "original":"bsgrub pa'i dngos grub cing 'dod pa gsol ba gdab bo \/\/",
+    "folio":"178b",
+    "stemmed":"sgrub ba dngos grub cing dod ba gsol ba gdab bo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-28",
+    "original":"aom aagna ye ya hi ya hi sva stam tsi pa ra tham \/",
+    "folio":"178b",
+    "stemmed":"aom aagna ye ya hi ya hi sva stam tsi ba ra tham "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-29",
+    "original":"siddhi tham ga ga tstsha ha bhu bhu ga ta \/",
+    "folio":"178b",
+    "stemmed":"siddhi tham ga ga tstsha ha bhu bhu ga ta "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-30",
+    "original":"zhes brjod cing spyan drangs pa'i phyag rgya las mthe bong slar bkyed cing 'bar ba'i me gshegs su gsol lo \/\/",
+    "folio":"178b",
+    "stemmed":"zhes rjod cing spyan drangs ba phyag rgya las mthe bong slar gyed cing bar ba me gshegs su gsol lo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-31",
+    "original":"rje btsun gyi yi ge brgya ba lan gsum brjod do \/\/",
+    "folio":"178b",
+    "stemmed":"rje btsun gyi yi ge brgya ba lan gsum rjod do "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-32",
+    "original":"de ltar yi ge brgya pas bshags nas \/\/",
+    "folio":"178b",
+    "stemmed":"de ltar yi ge brgya ba chags nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-33",
+    "original":"yang me thab dang yo byad rnams bsangs nas \/",
+    "folio":"178b",
+    "stemmed":"yang me thab dang yo byad rnams bsangs nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-34",
+    "original":"de nas bdag dam tshig sems dpar bsgoms pa'i thugs kar h'um bsams pa las \/",
+    "folio":"178b",
+    "stemmed":"de nas bdag dam tshig sems dpar sgom ba thugs kar hum bsams ba las "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-35",
+    "original":"bdag nyid khro bo phyag na rdo rje h'um zhes bya bar gyur te \/",
+    "folio":"178b",
+    "stemmed":"bdag nyid khro bo phyag na rdo rje hum zhes byed ba gyur te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-36",
+    "original":"bzhin dang cha lugs khro bo'i tshul du bsam \/",
+    "folio":"178b",
+    "stemmed":"bzhin dang cha lugs khro bo tshul du bsam "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-37",
+    "original":"mdun gyi me thab tu yang yi ge h'um las rdo rje sems dpar gyur nas \/",
+    "folio":"178b",
+    "stemmed":"mdun gyi me thab tu yang yi ge hum las rdo rje sems dpar gyur nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-38",
+    "original":"rdo rje sems dpa'i thugs ka nas \/",
+    "folio":"178b",
+    "stemmed":"rdo rje sems dpa thugs ka nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-39",
+    "original":"aom badzra sa tva kro dha aa na l'arka ma h'a badzra kro dha \/",
+    "folio":"178b",
+    "stemmed":"aom badzra sa tva kro dha aa na larka ma ha badzra kro dha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-40",
+    "original":"dra ba dra ba \/",
+    "folio":"178b",
+    "stemmed":"dra ba dra ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:178b-41",
+    "original":"bi dra ba pi dra ba \/",
+    "folio":"178b",
+    "stemmed":"bi dra ba pi dra ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-0",
+    "original":"@179a * \/\/ sarba aa pa \/",
+    "folio":"179a",
+    "stemmed":"sarba aa ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-1",
+    "original":"n'a sha ya n'a sha ya ha ra ha ra \/",
+    "folio":"179a",
+    "stemmed":"na sha ya na sha ya ha ra ha ra "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-2",
+    "original":"pr'a n'an h'um \/",
+    "folio":"179a",
+    "stemmed":"pra nan hum "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-3",
+    "original":"zhes brjod pas \/",
+    "folio":"179a",
+    "stemmed":"zhes rjod ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-4",
+    "original":"khro bo khams gsum rnam par rgyal ba'i skur gyur te \/",
+    "folio":"179a",
+    "stemmed":"khro bo khams gsum rnam ba rgyal ba skur gyur te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-5",
+    "original":"sku mdog sngon po zhal bgrad cing mche ba gtsigs pa \/",
+    "folio":"179a",
+    "stemmed":"sku mdog sngon po zhal bgrad cing mche ba gtsigs ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-6",
+    "original":"phyag na rdo rje dang \/ padma dang \/ ral gri la lags pa mtshon cha grangs med pa bsnams pa \/",
+    "folio":"179a",
+    "stemmed":"phyag na rdo rje dang padma dang ral gri la lags ba mtshon cha grangs med ba snom ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-7",
+    "original":"sprul gyis brgyan pa \/",
+    "folio":"179a",
+    "stemmed":"sprul gyis rgyan ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-8",
+    "original":"stag lpags kyis smad brgyan pa \/",
+    "folio":"179a",
+    "stemmed":"stag lpags kyis smad rgyan ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-9",
+    "original":"'khor khro bo mang pos bskor \/",
+    "folio":"179a",
+    "stemmed":"khor khro bo mang pos skor "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-10",
+    "original":"rig lngas dbu brgyan pa \/",
+    "folio":"179a",
+    "stemmed":"rig lngas dbu rgyan ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-11",
+    "original":"zhabs padma lta bus ro mnan cing thabs mkhas pa'i thugs rjes sdig pa sbyong bar bsams te \/",
+    "folio":"179a",
+    "stemmed":"zhabs padma lta bud ro gnon cing thabs mkhas ba thugs rjes sdig ba sbyong ba bsams te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-12",
+    "original":"mchod yon dang \/ zhabs bsil la sogs pa phul la \/",
+    "folio":"179a",
+    "stemmed":"mchod yon dang zhabs bsil la sogs ba bul la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-13",
+    "original":"dang por khro bo'i sngags kyis mar dang yam shing phul la \/",
+    "folio":"179a",
+    "stemmed":"dang por khro bo sngags kyis mar dang yam shing bul la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-14",
+    "original":"de nas rdzas rnams gcig tu bsres la \/",
+    "folio":"179a",
+    "stemmed":"de nas rdzas rnams gcig tu bsres la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-15",
+    "original":"bdud rtsi 'khyil pa'i sngags btab pa la \/",
+    "folio":"179a",
+    "stemmed":"bdud rtsi khyil ba sngags debs ba la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-16",
+    "original":"lag pa g-yon pa khu tshur bcangs la \/",
+    "folio":"179a",
+    "stemmed":"lag ba g-yon ba khu tshur chang la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-17",
+    "original":"mdzub mo bsgreng ste \/",
+    "folio":"179a",
+    "stemmed":"mdzub mo sgreng ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-18",
+    "original":"brang la dpung pa dam du bcum la \/",
+    "folio":"179a",
+    "stemmed":"brang la dpung ba dam du bcum la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-19",
+    "original":"lag pa g-yas sbyin sreg bya ste \/",
+    "folio":"179a",
+    "stemmed":"lag ba g-yas sbyin sreg byed ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-20",
+    "original":"sngags gong du smos pa dang \/ brgya rtsa brgyad kyi bar du sbyin sreg bya'o \/\/",
+    "folio":"179a",
+    "stemmed":"sngags gong du smos ba dang brgya rtsa brgyad kyi ba du sbyin sreg byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-21",
+    "original":"bar bar du ming 'di zhes bya ba'i nyon mongs pa dang \/ sgrib pa thams cad pa pam da ha na badzr'a ya sv'a h'a \/",
+    "folio":"179a",
+    "stemmed":"ba ba du ming di zhes byed ba nyon mongs ba dang sgrib ba thams cad ba pam da ha na badzra ya sva ha "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-22",
+    "original":"zhes brjod cing til bsreg go \/\/",
+    "folio":"179a",
+    "stemmed":"zhes rjod cing til bsreg go "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-23",
+    "original":"de nas khro bo gshegs su gsol lo \/\/",
+    "folio":"179a",
+    "stemmed":"de nas khro bo gshegs su gsol lo "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-24",
+    "original":"bdag nyid phyag rgya dgrol zhing \/",
+    "folio":"179a",
+    "stemmed":"bdag nyid phyag rgya grol zhing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-25",
+    "original":"lus bsrung ba la sogs pa bya'o \/\/",
+    "folio":"179a",
+    "stemmed":"lus bsrung ba la sogs ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-26",
+    "original":"de ltar bsregs nas thal bar gyur pa dang \/ rdo rje bsdu ba'i sngags sam ha ri zhes brjod cing \/",
+    "folio":"179a",
+    "stemmed":"de ltar bsregs nas thal ba gyur ba dang rdo rje sdud ba sngags sam ha ri zhes rjod cing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-27",
+    "original":"rus pa dang thal ba rnams bsdus nas \/",
+    "folio":"179a",
+    "stemmed":"rus ba dang thal ba rnams sdud nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-28",
+    "original":"snod gtsang mar bcug ste \/",
+    "folio":"179a",
+    "stemmed":"snod gtsang mar jug ste "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-29",
+    "original":"mchod rten gdab pa'i phyogs su gzhag go \/\/",
+    "folio":"179a",
+    "stemmed":"mchod rten gdab ba phyogs su jog go "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-30",
+    "original":"de nas ga pur la sogs pa'i chu dang \/ ba'i mar dang \/ zho dang \/ lci ba dang \/ gcin dang \/ rus pa bsres te \/",
+    "folio":"179a",
+    "stemmed":"de nas ga pur la sogs ba chu dang ba mar dang zho dang lci ba dang gcin dang rus ba bsres te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-31",
+    "original":"ngan song sbyor ba'i sngags 'bum man chad bzlas la \/",
+    "folio":"179a",
+    "stemmed":"ngan gro sbyor ba sngags bum man chad bzlas la "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-32",
+    "original":"dkyil 'khor gyi lha gang yang rung ba'i gzugs su gdab pa'am \/",
+    "folio":"179a",
+    "stemmed":"dkyil khor gyi lha gang yang rung ba gzugs su gdab ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-33",
+    "original":"yang na mchod rten byas te \/",
+    "folio":"179a",
+    "stemmed":"yang na mchod rten byed te "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-34",
+    "original":"mchod rten gdab pa'am \/",
+    "folio":"179a",
+    "stemmed":"mchod rten gdab ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-35",
+    "original":"gnyis gdab pa dang \/ gsum gdab pa dang \/ brgya rtsa brgyad man chad gdab pa'i bar du \/",
+    "folio":"179a",
+    "stemmed":"gnyis gdab ba dang gsum gdab ba dang brgya rtsa brgyad man chad gdab ba ba du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-36",
+    "original":"gzhan dang mthun pa'i tshul gyis \/",
+    "folio":"179a",
+    "stemmed":"gzhan dang mthun ba tshul gyis "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-37",
+    "original":"sngags dang phyag rgyas btab nas \/",
+    "folio":"179a",
+    "stemmed":"sngags dang phyag rgya debs nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179a-38",
+    "original":"sku'am mchod rten gyi spyan sngar \/",
+    "folio":"179a",
+    "stemmed":"sku mchod rten gyi spyan sngar "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-0",
+    "original":"ngan song skyong ba'i sngags @179b nyis brgya man chad bzlas so \/\/",
+    "folio":"179b",
+    "stemmed":"ngan gro skyong ba sngags nyis brgya man chad bzlas so "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-1",
+    "original":"de nas mchod rten 'bar ba la sogs pa'i mtshan ma bzang po 'byung bar 'gyur ro \/\/",
+    "folio":"179b",
+    "stemmed":"de nas mchod rten bar ba la sogs ba mtshan ma bzang po byung ba gyur ro "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-2",
+    "original":"ji ste mtshan ma de dag ma mthong na \/",
+    "folio":"179b",
+    "stemmed":"ji ste mtshan ma de dag ma mthong na "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-3",
+    "original":"'bum phrag stong man chod bzlas shing \/",
+    "folio":"179b",
+    "stemmed":"bum phrag stong man chod bzlas shing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-4",
+    "original":"ji srid mtshan ma dge ba rnams byung gi bar du \/",
+    "folio":"179b",
+    "stemmed":"ji srid mtshan ma dge ba rnams byung gi ba du "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-5",
+    "original":"de bzhin gshegs pa rnams mchod cing \/",
+    "folio":"179b",
+    "stemmed":"de bzhin gshegs ba rnams mchod cing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-6",
+    "original":"rtse gcig pa'i sems mnyam par bzhag ste bzlas brjod bya \/",
+    "folio":"179b",
+    "stemmed":"rtse gcig ba sems mnyam ba jog ste bzlas rjod byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-7",
+    "original":"de ltar bzlas pa'i mthar \/",
+    "folio":"179b",
+    "stemmed":"de ltar bzlas ba mthar "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-8",
+    "original":"mtshan gcig bzlas pa rab tu byas na \/",
+    "folio":"179b",
+    "stemmed":"mtshan gcig bzlas ba rab tu byed na "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-9",
+    "original":"sha bi nges par sdig las grol zhing \/",
+    "folio":"179b",
+    "stemmed":"sha bi nges ba sdig las grol zhing "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-10",
+    "original":"mtshan ma bzang po rnams 'byung bar 'gyur ro \/",
+    "folio":"179b",
+    "stemmed":"mtshan ma bzang po rnams byung ba gyur ro "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-11",
+    "original":"\/\/ \/ ngan song sbyong ba'i rgyal po brtag pa yi \/\/",
+    "folio":"179b",
+    "stemmed":"ngan gro sbyong ba rgyal po rtog ba yi "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-12",
+    "original":"shi ba'i don du cho gar gsungs pa bya \/\/",
+    "folio":"179b",
+    "stemmed":"chi ba don du cho gar gsungs ba byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-13",
+    "original":"'gro ba'i don du nyung zad gcig bsdus pa \/",
+    "folio":"179b",
+    "stemmed":"gro ba don du nyung zad gcig sdud ba "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-14",
+    "original":"'di yis nyam thag sdug bsngal byang bar shog \/ bla mkhas pas ston pa'i lung la brten \/\/",
+    "folio":"179b",
+    "stemmed":"di yis nyam thag sdug sngal byang ba shog bla mkhas ba ston ba lung la rten "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-15",
+    "original":"bdag 'dra rtog ges bla ma'i lung thos nas \/\/",
+    "folio":"179b",
+    "stemmed":"bdag dra rtogs ges bla ma lung thos nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-16",
+    "original":"mos dang goms pas shi ba'i cho ga byas \/\/",
+    "folio":"179b",
+    "stemmed":"mos dang goms ba chi ba cho ga byed "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-17",
+    "original":"thams cad bla med byang chub thob par shog \/ de bzhin gshegs pa dgra bcom pa yang dag par rdzogs pa'i sangs rgyas ngan song thams cad yongs su sbyong ba'i lung las \/",
+    "folio":"179b",
+    "stemmed":"thams cad bla med byang chub thob ba shog de bzhin gshegs ba dgra joms ba yang dag ba rdzogs ba sangs rgya ngan gro thams cad yongs su sbyong ba lung las "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-18",
+    "original":"ro sbyong zhing sreg pa'i thabs kyi cho ga mdo dang bsres nas \/",
+    "folio":"179b",
+    "stemmed":"ro sbyong zhing sreg ba thabs kyi cho ga mdo dang bsres nas "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-19",
+    "original":"slob dpon kun dga' snying pos mdzad pa rdzogs so \/",
+    "folio":"179b",
+    "stemmed":"slob dpon kun dga snying pos mdzad ba rdzogs so "
+  },
+  {
+    "segmentnr":"BO_T02_D2633:179b-20",
+    "original":"\/\/ \/ rgya gar gyi mkhan po shraddh'aka ra barma dang \/ bod kyi dge slong rin chen bzang pos bsgyur cing zhus te gtan la phab pa'o\/\/",
+    "folio":"179b",
+    "stemmed":"rgya gar gyi mkhan po shraddhaka ra barma dang bod kyi dge slong rin chen bzang pos sgyur cing zhus te gtan la bebs "
+  }
+]

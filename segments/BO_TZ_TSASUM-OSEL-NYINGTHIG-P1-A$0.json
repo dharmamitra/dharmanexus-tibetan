@@ -1,0 +1,938 @@
+[
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:0",
+    "original":"@#\/\/ b+ha  swa",
+    "folio":0,
+    "stemmed":"b+ha swa "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:1",
+    "original":"ra  n-i",
+    "folio":0,
+    "stemmed":"ra n-i "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:2",
+    "original":"rma  na",
+    "folio":0,
+    "stemmed":"rma na "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:3",
+    "original":"s+ya  ba",
+    "folio":0,
+    "stemmed":"s+ya ba "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:4",
+    "original":"dzra  si n+d+hi",
+    "folio":0,
+    "stemmed":"dzra si n+d+hi "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:5",
+    "original":"ni  d+hi",
+    "folio":0,
+    "stemmed":"ni d+hi "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:6",
+    "original":"tri  mu",
+    "folio":0,
+    "stemmed":"tri mu "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:7",
+    "original":"la  ka",
+    "folio":0,
+    "stemmed":"la ka "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:8",
+    "original":"ra b+ha",
+    "folio":0,
+    "stemmed":"ra b+ha "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:9",
+    "original":"tshi t+ta  ti",
+    "folio":0,
+    "stemmed":"tshi t+ta ti "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:10",
+    "original":"la  ka",
+    "folio":1,
+    "stemmed":"la ka "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:11",
+    "original":"bi  ha",
+    "folio":1,
+    "stemmed":"bi ha "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:12",
+    "original":"ra ti sma \/\/",
+    "folio":1,
+    "stemmed":"ra ti sma "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:13",
+    "original":"@#\/\/ 'od gsal sprul pa'i rdo rje'i dgongs gter rtsha gsum 'od gsal snying tig bzhugs so \/\/",
+    "folio":1,
+    "stemmed":"d gsal sprul ba rdo rje dgongs gter rtsha gsum d gsal snying tig bzhugs so "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:14",
+    "original":"rtsha gsum 'od gsal snying tig las :",
+    "folio":1,
+    "stemmed":"rtsha gsum d gsal snying tig las "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:15",
+    "original":"rig 'dzin rtsha rgyud ye shes drwa ba bzhugs :rgya gar skad du :",
+    "folio":1,
+    "stemmed":"rig dzin rtsha brgyud ye shes drwa ba bzhugs :rgya gar skad du "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:16",
+    "original":"shri dz+nya na dza la tan+t+ra na ma :",
+    "folio":1,
+    "stemmed":"shri dz+nya na dza la tan+t+ra na ma "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:17",
+    "original":"bod skad du :",
+    "folio":1,
+    "stemmed":"bod skad du "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:18",
+    "original":"dpal ye shes drwa ba'i rgyud ces bya ba :",
+    "folio":1,
+    "stemmed":"dpal ye shes drwa ba brgyud ces byed ba "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:19",
+    "original":"bcom ldan 'das snang ba mtha' yas la phyag 'tshhal lo :",
+    "folio":1,
+    "stemmed":"joms ldan da snang ba mtha yas la phyag tshhal lo "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:20",
+    "original":"'og min pad+ma drwa ba ru :",
+    "folio":2,
+    "stemmed":"g min pad+ma drwa ba ru "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:21",
+    "original":"'od snang mtha' yas ston pa yis :",
+    "folio":2,
+    "stemmed":"d snang mtha yas ston ba yis "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:22",
+    "original":"lag na chu skyes la sogs pa'i :",
+    "folio":2,
+    "stemmed":"lag na chu skye la sogs ba "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:23",
+    "original":"'khor la dus gsum dus med dus :",
+    "folio":2,
+    "stemmed":"khor la dus gsum dus med dus "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:24",
+    "original":"rdo rje gsang ba'i tshhig bstan tshhe :",
+    "folio":2,
+    "stemmed":"rdo rje gsang ba tshhig ston tshhe "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:25",
+    "original":"pad+ma'i spyan gyis slar gsol pa :",
+    "folio":2,
+    "stemmed":"pad+ma spyan gyis slar gsol ba "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:26",
+    "original":"e ma nges pa don gyi rgyud :",
+    "folio":2,
+    "stemmed":"e ma nges ba don gyi brgyud "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:27",
+    "original":"snying por bsdu na ji ltar lags :",
+    "folio":2,
+    "stemmed":"snying por sdud na ji ltar lags "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:28",
+    "original":"zhes gsol dpag med mgon po yis :",
+    "folio":2,
+    "stemmed":"zhes gsol dpog med mgon po yis "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:29",
+    "original":"chos nyid rang sgras 'di skad gsung :",
+    "folio":2,
+    "stemmed":"chos nyid rang sgras di skad gsung "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:30",
+    "original":"gzhi dbyings ka nas dag pa'i klong :",
+    "folio":3,
+    "stemmed":"gzhi dbyings ka nas dag ba klong "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:31",
+    "original":"gzung 'dzin 'khrul pa las 'das kyang :",
+    "folio":3,
+    "stemmed":"gzung dzin khrul ba las da kyang "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:32",
+    "original":"gzhi snang thugs rje'i 'char tshhul la :",
+    "folio":3,
+    "stemmed":"gzhi snang thugs rje char tshhul la "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:33",
+    "original":"gnyis 'dzin dbang gis 'khor bar 'khyams :",
+    "folio":3,
+    "stemmed":"gnyis dzin dbang gis khor ba khyam "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:34",
+    "original":"de slad smin zhing sbyang ba'i phyir :",
+    "folio":3,
+    "stemmed":"de slad smin zhing sbyong ba phyir "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:35",
+    "original":"dbang bskur nges pa'i lam la 'jug :",
+    "folio":3,
+    "stemmed":"dbang skur nges ba lam la jug "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:36",
+    "original":"'da' bar dka' ba'i sa ma ya :",
+    "folio":3,
+    "stemmed":"da ba dka ba sa ma ya "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:37",
+    "original":"rtsha ba yan lag srog bzhin bsrung :",
+    "folio":3,
+    "stemmed":"rtsha ba yan lag srog bzhin bsrung "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:38",
+    "original":"chos sku skye med snang mtha' yas :",
+    "folio":3,
+    "stemmed":"chos sku skye med snang mtha yas "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:39",
+    "original":"longs sku 'phags mchog snying rje'i lha :",
+    "folio":3,
+    "stemmed":"longs sku phag mchog snying rje lha "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:40",
+    "original":"sprul sku pad+ma thod phreng rtshal :",
+    "folio":4,
+    "stemmed":"sprul sku pad+ma thod phreng rtshal "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:41",
+    "original":"bskyed rdzogs zung 'jug tshhul du bsgrub :",
+    "folio":4,
+    "stemmed":"skyed rdzogs zung jug tshhul du sgrub "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:42",
+    "original":"bde stong 'od gsal dbyings rig don :",
+    "folio":4,
+    "stemmed":"bde stong d gsal dbyings rig don "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:43",
+    "original":"thig le gcig gi sbubs su 'jug :",
+    "folio":4,
+    "stemmed":"thig le gcig gi sbub su jug "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:44",
+    "original":"gnas skabs mthar thug don gnyis spyod :",
+    "folio":4,
+    "stemmed":"gnas skabs mthar thug don gnyis spyod "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:45",
+    "original":"gzhi la lam gyis mtshhams sbyar bas :",
+    "folio":4,
+    "stemmed":"gzhi la lam gyis mtshhams sbyor ba "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:46",
+    "original":"'bras bu sku bzhi dbyer med pa :",
+    "folio":4,
+    "stemmed":"bras bu sku bzhi dbyer med ba "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:47",
+    "original":"ye shes phrin las bsam mi khyab :",
+    "folio":4,
+    "stemmed":"ye shes phrin las bsam mi khyab "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:48",
+    "original":"ngo bo rang bzhin thugs rjer smin :",
+    "folio":4,
+    "stemmed":"ngo bo rang bzhin thugs rjer smin "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:49",
+    "original":"de skad ston pa kun bzang gis :",
+    "folio":4,
+    "stemmed":"de skad ston ba kun bzang gis "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:50",
+    "original":"byung dang 'byung 'gyur snod ldan la :",
+    "folio":5,
+    "stemmed":"byung dang byung gyur snod ldan la "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:51",
+    "original":"gsang ba'i snying po 'di gdams pas :",
+    "folio":5,
+    "stemmed":"gsang ba snying po di doms ba "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:52",
+    "original":"thams cad ye shes gcig tu smin :",
+    "folio":5,
+    "stemmed":"thams cad ye shes gcig tu smin "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:53",
+    "original":"sa ma ya :",
+    "folio":5,
+    "stemmed":"sa ma ya "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:54",
+    "original":"bskyed rdzogs gsum gyi tan+t+ra ni :",
+    "folio":5,
+    "stemmed":"skyed rdzogs gsum gyi tan+t+ra ni "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:55",
+    "original":"'bum phrag kun gyi yang snying mchog :",
+    "folio":5,
+    "stemmed":"bum phrag kun gyi yang snying mchog "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:56",
+    "original":"'phags mchog bde stong snying rje'i glus :",
+    "folio":5,
+    "stemmed":"phag mchog bde stong snying rje glus "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:57",
+    "original":"pad+ma thod phreng bdag la gdams :",
+    "folio":5,
+    "stemmed":"pad+ma thod phreng bdag la doms "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:58",
+    "original":"rgya rgya rgya :",
+    "folio":5,
+    "stemmed":"rgya rgya rgya "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:59",
+    "original":"brda thim :rtsha gsum 'od gsal snying tig las :",
+    "folio":5,
+    "stemmed":"brda thim :rtsha gsum d gsal snying tig las "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:60",
+    "original":"rtsha gsum sgrub thabs lung gi dum bu bzhugs :'phags mchog snying rje'i lha la 'dud :",
+    "folio":6,
+    "stemmed":"rtsha gsum sgrub thabs lung gi dum bu bzhugs :phags mchog snying rje lha la dud "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:61",
+    "original":"bkra shis rang byung brag gi phug :",
+    "folio":6,
+    "stemmed":"bkra shis rang byung brag gi bugs "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:62",
+    "original":"ma ra ti ka'i gzhal yas su :",
+    "folio":6,
+    "stemmed":"ma ra ti ka jal yas su "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:63",
+    "original":"pad+ma drwa ba yab yum gyis :",
+    "folio":6,
+    "stemmed":"pad+ma drwa ba yab yum gyis "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:64",
+    "original":"o rgyan bdag la dbang bskur cing :",
+    "folio":6,
+    "stemmed":"o rgyan bdag la dbang skur cing "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:65",
+    "original":"byin brlabs rdo rje'i tshhig 'di bstan :",
+    "folio":6,
+    "stemmed":"byin brlabs rdo rje tshhig di ston "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:66",
+    "original":"sa ma ya :",
+    "folio":6,
+    "stemmed":"sa ma ya "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:67",
+    "original":"chos rnams kun gyi de nyid ni :",
+    "folio":6,
+    "stemmed":"chos rnams kun gyi de nyid ni "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:68",
+    "original":"bsam brjod las 'das gnyug ma'i dbyings :",
+    "folio":6,
+    "stemmed":"bsam rjod las da gnyug ma dbyings "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:69",
+    "original":"rig pa 'od gsal sbubs su 'jug :",
+    "folio":6,
+    "stemmed":"rig ba d gsal sbub su jug "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:70",
+    "original":"bcings grol med par ye sangs rgyas :",
+    "folio":7,
+    "stemmed":"ching grol med ba ye sangs rgya "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:71",
+    "original":"snang ba 'chi med mtshho skyes lha :",
+    "folio":7,
+    "stemmed":"snang ba chi med mtshho skye lha "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:72",
+    "original":"stong pa man+da rahba yum :",
+    "folio":7,
+    "stemmed":"stong ba man+da rahba yum "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:73",
+    "original":"zung 'jug yi dam yongs 'dus pa :",
+    "folio":7,
+    "stemmed":"zung jug yi dam yongs du ba "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:74",
+    "original":"bla ma drag po'i sku ru bsgrub :",
+    "folio":7,
+    "stemmed":"bla ma drag po sku ru sgrub "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:75",
+    "original":"snang grags rig pa lha dang sngags :",
+    "folio":7,
+    "stemmed":"snang grags rig ba lha dang sngags "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:76",
+    "original":"chos sku rtsha gsum 'dus par blta :",
+    "folio":7,
+    "stemmed":"chos sku rtsha gsum du ba lta "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:77",
+    "original":"bcos min mos shing gdung ba'i blos :",
+    "folio":7,
+    "stemmed":"chos min mos shing gdung ba blos "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:78",
+    "original":"gsol 'debs tshhig 'di yang yang bzla :",
+    "folio":7,
+    "stemmed":"gsol debs tshhig di yang yang bzla "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:79",
+    "original":"hu~m: o rgyan yul gyi nub byang mtshhams :",
+    "folio":7,
+    "stemmed":"hu~m: o rgyan yul gyi nub byang mtshhams "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:80",
+    "original":"pad+ma ge sar sdong po la :",
+    "folio":8,
+    "stemmed":"pad+ma ge sar sdong po la "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:81",
+    "original":"ya mtshhan mchog gi dngos grub brnyes :",
+    "folio":8,
+    "stemmed":"ya mtshhan mchog gi dngos grub brnyes "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:82",
+    "original":"pad+ma 'byung gnas zhes su grags :",
+    "folio":8,
+    "stemmed":"pad+ma byung gnas zhes su grags "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:83",
+    "original":"'khor du mkha' 'gro mang pos bskor :",
+    "folio":8,
+    "stemmed":"khor du mkha gro mang pos skor "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:84",
+    "original":"khyed kyi rjes su bdag sgrub kyis :",
+    "folio":8,
+    "stemmed":"khyed kyi rjes su bdag sgrub kyis "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:85",
+    "original":"byin gyis brlab phyir gshegs su gsol :",
+    "folio":8,
+    "stemmed":"byin gyis brlab phyir gshegs su gsol "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:86",
+    "original":"om ahhu~m hrihhrihbadzra gu ru pad+ma thod phreng rtshal de ba da ki ni badzra sa ma ya dzahsarba sid+d+hi pha la hu~m a:",
+    "folio":8,
+    "stemmed":"om ahhu~m hrihhrihbadzra gu ru pad+ma thod phreng rtshal de ba da ki ni badzra sa ma ya dzahsarba sid+d+hi pha la hu~m a: "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:87",
+    "original":"hu~m hu~m hu~m: 'dis ni snang srid sgyu mar 'char :",
+    "folio":8,
+    "stemmed":"hu~m hu~m hu~m: dis ni snang srid sgyu mar char "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:88",
+    "original":"rig 'dzin bla mas byin gyis rlobasah",
+    "folio":8,
+    "stemmed":"rig dzin bla mas byin gyis rlobasah "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:89",
+    "original":"mchog thun dngos grub dbang du 'du :",
+    "folio":8,
+    "stemmed":"mchog thun dngos grub dbang du du "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:90",
+    "original":"phrin las rnam bzhi lhun gyis grub :",
+    "folio":9,
+    "stemmed":"phrin las rnam bzhi lhun gyis grub "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:91",
+    "original":"de phyir ma 'ongs skal ldan kun :",
+    "folio":9,
+    "stemmed":"de phyir ma ngs skal ldan kun "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:92",
+    "original":"snying por dril la nyams su longs :",
+    "folio":9,
+    "stemmed":"snying por dril la nyams su longs "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:93",
+    "original":"zhes gsungs thig le chen por gshegs :",
+    "folio":9,
+    "stemmed":"zhes gsungs thig le chen por gshegs "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:94",
+    "original":"rgya rgya rgya :",
+    "folio":9,
+    "stemmed":"rgya rgya rgya "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:95",
+    "original":"brda thim :rtsha gsum 'od gsal snying tig las :",
+    "folio":9,
+    "stemmed":"brda thim :rtsha gsum d gsal snying tig las "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:96",
+    "original":"man ngag 'ja' lus rdo rje'i tshhig rkang bzhugs :rtsha gsum kun 'dus thod phreng rtshal la 'dud :",
+    "folio":9,
+    "stemmed":"man ngag ja lus rdo rje tshhig rkang bzhugs :rtsha gsum kun du thod phreng rtshal la dud "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:97",
+    "original":"'khor 'das chos kun gdod nas rnam dag kyang :",
+    "folio":9,
+    "stemmed":"khor da chos kun gdod nas rnam dag kyang "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:98",
+    "original":"gnyis 'dzin glo bur 'khrul pa sbyang ba'i phyir :",
+    "folio":9,
+    "stemmed":"gnyis dzin glo bur khrul ba sbyong ba phyir "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:99",
+    "original":"thun mong khyad par bla med lam mchog 'di :",
+    "folio":9,
+    "stemmed":"thun mong khyad ba bla med lam mchog di "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:100",
+    "original":"rang byung mtshho skyes rdo rje bdag gis bstan :",
+    "folio":10,
+    "stemmed":"rang byung mtshho skye rdo rje bdag gis ston "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:101",
+    "original":"sa ma ya :",
+    "folio":10,
+    "stemmed":"sa ma ya "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:102",
+    "original":"dbang thob dam tshhig la gnas rnal 'byor pas :",
+    "folio":10,
+    "stemmed":"dbang thob dam tshhig la gnas rnal byor ba "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:103",
+    "original":"gangs khrod ri rtshe mtshho gling nags tshhal sogs :",
+    "folio":10,
+    "stemmed":"gangs khrod ri rtshe mtshho gling nags tshhal sogs "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:104",
+    "original":"shin tu dben zhing nyams dga'i gnas mchog tu :",
+    "folio":10,
+    "stemmed":"shin tu dben zhing nyams dga gnas mchog tu "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:105",
+    "original":"gcig pur bde ba'i stan la bag phab ste :",
+    "folio":10,
+    "stemmed":"gcig pur bde ba stan la bag bebs ste "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:106",
+    "original":"dal 'byor lus 'di yang yang rnyed dka' zhing :",
+    "folio":10,
+    "stemmed":"dal byor lus di yang yang rnyed dka zhing "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:107",
+    "original":"myur du mi rtag 'chi bas rgyud bskul nas :",
+    "folio":10,
+    "stemmed":"myur du mi rtag chi ba brgyud skul nas "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:108",
+    "original":"dkar nag las 'bras blang dor 'bad pa dang : 'khor ba'i sdug bsngal dran pa'i nges 'byung bsgom :",
+    "folio":10,
+    "stemmed":"dkar nag las bras blang dor bad ba dang khor ba sdug sngal dran ba nges byung bsgom "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:109",
+    "original":"bdag gzhan byang chub bar du bslu med skyabs :",
+    "folio":10,
+    "stemmed":"bdag gzhan byang chub ba du bslu med skyob "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:110",
+    "original":"rtsha gsum dkyil 'khor lha la skyabs su 'gro :",
+    "folio":11,
+    "stemmed":"rtsha gsum dkyil khor lha la skyob su gro "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:111",
+    "original":"tshhad med byams dang snying rje chen po'i blos :",
+    "folio":11,
+    "stemmed":"tshhad med byams dang snying rje chen po blos "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:112",
+    "original":"smon 'jug don dam byang chub sems mchog bskyed :",
+    "folio":11,
+    "stemmed":"smon jug don dam byang chub sems mchog skyed "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:113",
+    "original":"gsang chen rigs gcig bla ma rdor sems kyis :",
+    "folio":11,
+    "stemmed":"gsang chen rigs gcig bla ma rdar sems kyis "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:114",
+    "original":"stobs bzhi'i rnal 'byor ldan pas sdig ltung bshags :",
+    "folio":11,
+    "stemmed":"stobs bzhi rnal byor ldan ba sdig ltung chags "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:115",
+    "original":"kun rdzob don dam dbyer med chos sku'i dbyings :",
+    "folio":11,
+    "stemmed":"kun rdzob don dam dbyer med chos sku dbyings "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:116",
+    "original":"sku gsum mchod pa'i sprin gyi man+dal 'bul :",
+    "folio":11,
+    "stemmed":"sku gsum mchod ba sprin gyi man+dal bul "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:117",
+    "original":"khyad par byin rlabs bla ma'i rnal 'byor ni :",
+    "folio":11,
+    "stemmed":"khyad ba byin rlabs bla ma rnal byor ni "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:118",
+    "original":"bcos min mos gus drag pos gnad du bsnun :",
+    "folio":11,
+    "stemmed":"chos min mos gus drag pos gnad du snun "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:119",
+    "original":"dbang bzhi blangs shing thugs yid gnyis med bsre :",
+    "folio":11,
+    "stemmed":"dbang bzhi blangs shing thugs yid gnyis med bsre "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:120",
+    "original":"mngon sum lhug pa'i ye shes de ru 'char :",
+    "folio":12,
+    "stemmed":"mngon sum lhug ba ye shes de ru char "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:121",
+    "original":"ting 'dzin gsum gyis bskyed pa'i mngon byang gis :",
+    "folio":12,
+    "stemmed":"ting dzin gsum gyis skyed ba mngon byang gis "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:122",
+    "original":"'chi med pad+ma thod phreng lha tshhogs bsgom :",
+    "folio":12,
+    "stemmed":"chi med pad+ma thod phreng lha tshhogs bsgom "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:123",
+    "original":"skad cig bde stong zung 'jug sgyu ma'i skus :",
+    "folio":12,
+    "stemmed":"skad cig bde stong zung jug sgyu ma skus "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:124",
+    "original":"'phags mchog snying rje chen po'i gzugs sku bsgrub :",
+    "folio":12,
+    "stemmed":"phag mchog snying rje chen po gzugs sku sgrub "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:125",
+    "original":"ma bskyed ye rdzogs chos sku'i ting 'dzin gyis :",
+    "folio":12,
+    "stemmed":"ma skyed ye rdzogs chos sku ting dzin gyis "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:126",
+    "original":"'od snang mtha' yas dkyil 'khor rang la shar :",
+    "folio":12,
+    "stemmed":"d snang mtha yas dkyil khor rang la char "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:127",
+    "original":"thun gcig lha yi gsal snang tshhad du 'don :",
+    "folio":12,
+    "stemmed":"thun gcig lha yi gsal snang tshhad du don "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:128",
+    "original":"thun gcig rang bzhin med pa'i rgya yis gdab :",
+    "folio":12,
+    "stemmed":"thun gcig rang bzhin med ba rgya yis gdab "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:129",
+    "original":"thun gcig zung 'jug dbyer med nga rgyal bsgom :",
+    "folio":12,
+    "stemmed":"thun gcig zung jug dbyer med nga rgyal bsgom "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:130",
+    "original":"thun gcig bskyed rdzogs ro mnyam dgongs pa'i ngang :",
+    "folio":13,
+    "stemmed":"thun gcig skyed rdzogs ro mnyam dgongs ba ngang "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:131",
+    "original":"sgrar bcas sgra med bde chen rdo rjer bzlas :",
+    "folio":13,
+    "stemmed":"sgrar cha sgra med bde chen rdo rjer bzlas "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:132",
+    "original":"lus sbyong rnam pa nyi shu'i 'phrul 'khor dang : ngag sbyong 'bru gsum rdo rje'i bzlas pa ste :",
+    "folio":13,
+    "stemmed":"lus sbyong rnam ba nyi shu phrul khor dang ngag sbyong bru gsum rdo rje bzlas ba ste "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:133",
+    "original":"yid sbyong phyi nang gsang ba'i stong ra bsgom :",
+    "folio":13,
+    "stemmed":"yid sbyong phyi nang gsang ba stong ra bsgom "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:134",
+    "original":"srog rtshol kha sbyor rlung gi rnal 'byor dang : yas babs mas brtan 'bar 'dzag bde drod spel :",
+    "folio":13,
+    "stemmed":"srog rtshol kha sbyor rlung gi rnal byor dang yas bab mas brtan bar dzag bde drod spel "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:135",
+    "original":"mthar thug rim bsdus 'od gsal ngang du gzhag :",
+    "folio":13,
+    "stemmed":"mthar thug rim sdud d gsal ngang du jog "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:136",
+    "original":"rjes thob nyin mtshhan sgyu ma'i lha skur ldang : dngos yid phyag rgya'i lam gyis bogs 'byin bya :",
+    "folio":13,
+    "stemmed":"rjes thob nyin mtshhan sgyu ma lha skur ldang dngos yid phyag rgya lam gyis bogs byin byed "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:137",
+    "original":"sgo gsum zhen log shin tu sbyangs pa la :",
+    "folio":13,
+    "stemmed":"sgo gsum zhen log shin tu sbyong ba la "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:138",
+    "original":"sems bral rig stong rjen pa ngo sprad cing :",
+    "folio":13,
+    "stemmed":"sems bral rig stong rjen ba ngo sprod cing "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:139",
+    "original":"bcas bcos spro bsdu bral ba'i mnyam bzhag ngang :",
+    "folio":13,
+    "stemmed":"cha chos spro sdud bral ba mnyam jog ngang "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:140",
+    "original":"rnal 'byor bzhi yis nyams len srang du gzhug :",
+    "folio":14,
+    "stemmed":"rnal byor bzhi yis nyams len srang du jug "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:141",
+    "original":"lhun grub sgo yul rlung rig gnad gcun pas :",
+    "folio":14,
+    "stemmed":"lhun grub sgo yul rlung rig gnad jun ba "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:142",
+    "original":"chos nyid mngon sum 'ja' zer thig le'i klong :",
+    "folio":14,
+    "stemmed":"chos nyid mngon sum ja zer thig le klong "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:143",
+    "original":"nyams snang gong 'phel sprul sku'i tshhom bu 'char :",
+    "folio":14,
+    "stemmed":"nyams snang gong phel sprul sku tshhom bu char "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:144",
+    "original":"rig pa tshhad phebs dag pa rab 'byams kyis :",
+    "folio":14,
+    "stemmed":"rig ba tshhad phebs dag ba rab byam kyis "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:145",
+    "original":"chos zad blo 'das go 'phang mngon du 'gyur :",
+    "folio":14,
+    "stemmed":"chos zad blo da go phen mngon du gyur "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:146",
+    "original":"gal te tshhe 'dir grub mtha' ma snyogs na :",
+    "folio":14,
+    "stemmed":"gal te tshhe dir grub mtha ma snyogs na "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:147",
+    "original":"'chi tshhe rig stong 'od gsal sbubs su 'jug :",
+    "folio":14,
+    "stemmed":"chi tshhe rig stong d gsal sbub su jug "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:148",
+    "original":"rlung sems dbyer med hrihyi rnam par 'pho :",
+    "folio":14,
+    "stemmed":"rlung sems dbyer med hrihyi rnam ba pho "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:149",
+    "original":"bar do rnam gsum sku gsum lam du khyer :",
+    "folio":14,
+    "stemmed":"ba do rnam gsum sku gsum lam du khyer "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:150",
+    "original":"sa ma ya :",
+    "folio":15,
+    "stemmed":"sa ma ya "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:151",
+    "original":"thun mong grub pa brgyad dang phrin las bzhi :",
+    "folio":15,
+    "stemmed":"thun mong grub ba brgyad dang phrin las bzhi "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:152",
+    "original":"rnam smin tshhe dbang phyag chen rig 'dzin thob :",
+    "folio":15,
+    "stemmed":"rnam smin tshhe dbang phyag chen rig dzin thob "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:153",
+    "original":"bde stong mdud grol blo bral gnyug ma'i klong :",
+    "folio":15,
+    "stemmed":"bde stong mdud grol blo bral gnyug ma klong "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:154",
+    "original":"sku dang ye shes phrin las 'bras bu 'grub :",
+    "folio":15,
+    "stemmed":"sku dang ye shes phrin las bras bu grub "
+  },
+  {
+    "segmentnr":"BO_TZ_TSASUM-OSEL-NYINGTHIG-P1-A:155",
+    "original":"rgya rgya rgya :",
+    "folio":15,
+    "stemmed":"rgya rgya rgya "
+  }
+]

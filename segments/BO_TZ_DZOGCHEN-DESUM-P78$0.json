@@ -1,0 +1,866 @@
+[
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:0",
+    "original":"\\u0f01\\u0f83: rdzogs pa chen po sde gsum las :",
+    "folio":0,
+    "stemmed":"\\u0f01\\u0f83: rdzogs ba chen po sde gsum las "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:1",
+    "original":"bka' srung ye shes pa'i sgrub thabs bzhugs so :",
+    "folio":0,
+    "stemmed":"bka srung ye shes ba sgrub thabs bzhugs so "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:2",
+    "original":"sde gsum gsang skor man ngag sde la spyi'i bka' srung yang yin \/",
+    "folio":0,
+    "stemmed":"sde gsum gsang skor man ngag sde la spyi bka srung yang yin "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:3",
+    "original":"\\u0f88\\u0f88\\u0f88\\u0f88\\u0f88\\u0f88\\u0f88\\u0f88\\u0f88\\u0f88 na mo gu ru :",
+    "folio":0,
+    "stemmed":"\\u0f88\\u0f88\\u0f88\\u0f88\\u0f88\\u0f88\\u0f88\\u0f88\\u0f88\\u0f88 na mo gu ru "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:4",
+    "original":"bka' srung ye shes pa'i sde ni :",
+    "folio":0,
+    "stemmed":"bka srung ye shes ba sde ni "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:5",
+    "original":"snang srid chos kyi 'byung gnas rdzogs :",
+    "folio":0,
+    "stemmed":"snang srid chos kyi byung gnas rdzogs "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:6",
+    "original":"yum lnga dag pa'i 'byung ba lnga :",
+    "folio":0,
+    "stemmed":"yum lnga dag ba byung ba lnga "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:7",
+    "original":"gdod nas lhun grub ye shes kyi :",
+    "folio":0,
+    "stemmed":"gdod nas lhun grub ye shes kyi "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:8",
+    "original":"dur khrod rol pa'i gzhal yas dgu :",
+    "folio":0,
+    "stemmed":"dur khrod rol ba jal yas dgu "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:9",
+    "original":"phyi yi pho brang bcas te gsal :",
+    "folio":0,
+    "stemmed":"phyi yi pho brang cha te gsal "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:10",
+    "original":"dbus su byol song gtsho brgyad steng :",
+    "folio":1,
+    "stemmed":"dbus su byol gro gtsho brgyad steng "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:11",
+    "original":"rdo rje phag mo gnam zhal ma :",
+    "folio":1,
+    "stemmed":"rdo rje phag mo gnam zhal ma "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:12",
+    "original":"mthing nag zhal gsum phyag drug sngo :",
+    "folio":1,
+    "stemmed":"mthing nag zhal gsum phyag drug sngo "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:13",
+    "original":"g.yas dkar g.yon dmar phag zhal ngur :",
+    "folio":1,
+    "stemmed":"g.yas dkar g.yon dmar phag zhal ngur "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:14",
+    "original":"yab ni sbas tshhul kha t+wam 'khyud :",
+    "folio":1,
+    "stemmed":"yab ni sbed tshhul kha t+wam khyud "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:15",
+    "original":"gri thod thod rnga zhing dbyug dang : rdor dril 'dzin cing gar stabs sgyur :",
+    "folio":1,
+    "stemmed":"gri thod thod rnga zhing dbyug dang rdar dril dzin cing gar stabs sgyur "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:16",
+    "original":"rigs bzhi yum bcu lce spyang brgyad :",
+    "folio":1,
+    "stemmed":"rigs bzhi yum chu lce spyang brgyad "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:17",
+    "original":"shar gyi dkyil 'khor chen po'i dbus :",
+    "folio":1,
+    "stemmed":"char gyi dkyil khor chen po dbus "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:18",
+    "original":"badzra kro d+hi shwa ri ma :",
+    "folio":1,
+    "stemmed":"badzra kro d+hi shwa ri ma "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:19",
+    "original":"zhal gsum phyag drug rang rtags 'dzin :",
+    "folio":1,
+    "stemmed":"zhal gsum phyag drug rang rtags dzin "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:20",
+    "original":"yab ni kha t+wam gar 'khyud cing :",
+    "folio":2,
+    "stemmed":"yab ni kha t+wam gar khyud cing "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:21",
+    "original":"yum bzhi ke'u seng dbang phyug tshhogs :",
+    "folio":2,
+    "stemmed":"yum bzhi keu seng dbang phyug tshhogs "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:22",
+    "original":"lho yi dkyil 'khor chen po'i dbus :",
+    "folio":2,
+    "stemmed":"lho yi dkyil khor chen po dbus "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:23",
+    "original":"yum chen gnyis kyi bai ta li :",
+    "folio":2,
+    "stemmed":"yum chen gnyis kyi bai ta li "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:24",
+    "original":"zhal gsum phyag drug rang rtags 'dzin :",
+    "folio":2,
+    "stemmed":"zhal gsum phyag drug rang rtags dzin "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:25",
+    "original":"yab ni kha t+wam gar 'khyud cing :",
+    "folio":2,
+    "stemmed":"yab ni kha t+wam gar khyud cing "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:26",
+    "original":"yum bzhi bdud yum sgrol byed tshhogs :",
+    "folio":2,
+    "stemmed":"yum bzhi bdud yum sgrol byed tshhogs "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:27",
+    "original":"phyi 'khor skyong ba'i ma mo gsal :",
+    "folio":2,
+    "stemmed":"phyi khor skyong ba ma mo gsal "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:28",
+    "original":"nub kyi dkyil 'khor chen po'i dbus :",
+    "folio":2,
+    "stemmed":"nub kyi dkyil khor chen po dbus "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:29",
+    "original":"dbang gi rgyal mo gzi ldan ma :",
+    "folio":2,
+    "stemmed":"dbang gi rgyal mo gzi ldan ma "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:30",
+    "original":"zhal gsum phyag drug rang rtags 'dzin :",
+    "folio":3,
+    "stemmed":"zhal gsum phyag drug rang rtags dzin "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:31",
+    "original":"yab ni kha t+wam gar 'khyud cing :",
+    "folio":3,
+    "stemmed":"yab ni kha t+wam gar khyud cing "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:32",
+    "original":"g.yon du gsod byed kha t+wam 'dzin :",
+    "folio":3,
+    "stemmed":"g.yon du gsod byed kha t+wam dzin "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:33",
+    "original":"yum bzhi zil gnon sgo ma bzhi :",
+    "folio":3,
+    "stemmed":"yum bzhi zil gnon sgo ma bzhi "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:34",
+    "original":"kham rgya la sogs bka' srung tshhogs :",
+    "folio":3,
+    "stemmed":"kham rgya la sogs bka srung tshhogs "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:35",
+    "original":"byang gi dkyil 'khor chen po'i dbus :",
+    "folio":3,
+    "stemmed":"byang gi dkyil khor chen po dbus "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:36",
+    "original":"sgrol ma 'khor lo rgyas 'debs ma :",
+    "folio":3,
+    "stemmed":"sgrol ma khor lo rgya debs ma "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:37",
+    "original":"zhal gsum phyag drug rang rtags 'dzin :",
+    "folio":3,
+    "stemmed":"zhal gsum phyag drug rang rtags dzin "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:38",
+    "original":"yab ni kha t+wam gar 'khril zhing :",
+    "folio":3,
+    "stemmed":"yab ni kha t+wam gar khril zhing "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:39",
+    "original":"yum bcu sgo bzhi phur srung tshhogs :",
+    "folio":3,
+    "stemmed":"yum chu sgo bzhi phur srung tshhogs "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:40",
+    "original":"shar lho mtshhams kyi dkyil 'khor dbus :",
+    "folio":4,
+    "stemmed":"char lho mtshhams kyi dkyil khor dbus "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:41",
+    "original":"dbyings kyi rgyal mo mu kha le :",
+    "folio":4,
+    "stemmed":"dbyings kyi rgyal mo mu kha le "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:42",
+    "original":"zhal lnga phyag bcu zhabs bzhi bgrad :",
+    "folio":4,
+    "stemmed":"zhal lnga phyag chu zhabs bzhi bgrad "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:43",
+    "original":"khyung chen la sogs phyag mtshhan 'dzin :",
+    "folio":4,
+    "stemmed":"khyung chen la sogs phyag mtshhan dzin "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:44",
+    "original":"yab ni kha t+wam gar 'khril zhing :",
+    "folio":4,
+    "stemmed":"yab ni kha t+wam gar khril zhing "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:45",
+    "original":"dbyings rgyal rje mo sman mo sogs :",
+    "folio":4,
+    "stemmed":"dbyings rgyal rje mo sman mo sogs "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:46",
+    "original":"dpal gyi ma mo thams cad gsal :",
+    "folio":4,
+    "stemmed":"dpal gyi ma mo thams cad gsal "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:47",
+    "original":"lho nub mtshhams kyi dkyil 'khor dbus :",
+    "folio":4,
+    "stemmed":"lho nub mtshhams kyi dkyil khor dbus "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:48",
+    "original":"mkha' 'gro las kyi dbang mo che :",
+    "folio":4,
+    "stemmed":"mkha gro las kyi dbang mo che "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:49",
+    "original":"zhal gcig phyag gnyis rdor dril 'dzin :",
+    "folio":4,
+    "stemmed":"zhal gcig phyag gnyis rdar dril dzin "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:50",
+    "original":"yab ni kha t+wam gar 'khril zhing :",
+    "folio":5,
+    "stemmed":"yab ni kha t+wam gar khril zhing "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:51",
+    "original":"rigs yum phyag rgya mkha' 'gro'i tshhogs :",
+    "folio":5,
+    "stemmed":"rigs yum phyag rgya mkha gro tshhogs "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:52",
+    "original":"shugs 'gro ma mo mkha' 'gro bcas :",
+    "folio":5,
+    "stemmed":"shugs gro ma mo mkha gro cha "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:53",
+    "original":"nub byang mtshhams kyi dkyil 'khor dbus :",
+    "folio":5,
+    "stemmed":"nub byang mtshhams kyi dkyil khor dbus "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:54",
+    "original":"khams gsum spyi 'dul dbyings kyi rje :",
+    "folio":5,
+    "stemmed":"khams gsum spyi dul dbyings kyi rje "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:55",
+    "original":"zhal gsum phyag drug mtshhon cha 'dzin :",
+    "folio":5,
+    "stemmed":"zhal gsum phyag drug mtshhon cha dzin "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:56",
+    "original":"yab ni kha t+wam gar 'khril zhing :",
+    "folio":5,
+    "stemmed":"yab ni kha t+wam gar khril zhing "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:57",
+    "original":"u ma de wi kha t+wam 'dzin :",
+    "folio":5,
+    "stemmed":"u ma de wi kha t+wam dzin "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:58",
+    "original":"dregs pa yab yum thams cad gsal :",
+    "folio":5,
+    "stemmed":"dregs ba yab yum thams cad gsal "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:59",
+    "original":"byang shar mtshhams kyi dkyil 'khor dbus :",
+    "folio":5,
+    "stemmed":"byang char mtshhams kyi dkyil khor dbus "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:60",
+    "original":"'byung ba lnga yi bdag mo ni :",
+    "folio":6,
+    "stemmed":"byung ba lnga yi bdag mo ni "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:61",
+    "original":"zhal gsum phyag drug 'jig rten 'degs :",
+    "folio":6,
+    "stemmed":"zhal gsum phyag drug jig rten degs "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:62",
+    "original":"yab ni kha t+wam gar 'khril zhing :",
+    "folio":6,
+    "stemmed":"yab ni kha t+wam gar khril zhing "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:63",
+    "original":"dregs pa'i rgyal mo yab dang bcas :",
+    "folio":6,
+    "stemmed":"dregs ba rgyal mo yab dang cha "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:64",
+    "original":"sngags bdag yab yum thams cad gsal :",
+    "folio":6,
+    "stemmed":"sngags bdag yab yum thams cad gsal "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:65",
+    "original":"lha tshhogs de dag thams cad kyang :",
+    "folio":6,
+    "stemmed":"lha tshhogs de dag thams cad kyang "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:66",
+    "original":"phyogs rnams rigs kyi kha dog la :",
+    "folio":6,
+    "stemmed":"phyogs rnams rigs kyi kha dog la "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:67",
+    "original":"mtshhams rnams de yi 'dres ma'i mdog :",
+    "folio":6,
+    "stemmed":"mtshhams rnams de yi dre ma mdog "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:68",
+    "original":"zhabs rnams g.yas bskum g.yon brkyang zhing :",
+    "folio":6,
+    "stemmed":"zhabs rnams g.yas skum g.yon rkyong zhing "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:69",
+    "original":"dur khrod rol pa'i chas kyis brgyan :",
+    "folio":6,
+    "stemmed":"dur khrod rol ba cha kyis rgyan "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:70",
+    "original":"ye shes yum chen thams cad kyi :",
+    "folio":7,
+    "stemmed":"ye shes yum chen thams cad kyi "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:71",
+    "original":"yab ni kha t+wam ga yi tshhul :",
+    "folio":7,
+    "stemmed":"yab ni kha t+wam ga yi tshhul "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:72",
+    "original":"'jig rten ma mo thams cad kyi :",
+    "folio":7,
+    "stemmed":"jig rten ma mo thams cad kyi "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:73",
+    "original":"yab ni g.yas kyi phyogs nas 'khril :",
+    "folio":7,
+    "stemmed":"yab ni g.yas kyi phyogs nas khril "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:74",
+    "original":"thugs kar ye shes sems dpa' gsal :",
+    "folio":7,
+    "stemmed":"thugs kar ye shes sems dpa gsal "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:75",
+    "original":"thams cad me phung klong du bzhugs :",
+    "folio":7,
+    "stemmed":"thams cad me phung klong du bzhugs "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:76",
+    "original":"phyi khyams dbang mo nyer brgyad dang : dpal gyi 'khor tshhogs bsam mi khyab :",
+    "folio":7,
+    "stemmed":"phyi khyams dbang mo nyer brgyad dang dpal gyi khor tshhogs bsam mi khyab "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:77",
+    "original":"nyi ma las ni 'od bzhin bsgom :",
+    "folio":7,
+    "stemmed":"nyi ma las ni d bzhin bsgom "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:78",
+    "original":"a+o~m ma ha kro d+hi shwa ri badzra b+ha ra hi hu~m phata?:",
+    "folio":7,
+    "stemmed":"a+o~m ma ha kro d+hi shwa ri badzra b+ha ra hi hu~m phata?: "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:79",
+    "original":"a+o~m badzra kro d+hi shwa ri hu~m phata?:",
+    "folio":7,
+    "stemmed":"a+o~m badzra kro d+hi shwa ri hu~m phata?: "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:80",
+    "original":"a+o~m rat+na bai ta li hu~m phata?:",
+    "folio":8,
+    "stemmed":"a+o~m rat+na bai ta li hu~m phata?: "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:81",
+    "original":"a+o~m pad+ma kro d+hi shwa ri hu~m phata?:",
+    "folio":8,
+    "stemmed":"a+o~m pad+ma kro d+hi shwa ri hu~m phata?: "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:82",
+    "original":"a+o~m dip+ta tshakra hu~m phata?:",
+    "folio":8,
+    "stemmed":"a+o~m dip+ta tshakra hu~m phata?: "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:83",
+    "original":"a+o~m gu h+ya dz+nya na kro d+hi shwa ri satwam satwa hu~m phata?:",
+    "folio":8,
+    "stemmed":"a+o~m gu h+ya dz+nya na kro d+hi shwa ri satwam satwa hu~m phata?: "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:84",
+    "original":"a+o~m ma ha da ki ni hu~m phata?:",
+    "folio":8,
+    "stemmed":"a+o~m ma ha da ki ni hu~m phata?: "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:85",
+    "original":"a+o~m ma ha tshan+di sarba dush+tan hu~m phata?:",
+    "folio":8,
+    "stemmed":"a+o~m ma ha tshan+di sarba dush+tan hu~m phata?: "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:86",
+    "original":"a+o~m badzra tshan+da kro d+hi shwa ri hu~m phata?:",
+    "folio":8,
+    "stemmed":"a+o~m badzra tshan+da kro d+hi shwa ri hu~m phata?: "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:87",
+    "original":"a+o~m badzra sarba yak+shi sa ma ya hu~m phata?:",
+    "folio":8,
+    "stemmed":"a+o~m badzra sarba yak+shi sa ma ya hu~m phata?: "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:88",
+    "original":"a+o~m pad+ma kro d+hi shwa ri badzra ma ha kro d+ha badzra ki li ki la ya ma ha yak+sha ka la ru pa karma ram ram dz+wa la ram hu~m phata?:",
+    "folio":8,
+    "stemmed":"a+o~m pad+ma kro d+hi shwa ri badzra ma ha kro d+ha badzra ki li ki la ya ma ha yak+sha ka la ru ba karma ram ram dz+wa la ram hu~m phata?: "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:89",
+    "original":"'di yi dbang bskur yab bka' bzhin :",
+    "folio":8,
+    "stemmed":"di yi dbang skur yab bka bzhin "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:90",
+    "original":"lha sku phyag rgya'i dbang bskur tshhe :",
+    "folio":9,
+    "stemmed":"lha sku phyag rgya dbang skur tshhe "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:91",
+    "original":"hu~m: chos kyi dbyings las skur bzhengs ma :",
+    "folio":9,
+    "stemmed":"hu~m: chos kyi dbyings las skur bzhengs ma "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:92",
+    "original":"rdo rje phag mo gnam zhal ma :",
+    "folio":9,
+    "stemmed":"rdo rje phag mo gnam zhal ma "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:93",
+    "original":"yab yum 'khor dang bcas rnams kyis :",
+    "folio":9,
+    "stemmed":"yab yum khor dang cha rnams kyis "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:94",
+    "original":"rigs kyi bu la dbang bskur ro :",
+    "folio":9,
+    "stemmed":"rigs kyi bu la dbang skur ro "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:95",
+    "original":"rtsha sngags dang \/ sarba sa ma ya a b+hi shiny+tsha a+o~m:",
+    "folio":9,
+    "stemmed":"rtsha sngags dang sarba sa ma ya a b+hi shiny+tsha a+o~m: "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:96",
+    "original":"hu~m: me long ye shes las bzhengs pa'i :",
+    "folio":9,
+    "stemmed":"hu~m: me long ye shes las bzhengs ba "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:97",
+    "original":"badzra kro d+hi shwa ri ma :",
+    "folio":9,
+    "stemmed":"badzra kro d+hi shwa ri ma "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:98",
+    "original":"yab yum 'khor dang bcas rnams kyis :",
+    "folio":9,
+    "stemmed":"yab yum khor dang cha rnams kyis "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:99",
+    "original":"rigs kyi bu la dbang bskur ro :",
+    "folio":9,
+    "stemmed":"rigs kyi bu la dbang skur ro "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:100",
+    "original":"sarba sa ma ya a b+hi shiny+tsha a+o~m:",
+    "folio":10,
+    "stemmed":"sarba sa ma ya a b+hi shiny+tsha a+o~m: "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:101",
+    "original":"hu~m: mnyam nyid\\u0f8e yum chen ma mo bai ta li :",
+    "folio":10,
+    "stemmed":"hu~m: mnyam nyid\\u0f8e yum chen ma mo bai ta li "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:102",
+    "original":"yab yum\\u0f8e rigs kyi\\u0f8e",
+    "folio":10,
+    "stemmed":"yab yum\\u0f8e rigs kyi\\u0f8e "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:103",
+    "original":"sarba sa ma ya a\\u0f8e",
+    "folio":10,
+    "stemmed":"sarba sa ma ya a\\u0f8e "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:104",
+    "original":"hu~m: sor rtog\\u0f8e yum chen pad+ma gzi ldan ma :",
+    "folio":10,
+    "stemmed":"hu~m: sor rtog\\u0f8e yum chen pad+ma gzi ldan ma "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:105",
+    "original":"yab yum\\u0f8e rigs kyi\\u0f8e",
+    "folio":10,
+    "stemmed":"yab yum\\u0f8e rigs kyi\\u0f8e "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:106",
+    "original":"sarba sa ma ya a\\u0f8e",
+    "folio":10,
+    "stemmed":"sarba sa ma ya a\\u0f8e "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:107",
+    "original":"hu~m: nan tan\\u0f8e yum chen 'khor lo rgyas 'debs ma :",
+    "folio":10,
+    "stemmed":"hu~m: nan tan\\u0f8e yum chen khor lo rgya debs ma "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:108",
+    "original":"yab yum\\u0f8e rigs kyi\\u0f8e",
+    "folio":10,
+    "stemmed":"yab yum\\u0f8e rigs kyi\\u0f8e "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:109",
+    "original":"sarba sa ma ya a\\u0f8e",
+    "folio":10,
+    "stemmed":"sarba sa ma ya a\\u0f8e "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:110",
+    "original":"hu~m: klong gyur\\u0f8e yum chen nyid gzhi mu kha le :",
+    "folio":11,
+    "stemmed":"hu~m: klong gyur\\u0f8e yum chen nyid gzhi mu kha le "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:111",
+    "original":"yab yum\\u0f8e rigs kyi\\u0f8e",
+    "folio":11,
+    "stemmed":"yab yum\\u0f8e rigs kyi\\u0f8e "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:112",
+    "original":"sarba sa ma ya a\\u0f8e",
+    "folio":11,
+    "stemmed":"sarba sa ma ya a\\u0f8e "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:113",
+    "original":"hu~m: phyag chen\\u0f8e mkha' 'gro las kyi dbang mo che :",
+    "folio":11,
+    "stemmed":"hu~m: phyag chen\\u0f8e mkha gro las kyi dbang mo che "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:114",
+    "original":"yab yum\\u0f8e rigs kyi\\u0f8e",
+    "folio":11,
+    "stemmed":"yab yum\\u0f8e rigs kyi\\u0f8e "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:115",
+    "original":"sarba sa ma ya a\\u0f8e",
+    "folio":11,
+    "stemmed":"sarba sa ma ya a\\u0f8e "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:116",
+    "original":"hu~m: dbyings grol\\u0f8e yum chen khams gsum spyi 'dul ma :",
+    "folio":11,
+    "stemmed":"hu~m: dbyings grol\\u0f8e yum chen khams gsum spyi dul ma "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:117",
+    "original":"yab yum\\u0f8e rigs kyi\\u0f8e",
+    "folio":11,
+    "stemmed":"yab yum\\u0f8e rigs kyi\\u0f8e "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:118",
+    "original":"sarba sa ma ya a\\u0f8e",
+    "folio":11,
+    "stemmed":"sarba sa ma ya a\\u0f8e "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:119",
+    "original":"hu~m: mtha' grol\\u0f8e srid pa'i rgyal mo 'byung lnga'i bdag :",
+    "folio":11,
+    "stemmed":"hu~m: mtha grol\\u0f8e srid ba rgyal mo byung lnga bdag "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:120",
+    "original":"yab yum\\u0f8e rigs kyi\\u0f8e",
+    "folio":12,
+    "stemmed":"yab yum\\u0f8e rigs kyi\\u0f8e "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:121",
+    "original":"sarba sa ma ya a b+hi shiny+tsha a+o~m:",
+    "folio":12,
+    "stemmed":"sarba sa ma ya a b+hi shiny+tsha a+o~m: "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:122",
+    "original":"de rjes bka' sdod bum pa sogs :",
+    "folio":12,
+    "stemmed":"de rjes bka sdod bum ba sogs "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:123",
+    "original":"yab bka'i dbang bzhin tshhul ldan bskur :",
+    "folio":12,
+    "stemmed":"yab bka dbang bzhin tshhul ldan skur "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:124",
+    "original":"khyad par ye shes sems dpa' ni :",
+    "folio":12,
+    "stemmed":"khyad ba ye shes sems dpa ni "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:125",
+    "original":"hu~m: chos dbyings kun tu bzang mo dang : rdo rje snyems ma glu ma dang : gsang ba ye shes sgrol ma sogs :",
+    "folio":12,
+    "stemmed":"hu~m: chos dbyings kun tu bzang mo dang rdo rje snyems ma glu ma dang gsang ba ye shes sgrol ma sogs "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:126",
+    "original":"rgyal ba yum lngas dbang bskur bas :",
+    "folio":12,
+    "stemmed":"rgyal ba yum lngas dbang skur ba "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:127",
+    "original":"rang rig byang chub sems rtogs shog :",
+    "folio":12,
+    "stemmed":"rang rig byang chub sems rtogs shog "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:128",
+    "original":"badzra tshit+ta bo d+hi tshit+ta girti d+hu ma g+ha ye ar+ya ta re a b+hi shiny+tsha hu~m:",
+    "folio":12,
+    "stemmed":"badzra tshit+ta bo d+hi tshit+ta girti d+hu ma g+ha ye ar+ya ta re a b+hi shiny+tsha hu~m: "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:129",
+    "original":"de nas rjes kyi bya ba ni :",
+    "folio":12,
+    "stemmed":"de nas rjes kyi byed ba ni "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:130",
+    "original":"tshhul bzhin mtha' rgyas byed par gces :",
+    "folio":13,
+    "stemmed":"tshhul bzhin mtha rgya byed ba gces "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:131",
+    "original":"tshhogs kyi 'khor lo rgyas par gtang :",
+    "folio":13,
+    "stemmed":"tshhogs kyi khor lo rgya ba gtong "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:132",
+    "original":"e ma pad+ma bdag nyid kyi :",
+    "folio":13,
+    "stemmed":"e ma pad+ma bdag nyid kyi "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:133",
+    "original":"gsang sngags kun gyi nying khu 'di :",
+    "folio":13,
+    "stemmed":"gsang sngags kun gyi nying khu di "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:134",
+    "original":"ram+bi gu h+ya'i drung du zhus :",
+    "folio":13,
+    "stemmed":"ram+bi gu h+ya drung du zhus "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:135",
+    "original":"skabs 'dir ma 'ongs pa rnams la :",
+    "folio":13,
+    "stemmed":"skabs dir ma ngs ba rnams la "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:136",
+    "original":"phan phyir zab pa'i gter du sbas :",
+    "folio":13,
+    "stemmed":"phan phyir zab ba gter du sbed "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:137",
+    "original":"dus gsum kun tu gzhan ma bstan :",
+    "folio":13,
+    "stemmed":"dus gsum kun tu gzhan ma ston "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:138",
+    "original":"'di ni shin tu gsang bar gces :",
+    "folio":13,
+    "stemmed":"di ni shin tu gsang ba gces "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:139",
+    "original":"rlung phyogs tsham yang brjod mi rung :",
+    "folio":13,
+    "stemmed":"rlung phyogs tsham yang rjod mi rung "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:140",
+    "original":"snying gi khong du sbas par bya :",
+    "folio":14,
+    "stemmed":"snying gi khong du sbed ba byed "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:141",
+    "original":"nam zhig 'chi ka bu la gtad :",
+    "folio":14,
+    "stemmed":"nam jig chi ka bu la gtod "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:142",
+    "original":"sa ma ya rgya rgya :gter chen mchog gyur gling pas pad+ma shel phug nas spyan drangs pa'i shog ser las phab rim bzhin mkhyen brtshe'i dbang pos bris pa dge",
+    "folio":14,
+    "stemmed":"sa ma ya rgya rgya :gter chen mchog gyur gling ba pad+ma shel bugs nas spyan drangs ba shog ser las bebs rim bzhin mkhyen brtshe dbang pos bri ba dge "
+  },
+  {
+    "segmentnr":"BO_TZ_DZOGCHEN-DESUM-P78:143",
+    "original":"\/sarba mang+ga lam\/\/\/ \/",
+    "folio":14,
+    "stemmed":"mang+ga "
+  }
+]

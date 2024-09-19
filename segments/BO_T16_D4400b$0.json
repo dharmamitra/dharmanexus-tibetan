@@ -1,0 +1,602 @@
+[
+  {
+    "segmentnr":"BO_T16_D4400b:338a-0",
+    "original":"@338a # \/\/ rgya gar skad du \/",
+    "folio":"338a",
+    "stemmed":"rgya gar skad du "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338a-1",
+    "original":"svasti g'a th'a \/",
+    "folio":"338a",
+    "stemmed":"svasti ga tha "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338a-2",
+    "original":"bod skad du \/",
+    "folio":"338a",
+    "stemmed":"bod skad du "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338a-3",
+    "original":"bde legs kyi tshigs su bcad pa \/",
+    "folio":"338a",
+    "stemmed":"bde legs kyi tshigs su gcod ba "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338a-4",
+    "original":"dkon mchog gsum la phyag 'tshal lo \/\/",
+    "folio":"338a",
+    "stemmed":"dkon(d) mchog gsum la phyag tshal lo "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338a-5",
+    "original":"lha gcig nye bar song nas su \/\/",
+    "folio":"338a",
+    "stemmed":"lha gcig nye ba gro nas su "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338a-6",
+    "original":"lhas mchod pa la zhus byas te \/\/",
+    "folio":"338a",
+    "stemmed":"lhas mchod ba la zhus byed te "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338a-7",
+    "original":"sangs rgyas chen po thub pa che \/\/",
+    "folio":"338a",
+    "stemmed":"sangs rgya chen po thub ba che "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-0",
+    "original":"@338b ci zhig smras na bde legs gyur \/\/",
+    "folio":"338b",
+    "stemmed":"ci jig smras na bde legs gyur "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-1",
+    "original":"des ni tshig de gsan gyur na \/\/",
+    "folio":"338b",
+    "stemmed":"des ni tshig de gsan gyur na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-2",
+    "original":"'jig rten rtsa lag bka' stsal pa \/\/",
+    "folio":"338b",
+    "stemmed":"jig rten rtsa lag bka stsal ba "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-3",
+    "original":"gang zhig rtag tu rjod byed pa \/\/",
+    "folio":"338b",
+    "stemmed":"gang jig rtag tu rjod byed ba "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-4",
+    "original":"nga yi bde legs 'gyur de nyon \/\/",
+    "folio":"338b",
+    "stemmed":"nga yi bde legs gyur de nyon "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-5",
+    "original":"'jig rten 'di dang gzhan dang mtho ris na \/\/",
+    "folio":"338b",
+    "stemmed":"jig rten di dang gzhan dang mtho ris na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-6",
+    "original":"rin chen rmad byung rgya chen mchog yod pa \/\/",
+    "folio":"338b",
+    "stemmed":"rin chen rmad byung rgya chen mchog yod ba "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-7",
+    "original":"de ni rdzogs pa'i sangs rgyas rin chen la \/\/",
+    "folio":"338b",
+    "stemmed":"de ni rdzogs ba sangs rgya rin chen la "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-8",
+    "original":"cis kyang grangs dang bgrang dang char mi phod \/\/",
+    "folio":"338b",
+    "stemmed":"cis kyang grangs dang bgrong dang char mi phod "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-9",
+    "original":"ngo mtshar shin tu rmad byung dpag med de \/\/",
+    "folio":"338b",
+    "stemmed":"ngo mtshar shin tu rmad byung dpog med de "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-10",
+    "original":"rdzogs pa'i sangs rgyas rin chen 'jig rten mchog \/ ji ltar nga'i 'di de bzhin bden mchog na \/\/",
+    "folio":"338b",
+    "stemmed":"rdzogs ba sangs rgya rin chen jig rten mchog ji ltar nga di de bzhin bden mchog na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-11",
+    "original":"bden pa 'dis ni shin tu bde legs shog \/ zhi 'gog bdud rtsi shin tu gya nom gang \/\/",
+    "folio":"338b",
+    "stemmed":"bden ba dis ni shin tu bde legs shog zhi gog bdud rtsi shin tu gyas mnam gang "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-12",
+    "original":"sh'akya thub pas mnyam gzhag thugs chud pa \/\/",
+    "folio":"338b",
+    "stemmed":"shakya thub ba mnyam jog thugs chud ba "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-13",
+    "original":"chos de dang ni mtshungs pa yod min te \/\/",
+    "folio":"338b",
+    "stemmed":"chos de dang ni mtshungs ba yod min te "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-14",
+    "original":"de mngon byas na phyin chad mya ngan med \/\/",
+    "folio":"338b",
+    "stemmed":"de mngon byed na phyin chad mya ngan med "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-15",
+    "original":"ngo mtshar shin tu rmad byung dpag med de \/\/",
+    "folio":"338b",
+    "stemmed":"ngo mtshar shin tu rmad byung dpog med de "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-16",
+    "original":"dam pa'i chos ni rin chen 'jig rten mchog \/ ji ltar ba'i 'di de bzhin bden mchog na \/\/",
+    "folio":"338b",
+    "stemmed":"dam ba chos ni rin chen jig rten mchog ji ltar ba di de bzhin bden mchog na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-17",
+    "original":"bden pa 'dis ni shin tu bde legs shog \/ rgyal bas gang dag gang zag brgyad gsungs pa \/\/",
+    "folio":"338b",
+    "stemmed":"bden ba dis ni shin tu bde legs shog rgyal ba gang dag gang zag brgyad gsungs ba "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-18",
+    "original":"de dag rnams ni skyes bu zung bzhi ste \/\/",
+    "folio":"338b",
+    "stemmed":"de dag rnams ni skye bu zung bzhi ste "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-19",
+    "original":"sbyin gnas de dag sa steng shin tu dkon \/\/",
+    "folio":"338b",
+    "stemmed":"sbyin gnas de dag sa steng shin tu dkon(d) "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-20",
+    "original":"de dag rnams la byin na dpag med 'gyur \/\/",
+    "folio":"338b",
+    "stemmed":"de dag rnams la byin na dpog med gyur "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-21",
+    "original":"ngo mtshar shin tu rmad byung dpag med de \/\/",
+    "folio":"338b",
+    "stemmed":"ngo mtshar shin tu rmad byung dpog med de "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-22",
+    "original":"dge 'dun rin chen gang zhig 'jig rten mchog \/ ji ltar nga'i 'di de bzhin bden mchog na \/\/",
+    "folio":"338b",
+    "stemmed":"dge dun rin chen gang jig jig rten mchog ji ltar nga di de bzhin bden mchog na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-23",
+    "original":"bden pa 'dis ni shin tu bde legs shog \/ dam pa gtso bo mchog sbyin gya nom pa \/\/",
+    "folio":"338b",
+    "stemmed":"bden ba dis ni shin tu bde legs shog dam ba gtso bo mchog sbyin gyas mnam ba "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-24",
+    "original":"'od mchog dpa' bo dam pa mchog gi gnas \/\/",
+    "folio":"338b",
+    "stemmed":"d mchog dpa bo dam ba mchog gi gnas "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-25",
+    "original":"shes rab dam pa mchog gi dam pa mchog \/ mchog min mchog mkhyen 'di ni bcom ldan gcig \/ ngo mtshar shin tu rmad byung dpag med de \/\/",
+    "folio":"338b",
+    "stemmed":"shes rab dam ba mchog gi dam ba mchog mchog min mchog mkhyen di ni joms ldan gcig ngo mtshar shin tu rmad byung dpog med de "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-26",
+    "original":"rdzogs pa'i sangs rgyas rin chen 'jig rten mchog \/ ji ltar nga'i 'di de bzhin bden mchog na \/\/",
+    "folio":"338b",
+    "stemmed":"rdzogs ba sangs rgya rin chen jig rten mchog ji ltar nga di de bzhin bden mchog na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-27",
+    "original":"bden pa 'dis ni shin tu bde legs shog \/ ting 'dzin dam pa bar chad med pa gang \/\/",
+    "folio":"338b",
+    "stemmed":"bden ba dis ni shin tu bde legs shog ting dzin dam ba ba chad med ba gang "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-28",
+    "original":"mtha' yas blo ldan de bzhin gshegs gsungs pa \/\/",
+    "folio":"338b",
+    "stemmed":"mtha yas blo ldan de bzhin gshegs gsungs ba "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-29",
+    "original":"ting 'dzin bde brtan rdo rje dper byas pa \/\/",
+    "folio":"338b",
+    "stemmed":"ting dzin bde brtan rdo rje dper byed ba "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-30",
+    "original":"ting 'dzin de dang mtshungs pa'i ting 'dzin med \/\/",
+    "folio":"338b",
+    "stemmed":"ting dzin de dang mtshungs ba ting dzin med "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-31",
+    "original":"ngo mtshar shin tu rmad byung dpag med de \/\/",
+    "folio":"338b",
+    "stemmed":"ngo mtshar shin tu rmad byung dpog med de "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:338b-32",
+    "original":"ting nge 'dzin gyi rin chen 'jig rten mchog \/ ji ltar ba'i 'di de bzhin bden mchog na \/\/",
+    "folio":"338b",
+    "stemmed":"ting nge dzin gyi rin chen jig rten mchog ji ltar ba di de bzhin bden mchog na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-0",
+    "original":"bden pa 'dis ni shin tu bde legs shog \/ ji ltar sgo gtan @339a * \/\/",
+    "folio":"339a",
+    "stemmed":"bden ba dis ni shin tu bde legs shog ji ltar sgo gtan "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-1",
+    "original":"dam zhing rab dam ste \/\/",
+    "folio":"339a",
+    "stemmed":"dam zhing rab dam ste "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-2",
+    "original":"stobs chen rlung bzhi dag gis mi bskyod pa \/\/",
+    "folio":"339a",
+    "stemmed":"stobs chen rlung bzhi dag gis mi skyod ba "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-3",
+    "original":"de ltar mkhas pa bden bzhi mthong gnas pa \/\/",
+    "folio":"339a",
+    "stemmed":"de ltar mkhas ba bden bzhi mthong gnas ba "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-4",
+    "original":"'jig rten smra ba rnams kyis 'dir mi g-yo \/\/",
+    "folio":"339a",
+    "stemmed":"jig rten smra ba rnams kyis dir mi g-yo "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-5",
+    "original":"ngo mtshar shin tu rmad byung dpag med de \/\/",
+    "folio":"339a",
+    "stemmed":"ngo mtshar shin tu rmad byung dpog med de "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-6",
+    "original":"dge 'dun rin chen gang zhig 'jig rten mchog \/ ji ltar nga'i 'di de bzhin bden mchog na \/\/",
+    "folio":"339a",
+    "stemmed":"dge dun rin chen gang jig jig rten mchog ji ltar nga di de bzhin bden mchog na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-7",
+    "original":"bden pa 'dis ni shin tu bde legs shog \/ thams cad zil gnon kun mkhyen thams cad gzigs \/\/",
+    "folio":"339a",
+    "stemmed":"bden ba dis ni shin tu bde legs shog thams cad zil gnon kun mkhyen thams cad gzigs "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-8",
+    "original":"thams cad mkhyen pa stobs rnams kun dang ldan \/\/",
+    "folio":"339a",
+    "stemmed":"thams cad mkhyen ba stobs rnams kun dang ldan "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-9",
+    "original":"kun gyi dam pa 'dzin pa kun dang bral \/\/",
+    "folio":"339a",
+    "stemmed":"kun gyi dam ba dzin ba kun dang bral "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-10",
+    "original":"bsam pa kun mkhyen 'di ni bcom ldan gcig \/ ngo mtshar shin tu rmad byung dpag med de \/\/",
+    "folio":"339a",
+    "stemmed":"bsam ba kun mkhyen di ni joms ldan gcig ngo mtshar shin tu rmad byung dpog med de "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-11",
+    "original":"rdzogs pa'i sangs rgyas rin chen 'jig rten mchog \/ ji ltar nga'i 'di de bzhin bden mchog na \/\/",
+    "folio":"339a",
+    "stemmed":"rdzogs ba sangs rgya rin chen jig rten mchog ji ltar nga di de bzhin bden mchog na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-12",
+    "original":"bden pa 'dis ni shin tu bde legs shog \/ srid pa 'gog cing mi g-yo 'gyur ba med \/\/",
+    "folio":"339a",
+    "stemmed":"bden ba dis ni shin tu bde legs shog srid ba gog cing mi g-yo gyur ba med "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-13",
+    "original":"skyon med 'jigs pa kun las rnam par grol \/",
+    "folio":"339a",
+    "stemmed":"skyon med jigs ba kun las rnam ba grol "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-14",
+    "original":"shin tu 'gag cing gya nom nges par 'byung \/\/",
+    "folio":"339a",
+    "stemmed":"shin tu gag cing gyas mnam nges ba byung "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-15",
+    "original":"shin tu dri med zhi ba blos mi 'phrogs \/\/",
+    "folio":"339a",
+    "stemmed":"shin tu dri med zhi ba blos mi phrogs "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-16",
+    "original":"ngo mtshar shin tu rmad byung dpag med de \/\/",
+    "folio":"339a",
+    "stemmed":"ngo mtshar shin tu rmad byung dpog med de "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-17",
+    "original":"dam pa'i chos kyi rin chen 'jig rten mchog \/ ji ltar nga'i bde de bzhin bden mchog na \/\/",
+    "folio":"339a",
+    "stemmed":"dam ba chos kyi rin chen jig rten mchog ji ltar nga bde de bzhin bden mchog na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-18",
+    "original":"bden pa 'dis ni shin tu bde legs shog \/ shin tu sdug bsngal ston cing bde sbyin pa'i \/\/",
+    "folio":"339a",
+    "stemmed":"bden ba dis ni shin tu bde legs shog shin tu sdug sngal ston cing bde sbyin ba "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-19",
+    "original":"bden rnams mthong ste gang dag bag yod pa \/\/",
+    "folio":"339a",
+    "stemmed":"bden rnams mthong ste gang dag bag yod ba "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-20",
+    "original":"bden pa rin chen rnams la dogs bral ba \/\/",
+    "folio":"339a",
+    "stemmed":"bden ba rin chen rnams la dogs bral ba "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-21",
+    "original":"de dag skye ba brgyad pa rnams mi len \/\/",
+    "folio":"339a",
+    "stemmed":"de dag skye ba brgyad ba rnams mi len "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-22",
+    "original":"ngo mtshar shin tu rmad byung dpag med de \/\/",
+    "folio":"339a",
+    "stemmed":"ngo mtshar shin tu rmad byung dpog med de "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-23",
+    "original":"dge 'dun rin chen gang zhig 'jig rten mchog \/ ji ltar nga'i 'di de bzhin bden mchog na \/\/",
+    "folio":"339a",
+    "stemmed":"dge dun rin chen gang jig jig rten mchog ji ltar nga di de bzhin bden mchog na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-24",
+    "original":"bden pa 'dis ni shin tu bde legs shog \/ dam pa rnams kyi dam pa don dam mkhyen \/\/",
+    "folio":"339a",
+    "stemmed":"bden ba dis ni shin tu bde legs shog dam ba rnams kyi dam ba don dam mkhyen "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-25",
+    "original":"mchog dang mchog min mkhyen cing don dam brtson \/\/",
+    "folio":"339a",
+    "stemmed":"mchog dang mchog min mkhyen cing don dam brtson "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-26",
+    "original":"gzhan gyis mi 'phrogs dam pa thugs chud rtogs \/\/",
+    "folio":"339a",
+    "stemmed":"gzhan gyis mi phrogs dam ba thugs chud rtogs "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-27",
+    "original":"shin tu sdug bsngal rnams kyi dpung gnyen mchog \/ ngo mtshar shin tu rmad byung dpag med de \/\/",
+    "folio":"339a",
+    "stemmed":"shin tu sdug sngal rnams kyi dpung gnyen mchog ngo mtshar shin tu rmad byung dpog med de "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-28",
+    "original":"rdzogs pa'i sangs rgyas rin chen 'jig rten mchog \/ ji ltar nga'i 'di de bzhin bden mchog na \/\/",
+    "folio":"339a",
+    "stemmed":"rdzogs ba sangs rgya rin chen jig rten mchog ji ltar nga di de bzhin bden mchog na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-29",
+    "original":"bden pa 'dis ni shin tu bde legs shog \/'dun pa bskyed nas rnal 'byor ldan gyur cing \/\/",
+    "folio":"339a",
+    "stemmed":"bden ba dis ni shin tu bde legs shog ba skyed nas rnal byor ldan gyur cing "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-30",
+    "original":"goo tam bstan la rtag brtson rab grol zhing \/\/",
+    "folio":"339a",
+    "stemmed":"goo tam ston la rtag brtson rab grol zhing "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339a-31",
+    "original":"gzhan gyis mi bkri ba dag zhing der reg \/",
+    "folio":"339a",
+    "stemmed":"gzhan gyis mi khrid ba dag zhing der reg "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-0",
+    "original":"@339b 'di la de reg grangs su phyin mi 'gyur \/\/",
+    "folio":"339b",
+    "stemmed":"di la de reg grangs su phyin mi gyur "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-1",
+    "original":"ngo mtshar shin tu rmad byung dpag med de \/\/",
+    "folio":"339b",
+    "stemmed":"ngo mtshar shin tu rmad byung dpog med de "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-2",
+    "original":"dge 'dun rin chen gang zhig 'jig rten mchog \/ ji ltar nga'i 'di de bzhin bden mchog na \/\/",
+    "folio":"339b",
+    "stemmed":"dge dun rin chen gang jig jig rten mchog ji ltar nga di de bzhin bden mchog na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-3",
+    "original":"bden pa 'dis ni shin tu bde legs shog \/ bden pa mthong bas brjod pas brgya lam na \/\/",
+    "folio":"339b",
+    "stemmed":"bden ba dis ni shin tu bde legs shog bden ba mthong ba rjod ba brgya lam na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-4",
+    "original":"gal te sdig pa 'ga' zhig byas gyur kyang \/\/",
+    "folio":"339b",
+    "stemmed":"gal te sdig ba ga jig byed gyur kyang "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-5",
+    "original":"de ni de 'chab pa yi 'os min te \/\/",
+    "folio":"339b",
+    "stemmed":"de ni de chab ba yi s min te "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-6",
+    "original":"chos nyid 'di ni mi g-yo gnas phyir ro \/\/",
+    "folio":"339b",
+    "stemmed":"chos nyid di ni mi g-yo gnas phyir ro "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-7",
+    "original":"ngo mtshar shin tu rmad byung dpag med de \/\/",
+    "folio":"339b",
+    "stemmed":"ngo mtshar shin tu rmad byung dpog med de "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-8",
+    "original":"dge 'dun rin chen gang zhig 'jig rten mchog \/ ji ltar nga'i 'di de bzhin bden mchog na \/\/",
+    "folio":"339b",
+    "stemmed":"dge dun rin chen gang jig jig rten mchog ji ltar nga di de bzhin bden mchog na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-9",
+    "original":"bden pa 'dis ni shin tu bde legs shog \/ lha dang bcas pa'i 'jig rten thams cad na \/\/",
+    "folio":"339b",
+    "stemmed":"bden ba dis ni shin tu bde legs shog lha dang cha ba jig rten thams cad na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-10",
+    "original":"sangs rgyas dang ni lhag pa'am mtshungs pa med \/\/",
+    "folio":"339b",
+    "stemmed":"sangs rgya dang ni lhag ba mtshungs ba med "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-11",
+    "original":"lha dang mi yi ston pa bla na med \/\/",
+    "folio":"339b",
+    "stemmed":"lha dang mi yi ston ba bla na med "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-12",
+    "original":"ston pa ded dpon sman pa rnams kyi mchog \/ ngo mtshar shin tu rmad byung dpag med de \/\/",
+    "folio":"339b",
+    "stemmed":"ston ba ded dpon sman ba rnams kyi mchog ngo mtshar shin tu rmad byung dpog med de "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-13",
+    "original":"rdzogs pa'i sangs rgyas rin chen 'jig rten mchog \/ ji ltar nga'i 'di de bzhin bden mchog na \/\/",
+    "folio":"339b",
+    "stemmed":"rdzogs ba sangs rgya rin chen jig rten mchog ji ltar nga di de bzhin bden mchog na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-14",
+    "original":"bden pa 'dis ni shin tu bde legs shog \/ so ga'i zla ba dang por thub pa yis \/\/",
+    "folio":"339b",
+    "stemmed":"bden ba dis ni shin tu bde legs shog so ga zla ba dang por thub ba yis "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-15",
+    "original":"nags khrod chos kyi dam pa rab brnyes nas \/\/",
+    "folio":"339b",
+    "stemmed":"nags khrod chos kyi dam ba rab brnyes nas "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-16",
+    "original":"chos de dang ni lhag pa'am mtshungs pa med \/\/",
+    "folio":"339b",
+    "stemmed":"chos de dang ni lhag ba mtshungs ba med "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-17",
+    "original":"'di la de reg grangs su phyin mi 'gyur \/\/",
+    "folio":"339b",
+    "stemmed":"di la de reg grangs su phyin mi gyur "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-18",
+    "original":"ngo mtshar shin tu rmad byung dpag med de \/\/",
+    "folio":"339b",
+    "stemmed":"ngo mtshar shin tu rmad byung dpog med de "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-19",
+    "original":"dam pa'i chos kyi rin chen 'jig rten mchog \/ ji ltar nga'i 'di de bzhin bden mchog na \/\/",
+    "folio":"339b",
+    "stemmed":"dam ba chos kyi rin chen jig rten mchog ji ltar nga di de bzhin bden mchog na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-20",
+    "original":"bden pa 'dir ni shin tu bde legs shog \/ sdig pa rnyid zad gsar du byas med la \/\/",
+    "folio":"339b",
+    "stemmed":"bden ba dir ni shin tu bde legs shog sdig ba rnyid zad gsar du byed med la "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-21",
+    "original":"rims nad med pas 'jigs med ma ngan bral \/\/",
+    "folio":"339b",
+    "stemmed":"rims nad med ba jigs med ma ngan bral "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-22",
+    "original":"rtsa ba 'gags pas srid pa mi skyed pa \/\/",
+    "folio":"339b",
+    "stemmed":"rtsa ba gag ba srid ba mi skyed ba "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-23",
+    "original":"bstan pa mar me bzhin du 'bar bar 'gyur \/\/",
+    "folio":"339b",
+    "stemmed":"ston ba mar me bzhin du bar ba gyur "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-24",
+    "original":"ngo mtshar shin tu rmad byung dpag med de \/\/",
+    "folio":"339b",
+    "stemmed":"ngo mtshar shin tu rmad byung dpog med de "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-25",
+    "original":"dge 'dun rin chen gang zhig 'jig rten mchog \/ ji ltar nga'i 'di de bzhin bden mchog na \/\/",
+    "folio":"339b",
+    "stemmed":"dge dun rin chen gang jig jig rten mchog ji ltar nga di de bzhin bden mchog na "
+  },
+  {
+    "segmentnr":"BO_T16_D4400b:339b-26",
+    "original":"bden pa 'dis ni shin tu bde legs shog \/ lhas zhus pa'i bde legs kyi tshigs su bcad pa rdzogs so \/",
+    "folio":"339b",
+    "stemmed":"bden ba dis ni shin tu bde legs shog lhas zhus ba bde legs kyi tshigs su gcod ba rdzogs so "
+  }
+]
