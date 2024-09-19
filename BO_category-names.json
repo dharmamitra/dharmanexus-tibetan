@@ -1,0 +1,950 @@
+[
+  {
+    "category": "K01",
+    "displayName": "'DUL BA"
+  },
+  {
+    "category": "K02",
+    "displayName": "'BUM"
+  },
+  {
+    "category": "K03",
+    "displayName": "NGI KHRI"
+  },
+  {
+    "category": "K04",
+    "displayName": "BRGYAD STONG"
+  },
+  {
+    "category": "K05",
+    "displayName": "KHRI BRGYAD STONG"
+  },
+  {
+    "category": "K06",
+    "displayName": "KHRI PA"
+  },
+  {
+    "category": "K07",
+    "displayName": "SHER PHYIN SNA TSHOGS"
+  },
+  {
+    "category": "K08",
+    "displayName": "DKON BRTSEGS"
+  },
+  {
+    "category": "K09",
+    "displayName": "PHAL CHEN"
+  },
+  {
+    "category": "K10",
+    "displayName": "MDO MANG"
+  },
+  {
+    "category": "K11",
+    "displayName": "MYANG 'DAS"
+  },
+  {
+    "category": "K12",
+    "displayName": "RGYUD"
+  },
+  {
+    "category": "K13",
+    "displayName": "DKAR CHAG"
+  },
+  {
+    "category": "NG",
+    "displayName": "NG (ALL)"
+  },
+  {
+    "category": "NK001",
+    "displayName": "NK001(ka)"
+  },
+  {
+    "category": "NK002",
+    "displayName": "NK002(kha)"
+  },
+  {
+    "category": "NK003",
+    "displayName": "NK003(ga)"
+  },
+  {
+    "category": "NK004",
+    "displayName": "NK004(nga)"
+  },
+  {
+    "category": "NK005",
+    "displayName": "NK005(ca)"
+  },
+  {
+    "category": "NK006",
+    "displayName": "NK006(cha)"
+  },
+  {
+    "category": "NK007",
+    "displayName": "NK007(ja)"
+  },
+  {
+    "category": "NK008",
+    "displayName": "NK008(nya)"
+  },
+  {
+    "category": "NK009",
+    "displayName": "NK009(ta)"
+  },
+  {
+    "category": "NK010",
+    "displayName": "NK010(tha)"
+  },
+  {
+    "category": "NK011",
+    "displayName": "NK011(da)"
+  },
+  {
+    "category": "NK012",
+    "displayName": "NK012(na)"
+  },
+  {
+    "category": "NK013",
+    "displayName": "NK013(pa)"
+  },
+  {
+    "category": "NK014",
+    "displayName": "NK014(pha)"
+  },
+  {
+    "category": "NK015",
+    "displayName": "NK015(ba)"
+  },
+  {
+    "category": "NK016",
+    "displayName": "NK016(ma)"
+  },
+  {
+    "category": "NK017",
+    "displayName": "NK017(tsa)"
+  },
+  {
+    "category": "NK018",
+    "displayName": "NK018(tsha)"
+  },
+  {
+    "category": "NK019",
+    "displayName": "NK019(dza)"
+  },
+  {
+    "category": "NK020",
+    "displayName": "NK020(wa)"
+  },
+  {
+    "category": "NK021",
+    "displayName": "NK021(zha)"
+  },
+  {
+    "category": "NK022",
+    "displayName": "NK022(za)"
+  },
+  {
+    "category": "NK023",
+    "displayName": "NK023('a)"
+  },
+  {
+    "category": "NK024",
+    "displayName": "NK024(ya)"
+  },
+  {
+    "category": "NK025",
+    "displayName": "NK025(ra)"
+  },
+  {
+    "category": "NK026",
+    "displayName": "NK026(la)"
+  },
+  {
+    "category": "NK027",
+    "displayName": "NK027(sha)"
+  },
+  {
+    "category": "NK028",
+    "displayName": "NK028(sa)"
+  },
+  {
+    "category": "NK029",
+    "displayName": "NK029(ha)"
+  },
+  {
+    "category": "NK030",
+    "displayName": "NK030(a)"
+  },
+  {
+    "category": "NK031",
+    "displayName": "NK031(ki)"
+  },
+  {
+    "category": "NK032",
+    "displayName": "NK032(khi)"
+  },
+  {
+    "category": "NK033",
+    "displayName": "NK033(gi)"
+  },
+  {
+    "category": "NK034",
+    "displayName": "NK034(ngi)"
+  },
+  {
+    "category": "NK035",
+    "displayName": "NK035(ci)"
+  },
+  {
+    "category": "NK036",
+    "displayName": "NK036(chi)"
+  },
+  {
+    "category": "NK037",
+    "displayName": "NK037(ji)"
+  },
+  {
+    "category": "NK038",
+    "displayName": "NK038(nyi)"
+  },
+  {
+    "category": "NK039",
+    "displayName": "NK039(ti)"
+  },
+  {
+    "category": "NK040",
+    "displayName": "NK040(thi)"
+  },
+  {
+    "category": "NK041",
+    "displayName": "NK041(di)"
+  },
+  {
+    "category": "NK042",
+    "displayName": "NK042(ni)"
+  },
+  {
+    "category": "NK043",
+    "displayName": "NK043(pi)"
+  },
+  {
+    "category": "NK044",
+    "displayName": "NK044(phi)"
+  },
+  {
+    "category": "NK045",
+    "displayName": "NK045(bi)"
+  },
+  {
+    "category": "NK046",
+    "displayName": "NK046(mi)"
+  },
+  {
+    "category": "NK047",
+    "displayName": "NK047(tsi)"
+  },
+  {
+    "category": "NK048",
+    "displayName": "NK048(tshi)"
+  },
+  {
+    "category": "NK049",
+    "displayName": "NK049(dzi)"
+  },
+  {
+    "category": "NK050",
+    "displayName": "NK050(wi)"
+  },
+  {
+    "category": "NK051",
+    "displayName": "NK051(zhi)"
+  },
+  {
+    "category": "NK052",
+    "displayName": "NK052(zi)"
+  },
+  {
+    "category": "NK053",
+    "displayName": "NK053('i)"
+  },
+  {
+    "category": "NK054",
+    "displayName": "NK054(yi)"
+  },
+  {
+    "category": "NK055",
+    "displayName": "NK055(ri)"
+  },
+  {
+    "category": "NK056",
+    "displayName": "NK056(li)"
+  },
+  {
+    "category": "NK057",
+    "displayName": "NK057(shi)"
+  },
+  {
+    "category": "NK058",
+    "displayName": "NK058(si)"
+  },
+  {
+    "category": "NK059",
+    "displayName": "NK059(hi)"
+  },
+  {
+    "category": "NK060",
+    "displayName": "NK060(i)"
+  },
+  {
+    "category": "NK061",
+    "displayName": "NK061(ku)"
+  },
+  {
+    "category": "NK062",
+    "displayName": "NK062(khu)"
+  },
+  {
+    "category": "NK063",
+    "displayName": "NK063(gu)"
+  },
+  {
+    "category": "NK064",
+    "displayName": "NK064(ngu)"
+  },
+  {
+    "category": "NK065",
+    "displayName": "NK065(cu)"
+  },
+  {
+    "category": "NK066",
+    "displayName": "NK066(chu)"
+  },
+  {
+    "category": "NK067",
+    "displayName": "NK067(ju)"
+  },
+  {
+    "category": "NK068",
+    "displayName": "NK068(nyu)"
+  },
+  {
+    "category": "NK069",
+    "displayName": "NK069(tu)"
+  },
+  {
+    "category": "NK070",
+    "displayName": "NK070(thu)"
+  },
+  {
+    "category": "NK071",
+    "displayName": "NK071(du)"
+  },
+  {
+    "category": "NK072",
+    "displayName": "NK072(nu)"
+  },
+  {
+    "category": "NK073",
+    "displayName": "NK073(pu)"
+  },
+  {
+    "category": "NK074",
+    "displayName": "NK074(phu)"
+  },
+  {
+    "category": "NK075",
+    "displayName": "NK075(bu)"
+  },
+  {
+    "category": "NK076",
+    "displayName": "NK076(mu)"
+  },
+  {
+    "category": "NK077",
+    "displayName": "NK077(tsu)"
+  },
+  {
+    "category": "NK078",
+    "displayName": "NK078(tshu)"
+  },
+  {
+    "category": "NK079",
+    "displayName": "NK079(dzu)"
+  },
+  {
+    "category": "NK080",
+    "displayName": "NK080(wu)"
+  },
+  {
+    "category": "NK081",
+    "displayName": "NK081(zhu)"
+  },
+  {
+    "category": "NK082",
+    "displayName": "NK082(zu)"
+  },
+  {
+    "category": "NK083",
+    "displayName": "NK083('u)"
+  },
+  {
+    "category": "NK084",
+    "displayName": "NK084(yu)"
+  },
+  {
+    "category": "NK085",
+    "displayName": "NK085(ru)"
+  },
+  {
+    "category": "NK086",
+    "displayName": "NK086(lu)"
+  },
+  {
+    "category": "NK087",
+    "displayName": "NK087(shu)"
+  },
+  {
+    "category": "NK088",
+    "displayName": "NK088(su)"
+  },
+  {
+    "category": "NK089",
+    "displayName": "NK089(hu)"
+  },
+  {
+    "category": "NK090",
+    "displayName": "NK090(u)"
+  },
+  {
+    "category": "NK091",
+    "displayName": "NK091(ke)"
+  },
+  {
+    "category": "NK092",
+    "displayName": "NK092(khe)"
+  },
+  {
+    "category": "NK093",
+    "displayName": "NK093(ge)"
+  },
+  {
+    "category": "NK094",
+    "displayName": "NK094(nge)"
+  },
+  {
+    "category": "NK095",
+    "displayName": "NK095(ce)"
+  },
+  {
+    "category": "NK096",
+    "displayName": "NK096(che)"
+  },
+  {
+    "category": "NK097",
+    "displayName": "NK097(je)"
+  },
+  {
+    "category": "NK098",
+    "displayName": "NK098(nye)"
+  },
+  {
+    "category": "NK099",
+    "displayName": "NK099(te)"
+  },
+  {
+    "category": "NK100",
+    "displayName": "NK100(the)"
+  },
+  {
+    "category": "NK101",
+    "displayName": "NK101(de)"
+  },
+  {
+    "category": "NK102",
+    "displayName": "NK102(ne)"
+  },
+  {
+    "category": "NK103",
+    "displayName": "NK103(pe)"
+  },
+  {
+    "category": "NK104",
+    "displayName": "NK104(phe)"
+  },
+  {
+    "category": "NK105",
+    "displayName": "NK105(be)"
+  },
+  {
+    "category": "NK106",
+    "displayName": "NK106(me)"
+  },
+  {
+    "category": "NK107",
+    "displayName": "NK107(tse)"
+  },
+  {
+    "category": "NK108",
+    "displayName": "NK108(tshe)"
+  },
+  {
+    "category": "NK109",
+    "displayName": "NK109(dze)"
+  },
+  {
+    "category": "NK110",
+    "displayName": "NK110(we)"
+  },
+  {
+    "category": "NK111",
+    "displayName": "NK111(zhe)"
+  },
+  {
+    "category": "NK112",
+    "displayName": "NK112(ze)"
+  },
+  {
+    "category": "NK113",
+    "displayName": "NK113('e)"
+  },
+  {
+    "category": "NK114",
+    "displayName": "NK114(ye)"
+  },
+  {
+    "category": "NK115",
+    "displayName": "NK115(re)"
+  },
+  {
+    "category": "NK116",
+    "displayName": "NK116(le)"
+  },
+  {
+    "category": "NK117",
+    "displayName": "NK117(she)"
+  },
+  {
+    "category": "NK118",
+    "displayName": "NK118(se)"
+  },
+  {
+    "category": "NK119",
+    "displayName": "NK119(he)"
+  },
+  {
+    "category": "NK120",
+    "displayName": "NK120(e)"
+  },
+  {
+    "category": "NK121",
+    "displayName": "NK121(ko)"
+  },
+  {
+    "category": "NK122",
+    "displayName": "NK122(kho)"
+  },
+  {
+    "category": "NK123",
+    "displayName": "NK123(go)"
+  },
+  {
+    "category": "NK124",
+    "displayName": "NK124(ngo)"
+  },
+  {
+    "category": "NK125",
+    "displayName": "NK125(co)"
+  },
+  {
+    "category": "NK126",
+    "displayName": "NK126(cho)"
+  },
+  {
+    "category": "NK127",
+    "displayName": "NK127(jo)"
+  },
+  {
+    "category": "NK128",
+    "displayName": "NK128(nyo)"
+  },
+  {
+    "category": "NK129",
+    "displayName": "NK129(to)"
+  },
+  {
+    "category": "NK130",
+    "displayName": "NK130(tho)"
+  },
+  {
+    "category": "NK131",
+    "displayName": "NK131(do)"
+  },
+  {
+    "category": "NK132",
+    "displayName": "NK132(no)"
+  },
+  {
+    "category": "NK133",
+    "displayName": "NK133(po)"
+  },
+  {
+    "category": "NY",
+    "displayName": "NY"
+  },
+  {
+    "category": "T01",
+    "displayName": "BSTOD TSHOGS"
+  },
+  {
+    "category": "T02",
+    "displayName": "RGYUD"
+  },
+  {
+    "category": "T03",
+    "displayName": "SHES PHYIN"
+  },
+  {
+    "category": "T04",
+    "displayName": "DBU MA"
+  },
+  {
+    "category": "T05",
+    "displayName": "MDO 'GREL"
+  },
+  {
+    "category": "T06",
+    "displayName": "SEMS TSAM"
+  },
+  {
+    "category": "T07",
+    "displayName": "MNGON PA"
+  },
+  {
+    "category": "T08",
+    "displayName": "'DUL BA"
+  },
+  {
+    "category": "T09",
+    "displayName": "SKYES RABS"
+  },
+  {
+    "category": "T10",
+    "displayName": "SPRING YIG"
+  },
+  {
+    "category": "T11",
+    "displayName": "TSHAD MA"
+  },
+  {
+    "category": "T12",
+    "displayName": "SGRA MDO"
+  },
+  {
+    "category": "T13",
+    "displayName": "GSO BA RIG PA"
+  },
+  {
+    "category": "T14",
+    "displayName": "BZO RIG PA"
+  },
+  {
+    "category": "T15",
+    "displayName": "LUGS KYI BSTAN BCOS"
+  },
+  {
+    "category": "T16",
+    "displayName": "SNA TSHOGS"
+  },
+  {
+    "category": "T17",
+    "displayName": "T17 Pedurma"
+  },
+  {
+    "category": "TZ1",
+    "displayName": "TZ1"
+  },
+  {
+    "category": "TZ18",
+    "displayName": "TZ18"
+  },
+  {
+    "category": "TZ19",
+    "displayName": "TZ19"
+  },
+  {
+    "category": "TZ2",
+    "displayName": "TZ2"
+  },
+  {
+    "category": "TZ20",
+    "displayName": "TZ20"
+  },
+  {
+    "category": "TZ21",
+    "displayName": "TZ21"
+  },
+  {
+    "category": "TZ22",
+    "displayName": "TZ22"
+  },
+  {
+    "category": "TZ23",
+    "displayName": "TZ23"
+  },
+  {
+    "category": "TZ24",
+    "displayName": "TZ24"
+  },
+  {
+    "category": "TZ25",
+    "displayName": "TZ25"
+  },
+  {
+    "category": "TZ26",
+    "displayName": "TZ26"
+  },
+  {
+    "category": "TZ10",
+    "displayName": "TZ10"
+  },
+  {
+    "category": "TZ27",
+    "displayName": "TZ27"
+  },
+  {
+    "category": "TZ28",
+    "displayName": "TZ28"
+  },
+  {
+    "category": "TZ29",
+    "displayName": "TZ29"
+  },
+  {
+    "category": "TZ3",
+    "displayName": "TZ3"
+  },
+  {
+    "category": "TZ30",
+    "displayName": "TZ30"
+  },
+  {
+    "category": "TZ31",
+    "displayName": "TZ31"
+  },
+  {
+    "category": "TZ32",
+    "displayName": "TZ32"
+  },
+  {
+    "category": "TZ33",
+    "displayName": "TZ33"
+  },
+  {
+    "category": "TZ34",
+    "displayName": "TZ34"
+  },
+  {
+    "category": "TZ35",
+    "displayName": "TZ35"
+  },
+  {
+    "category": "TZ11",
+    "displayName": "TZ11"
+  },
+  {
+    "category": "TZ36",
+    "displayName": "TZ36"
+  },
+  {
+    "category": "TZ37",
+    "displayName": "TZ37"
+  },
+  {
+    "category": "TZ38",
+    "displayName": "TZ38"
+  },
+  {
+    "category": "TZ39",
+    "displayName": "TZ39"
+  },
+  {
+    "category": "TZ4",
+    "displayName": "TZ4"
+  },
+  {
+    "category": "TZ40",
+    "displayName": "TZ40"
+  },
+  {
+    "category": "TZ41",
+    "displayName": "TZ41"
+  },
+  {
+    "category": "TZ42",
+    "displayName": "TZ42"
+  },
+  {
+    "category": "TZ43",
+    "displayName": "TZ43"
+  },
+  {
+    "category": "TZ44",
+    "displayName": "TZ44"
+  },
+  {
+    "category": "TZ12",
+    "displayName": "TZ12"
+  },
+  {
+    "category": "TZ45",
+    "displayName": "TZ45"
+  },
+  {
+    "category": "TZ46",
+    "displayName": "TZ46"
+  },
+  {
+    "category": "TZ47",
+    "displayName": "TZ47"
+  },
+  {
+    "category": "TZ48",
+    "displayName": "TZ48"
+  },
+  {
+    "category": "TZ49",
+    "displayName": "TZ49"
+  },
+  {
+    "category": "TZ5",
+    "displayName": "TZ5"
+  },
+  {
+    "category": "TZ50",
+    "displayName": "TZ50"
+  },
+  {
+    "category": "TZ51",
+    "displayName": "TZ51"
+  },
+  {
+    "category": "TZ52",
+    "displayName": "TZ52"
+  },
+  {
+    "category": "TZ53",
+    "displayName": "TZ53"
+  },
+  {
+    "category": "TZ13",
+    "displayName": "TZ13"
+  },
+  {
+    "category": "TZ54",
+    "displayName": "TZ54"
+  },
+  {
+    "category": "TZ55",
+    "displayName": "TZ55"
+  },
+  {
+    "category": "TZ56",
+    "displayName": "TZ56"
+  },
+  {
+    "category": "TZ57",
+    "displayName": "TZ57"
+  },
+  {
+    "category": "TZ58",
+    "displayName": "TZ58"
+  },
+  {
+    "category": "TZ59",
+    "displayName": "TZ59"
+  },
+  {
+    "category": "TZ6",
+    "displayName": "TZ6"
+  },
+  {
+    "category": "TZ60",
+    "displayName": "TZ60"
+  },
+  {
+    "category": "TZ61",
+    "displayName": "TZ61"
+  },
+  {
+    "category": "TZ62",
+    "displayName": "TZ62"
+  },
+  {
+    "category": "TZ14",
+    "displayName": "TZ14"
+  },
+  {
+    "category": "TZ63",
+    "displayName": "TZ63"
+  },
+  {
+    "category": "TZ64",
+    "displayName": "TZ64"
+  },
+  {
+    "category": "TZ65",
+    "displayName": "TZ65"
+  },
+  {
+    "category": "TZ66",
+    "displayName": "TZ66"
+  },
+  {
+    "category": "TZ67",
+    "displayName": "TZ67"
+  },
+  {
+    "category": "TZ68",
+    "displayName": "TZ68"
+  },
+  {
+    "category": "TZ69",
+    "displayName": "TZ69"
+  },
+  {
+    "category": "TZ7",
+    "displayName": "TZ7"
+  },
+  {
+    "category": "TZ70",
+    "displayName": "TZ70"
+  },
+  {
+    "category": "TZ71",
+    "displayName": "TZ71"
+  },
+  {
+    "category": "TZ15",
+    "displayName": "TZ15"
+  },
+  {
+    "category": "TZ72",
+    "displayName": "TZ72"
+  },
+  {
+    "category": "TZ8",
+    "displayName": "TZ8"
+  },
+  {
+    "category": "TZ9",
+    "displayName": "TZ9"
+  },
+  {
+    "category": "TZ16",
+    "displayName": "TZ16"
+  },
+  {
+    "category": "TZ17",
+    "displayName": "TZ17"
+  }
+]
